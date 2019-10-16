@@ -1,0 +1,442 @@
+,name,age,height,position,current club,19/20 games,19/20 goals,19/20 assists,19/20 minutes
+0,Aymeric Laporte,25,191.0,W,Manchester City,4.0,0.0,0.0,307.0
+1,John Stones,25,188.0,W,Manchester City,2.0,0.0,0.0,180.0
+2,Nicolás Otamendi,31,183.0,W,Manchester City,4.0,0.0,0.0,360.0
+3,Benjamin Mendy,25,185.0,W,Manchester City,,,,
+4,Oleksandr Zinchenko,22,175.0,W,Manchester City,5.0,0.0,0.0,450.0
+5,Angeliño,22,175.0,W,Manchester City,0.0,0.0,0.0,0.0
+6,João Cancelo,25,182.0,W,Manchester City,1.0,0.0,0.0,0.0
+7,Kyle Walker,29,183.0,W,Manchester City,5.0,0.0,1.0,450.0
+8,Rodri,23,191.0,W,Manchester City,5.0,0.0,0.0,380.0
+9,Fernandinho,34,179.0,W,Manchester City,1.0,0.0,0.0,53.0
+10,Ilkay GÃ¼ndogan,28,180.0,W,Manchester City,5.0,0.0,0.0,208.0
+11,Phil Foden,19,171.0,W,Manchester City,2.0,0.0,0.0,11.0
+12,Kevin De Bruyne,28,181.0,W,Manchester City,5.0,1.0,5.0,418.0
+13,David Silva,33,170.0,W,Manchester City,5.0,0.0,5.0,321.0
+14,Raheem Sterling,24,170.0,W,Manchester City,5.0,6.0,0.0,450.0
+15,Leroy Sané,23,184.0,W,Manchester City,1.0,0.0,0.0,13.0
+16,Bernardo Silva,25,173.0,W,Manchester City,4.0,1.0,0.0,261.0
+17,Riyad Mahrez,28,179.0,W,Manchester City,4.0,0.0,3.0,201.0
+18,Gabriel Jesus,22,175.0,CF,Manchester City,3.0,1.0,0.0,170.0
+19,Sergio Agüero,31,173.0,CF,Manchester City,4.0,6.0,1.0,267.0
+20,Virgil van Dijk,28,193.0,W,Liverpool FC,6.0,1.0,1.0,570.0
+21,Joe Gomez,22,188.0,W,Liverpool FC,3.0,0.0,0.0,300.0
+22,Joel Matip,28,195.0,W,Liverpool FC,5.0,2.0,0.0,413.0
+23,Dejan Lovren,30,188.0,W,Liverpool FC,0.0,0.0,0.0,0.0
+24,Andrew Robertson,25,178.0,W,Liverpool FC,6.0,0.0,0.0,540.0
+25,Trent Alexander-Arnold,20,180.0,W,Liverpool FC,6.0,0.0,2.0,457.0
+26,Nathaniel Clyne,28,175.0,W,Liverpool FC,,,,
+27,Fabinho,25,188.0,W,Liverpool FC,6.0,0.0,1.0,473.0
+28,Naby Keïta,24,172.0,W,Liverpool FC,1.0,0.0,0.0,23.0
+29,Georginio Wijnaldum,28,175.0,W,Liverpool FC,6.0,0.0,0.0,485.0
+30,Jordan Henderson,29,187.0,W,Liverpool FC,6.0,0.0,0.0,451.0
+31,Alex Oxlade-Chamberlain,26,175.0,W,Liverpool FC,5.0,0.0,0.0,177.0
+32,James Milner,33,175.0,W,Liverpool FC,4.0,0.0,1.0,163.0
+33,Adam Lallana,31,172.0,W,Liverpool FC,2.0,0.0,0.0,15.0
+34,Sadio Mané,27,174.0,W,Liverpool FC,5.0,4.0,1.0,371.0
+35,Mohamed Salah,27,175.0,W,Liverpool FC,6.0,3.0,2.0,559.0
+36,Xherdan Shaqiri,27,169.0,W,Liverpool FC,2.0,0.0,0.0,16.0
+37,Roberto Firmino,27,181.0,CF,Liverpool FC,6.0,2.0,3.0,500.0
+38,Divock Origi,24,185.0,CF,Liverpool FC,5.0,1.0,1.0,186.0
+39,Davinson SÃ¡nchez,23,187.0,W,Tottenham Hotspur,4.0,0.0,0.0,360.0
+40,Toby Alderweireld,30,186.0,W,Tottenham Hotspur,4.0,0.0,0.0,360.0
+41,Jan Vertonghen,32,189.0,W,Tottenham Hotspur,1.0,0.0,0.0,90.0
+42,Juan Foyth,21,187.0,W,Tottenham Hotspur,,,,
+43,Danny Rose,29,173.0,W,Tottenham Hotspur,4.0,0.0,0.0,358.0
+44,Ben Davies,26,181.0,W,Tottenham Hotspur,1.0,0.0,0.0,2.0
+45,Serge Aurier,26,176.0,W,Tottenham Hotspur,0.0,0.0,0.0,0.0
+46,Kyle Walker-Peters,22,173.0,W,Tottenham Hotspur,3.0,0.0,0.0,242.0
+47,Eric Dier,25,188.0,W,Tottenham Hotspur,0.0,0.0,0.0,0.0
+48,Victor Wanyama,28,184.0,W,Tottenham Hotspur,0.0,0.0,0.0,0.0
+49,Oliver Skipp,18,175.0,W,Tottenham Hotspur,2.0,0.0,0.0,0.0
+50,Tanguy Ndombélé,22,181.0,W,Tottenham Hotspur,2.0,1.0,1.0,180.0
+51,Giovani Lo Celso,23,177.0,W,Tottenham Hotspur,3.0,0.0,0.0,44.0
+52,Harry Winks,23,178.0,W,Tottenham Hotspur,4.0,0.0,0.0,300.0
+53,Moussa Sissoko,30,187.0,W,Tottenham Hotspur,4.0,0.0,1.0,360.0
+54,Ryan Sessegnon,19,178.0,W,Tottenham Hotspur,,,,
+55,Christian Eriksen,27,182.0,W,Tottenham Hotspur,4.0,1.0,0.0,234.0
+56,Dele Alli,23,188.0,W,Tottenham Hotspur,1.0,0.0,0.0,30.0
+57,Heung-min Son,27,184.0,W,Tottenham Hotspur,2.0,0.0,1.0,169.0
+58,Lucas Moura,27,172.0,W,Tottenham Hotspur,3.0,1.0,1.0,214.0
+59,Erik Lamela,27,184.0,W,Tottenham Hotspur,4.0,1.0,1.0,295.0
+60,Harry Kane,26,188.0,CF,Tottenham Hotspur,4.0,3.0,0.0,360.0
+61,Antonio Rüdiger,26,190.0,W,Chelsea FC,2.0,0.0,0.0,180.0
+62,Andreas Christensen,23,188.0,W,Chelsea FC,4.0,0.0,0.0,355.0
+63,Kurt Zouma,24,190.0,W,Chelsea FC,5.0,0.0,0.0,480.0
+64,Fikayo Tomori,21,185.0,W,Chelsea FC,2.0,0.0,0.0,125.0
+65,Michael Hector,27,193.0,W,Chelsea FC,,,,
+66,Marcos Alonso,28,188.0,W,Chelsea FC,1.0,0.0,0.0,0.0
+67,Emerson,25,175.0,W,Chelsea FC,5.0,0.0,0.0,480.0
+68,César Azpilicueta,30,178.0,W,Chelsea FC,5.0,0.0,1.0,480.0
+69,Reece James,19,182.0,W,Chelsea FC,,,,
+70,Jorginho,27,180.0,W,Chelsea FC,5.0,1.0,0.0,444.0
+71,N'Golo Kanté,28,168.0,W,Chelsea FC,3.0,0.0,0.0,227.0
+72,Mateo Kovacic,25,177.0,W,Chelsea FC,5.0,0.0,1.0,384.0
+73,Ross Barkley,25,185.0,W,Chelsea FC,4.0,0.0,0.0,227.0
+74,Ruben Loftus-Cheek,23,191.0,W,Chelsea FC,,,,
+75,Marco van Ginkel,26,186.0,W,Chelsea FC,,,,
+76,Mason Mount,20,178.0,W,Chelsea FC,5.0,2.0,0.0,406.0
+77,Callum Hudson-Odoi,18,177.0,W,Chelsea FC,,,,
+78,Christian Pulisic,20,172.0,W,Chelsea FC,5.0,0.0,2.0,351.0
+79,Willian,31,175.0,W,Chelsea FC,3.0,0.0,0.0,55.0
+80,Pedro,32,167.0,W,Chelsea FC,3.0,0.0,0.0,300.0
+81,Michy Batshuayi,25,184.0,CF,Chelsea FC,2.0,2.0,1.0,96.0
+82,Tammy Abraham,21,190.0,CF,Chelsea FC,5.0,4.0,1.0,300.0
+83,Olivier Giroud,32,193.0,CF,Chelsea FC,4.0,1.0,0.0,174.0
+84,Harry Maguire,26,194.0,W,Manchester United,4.0,0.0,0.0,360.0
+85,Victor Lindelöf,25,187.0,W,Manchester United,4.0,0.0,0.0,360.0
+86,Eric Bailly,25,187.0,W,Manchester United,,,,
+87,Phil Jones,27,185.0,W,Manchester United,,,,
+88,Marcos Rojo,29,186.0,W,Manchester United,0.0,0.0,0.0,0.0
+89,Axel Tuanzebe,21,184.0,W,Manchester United,0.0,0.0,0.0,0.0
+90,Luke Shaw,24,181.0,W,Manchester United,3.0,0.0,0.0,214.0
+91,Ashley Young,34,176.0,W,Manchester United,2.0,0.0,0.0,146.0
+92,Aaron Wan-Bissaka,21,183.0,W,Manchester United,4.0,0.0,0.0,360.0
+93,Diogo Dalot,20,183.0,W,Manchester United,,,,
+94,Timothy Fosu-Mensah,21,190.0,W,Manchester United,,,,
+95,Nemanja Matic,31,194.0,W,Manchester United,1.0,0.0,0.0,22.0
+96,Paul Pogba,26,191.0,W,Manchester United,4.0,0.0,2.0,360.0
+97,Fred,26,169.0,W,Manchester United,,,,
+98,Scott McTominay,22,193.0,W,Manchester United,4.0,0.0,1.0,347.0
+99,Juan Mata,31,170.0,W,Manchester United,4.0,0.0,0.0,86.0
+100,Andreas Pereira,23,178.0,W,Manchester United,3.0,0.0,1.0,143.0
+101,Anthony Martial,23,183.0,W,Manchester United,3.0,2.0,1.0,270.0
+102,Daniel James,21,170.0,W,Manchester United,4.0,3.0,0.0,285.0
+103,Jesse Lingard,26,174.0,W,Manchester United,4.0,0.0,0.0,245.0
+104,Marcus Rashford,21,185.0,CF,Manchester United,4.0,2.0,1.0,355.0
+105,Mason Greenwood,17,181.0,CF,Manchester United,4.0,0.0,0.0,47.0
+106,Shkodran Mustafi,27,184.0,W,Arsenal FC,,,,
+107,Sokratis,31,186.0,W,Arsenal FC,4.0,0.0,0.0,360.0
+108,David Luiz,32,189.0,W,Arsenal FC,3.0,0.0,0.0,270.0
+109,Calum Chambers,24,183.0,W,Arsenal FC,1.0,0.0,0.0,90.0
+110,Rob Holding,23,189.0,W,Arsenal FC,2.0,0.0,0.0,153.0
+111,Konstantinos Mavropanos,21,194.0,W,Arsenal FC,,,,
+112,Sead Kolasinac,26,183.0,W,Arsenal FC,2.0,0.0,0.0,109.0
+113,Kieran Tierney,22,178.0,W,Arsenal FC,,,,
+114,Héctor Bellerín,24,178.0,W,Arsenal FC,,,,
+115,Lucas Torreira,23,166.0,W,Arsenal FC,3.0,1.0,0.0,99.0
+116,Granit Xhaka,26,186.0,W,Arsenal FC,3.0,0.0,0.0,270.0
+117,Mattéo Guendouzi,20,184.0,W,Arsenal FC,4.0,0.0,1.0,356.0
+118,Dani Ceballos,23,179.0,W,Arsenal FC,4.0,0.0,2.0,197.0
+119,Joe Willock,20,179.0,W,Arsenal FC,3.0,0.0,0.0,235.0
+120,Ainsley Maitland-Niles,22,180.0,W,Arsenal FC,4.0,0.0,1.0,360.0
+121,Mesut Özil,30,180.0,W,Arsenal FC,0.0,0.0,0.0,0.0
+122,Gabriel Martinelli,18,180.0,W,Arsenal FC,1.0,0.0,0.0,6.0
+123,Nicolas Pépé,24,183.0,W,Arsenal FC,4.0,0.0,1.0,243.0
+124,Reiss Nelson,19,175.0,W,Arsenal FC,2.0,0.0,0.0,116.0
+125,Alexandre Lacazette,28,176.0,CF,Arsenal FC,3.0,2.0,0.0,147.0
+126,Pierre-Emerick Aubameyang,30,187.0,CF,Arsenal FC,4.0,3.0,0.0,360.0
+127,Michael Keane,26,188.0,W,Everton FC,5.0,0.0,0.0,450.0
+128,Yerry Mina,24,195.0,W,Everton FC,4.0,0.0,0.0,360.0
+129,Mason Holgate,22,187.0,W,Everton FC,3.0,0.0,0.0,124.0
+130,Lucas Digne,26,178.0,W,Everton FC,5.0,1.0,4.0,416.0
+131,Leighton Baines,34,170.0,W,Everton FC,0.0,0.0,0.0,0.0
+132,Djibril Sidibé,27,182.0,W,Everton FC,1.0,0.0,0.0,90.0
+133,Seamus Coleman,30,177.0,W,Everton FC,4.0,0.0,0.0,360.0
+134,Cuco Martina,29,185.0,W,Everton FC,1.0,0.0,0.0,90.0
+135,Jean-Philippe Gbamin,23,186.0,W,Everton FC,2.0,0.0,0.0,135.0
+136,Morgan Schneiderlin,29,186.0,W,Everton FC,3.0,0.0,1.0,256.0
+137,André Gomes,26,188.0,W,Everton FC,4.0,0.0,0.0,315.0
+138,Fabian Delph,29,174.0,W,Everton FC,2.0,0.0,0.0,164.0
+139,Tom Davies,21,180.0,W,Everton FC,1.0,0.0,0.0,11.0
+140,Beni Baningime,20,,W,Everton FC,3.0,0.0,0.0,270.0
+141,Gylfi Sigurdsson,29,186.0,W,Everton FC,5.0,1.0,1.0,411.0
+142,Richarlison,22,179.0,W,Everton FC,5.0,3.0,0.0,384.0
+143,Alex Iwobi,23,183.0,W,Everton FC,3.0,2.0,0.0,186.0
+144,Bernard,26,164.0,W,Everton FC,4.0,2.0,0.0,256.0
+145,Theo Walcott,30,175.0,W,Everton FC,4.0,0.0,0.0,74.0
+146,Moise Kean,19,183.0,CF,Everton FC,6.0,0.0,1.0,235.0
+147,Dominic Calvert-Lewin,22,187.0,CF,Everton FC,5.0,0.0,0.0,243.0
+148,Cenk Tosun,28,183.0,CF,Everton FC,1.0,0.0,1.0,16.0
+149,Oumar Niasse,29,182.0,CF,Everton FC,,,,
+150,Caglar Söyüncü,23,187.0,W,Leicester City,5.0,0.0,1.0,450.0
+151,Filip Benkovic,22,194.0,W,Leicester City,2.0,0.0,0.0,135.0
+152,Jonny Evans,31,188.0,W,Leicester City,5.0,0.0,0.0,393.0
+153,Wes Morgan,35,186.0,W,Leicester City,2.0,0.0,0.0,69.0
+154,Ben Chilwell,22,178.0,W,Leicester City,2.0,0.0,1.0,180.0
+155,Christian Fuchs,33,187.0,W,Leicester City,4.0,0.0,0.0,274.0
+156,Ricardo Pereira,25,175.0,W,Leicester City,5.0,0.0,0.0,450.0
+157,James Justin,21,183.0,W,Leicester City,0.0,0.0,0.0,0.0
+158,Wilfred Ndidi,22,183.0,W,Leicester City,3.0,1.0,0.0,270.0
+159,Nampalys Mendy,27,167.0,W,Leicester City,1.0,0.0,0.0,1.0
+160,Daniel Amartey,24,186.0,W,Leicester City,,,,
+161,Hamza Choudhury,21,178.0,W,Leicester City,5.0,0.0,0.0,288.0
+162,Youri Tielemans,22,176.0,W,Leicester City,5.0,1.0,1.0,449.0
+163,Dennis Praet,25,181.0,W,Leicester City,3.0,0.0,0.0,126.0
+164,Matty James,28,181.0,W,Leicester City,,,,
+165,Marc Albrighton,29,175.0,W,Leicester City,3.0,0.0,0.0,88.0
+166,James Maddison,22,175.0,W,Leicester City,5.0,1.0,2.0,446.0
+167,Harvey Barnes,21,180.0,W,Leicester City,4.0,1.0,0.0,215.0
+168,Bartosz Kapustka,22,179.0,W,Leicester City,,,,
+169,Demarai Gray,23,180.0,W,Leicester City,1.0,0.0,0.0,26.0
+170,Fousseni Diabaté,23,175.0,W,Leicester City,,,,
+171,George Thomas,22,173.0,W,Leicester City,4.0,0.0,0.0,360.0
+172,Ayoze Pérez,26,178.0,W,Leicester City,4.0,0.0,0.0,324.0
+173,Jamie Vardy,32,179.0,CF,Leicester City,5.0,3.0,1.0,450.0
+174,Kelechi Iheanacho,22,185.0,CF,Leicester City,0.0,0.0,0.0,0.0
+175,Issa Diop,22,194.0,W,West Ham United,5.0,0.0,0.0,450.0
+176,Fabián Balbuena,28,188.0,W,West Ham United,2.0,0.0,0.0,180.0
+177,Angelo Ogbonna,31,191.0,W,West Ham United,3.0,0.0,0.0,270.0
+178,Winston Reid,31,191.0,W,West Ham United,,,,
+179,Gonçalo Cardoso,18,189.0,W,West Ham United,2.0,0.0,0.0,180.0
+180,Aaron Cresswell,29,170.0,W,West Ham United,2.0,0.0,0.0,180.0
+181,Arthur Masuaku,25,179.0,W,West Ham United,3.0,0.0,1.0,270.0
+182,Ryan Fredericks,26,181.0,W,West Ham United,4.0,0.0,0.0,360.0
+183,Pablo Zabaleta,34,176.0,W,West Ham United,1.0,0.0,0.0,90.0
+184,Declan Rice,20,185.0,W,West Ham United,4.0,0.0,0.0,360.0
+185,Carlos Sánchez,33,182.0,W,West Ham United,4.0,0.0,0.0,104.0
+186,Jack Wilshere,27,172.0,W,West Ham United,3.0,1.0,0.0,183.0
+187,Mark Noble,32,180.0,W,West Ham United,2.0,1.0,0.0,175.0
+188,Pablo Fornals,23,178.0,W,West Ham United,5.0,1.0,0.0,225.0
+189,Manuel Lanzini,26,167.0,W,West Ham United,4.0,0.0,2.0,358.0
+190,Felipe Anderson,26,175.0,W,West Ham United,4.0,0.0,2.0,314.0
+191,Andrii Yarmolenko,29,190.0,W,West Ham United,3.0,1.0,0.0,139.0
+192,Michail Antonio,29,180.0,W,West Ham United,4.0,0.0,0.0,132.0
+193,Robert Snodgrass,31,182.0,W,West Ham United,4.0,0.0,0.0,233.0
+194,Sébastien Haller,25,190.0,CF,West Ham United,3.0,3.0,0.0,270.0
+195,Albian Ajeti,22,183.0,CF,West Ham United,4.0,2.0,2.0,359.0
+196,Nathan Aké,24,180.0,W,AFC Bournemouth,4.0,0.0,0.0,360.0
+197,Chris Mepham,21,191.0,W,AFC Bournemouth,4.0,1.0,0.0,360.0
+198,Steve Cook,28,185.0,W,AFC Bournemouth,4.0,0.0,0.0,360.0
+199,Jack Simpson,22,,W,AFC Bournemouth,1.0,0.0,0.0,90.0
+200,Diego Rico,26,183.0,W,AFC Bournemouth,2.0,0.0,0.0,180.0
+201,Lloyd Kelly,20,190.0,W,AFC Bournemouth,,,,
+202,Charlie Daniels,32,178.0,W,AFC Bournemouth,2.0,0.0,0.0,127.0
+203,Adam Smith,28,174.0,W,AFC Bournemouth,4.0,0.0,0.0,313.0
+204,Jack Stacey,23,180.0,W,AFC Bournemouth,1.0,0.0,0.0,90.0
+205,Simon Francis,34,191.0,W,AFC Bournemouth,,,,
+206,Jefferson Lerma,24,179.0,W,AFC Bournemouth,4.0,0.0,0.0,360.0
+207,Lewis Cook,22,175.0,W,AFC Bournemouth,,,,
+208,Philip Billing,23,192.0,W,AFC Bournemouth,5.0,0.0,0.0,321.0
+209,Dan Gosling,29,180.0,W,AFC Bournemouth,,,,
+210,Andrew Surman,33,178.0,W,AFC Bournemouth,3.0,0.0,0.0,145.0
+211,David Brooks,22,173.0,W,AFC Bournemouth,,,,
+212,Ryan Fraser,25,163.0,W,AFC Bournemouth,5.0,0.0,1.0,389.0
+213,Arnaut Danjuma,22,178.0,W,AFC Bournemouth,1.0,0.0,0.0,87.0
+214,Junior Stanislas,29,183.0,W,AFC Bournemouth,,,,
+215,Harry Wilson,22,173.0,W,AFC Bournemouth,4.0,2.0,0.0,253.0
+216,Jordon Ibe,23,176.0,W,AFC Bournemouth,3.0,0.0,0.0,137.0
+217,Joshua King,27,181.0,W,AFC Bournemouth,5.0,1.0,0.0,379.0
+218,Callum Wilson,27,180.0,CF,AFC Bournemouth,5.0,1.0,1.0,400.0
+219,Dominic Solanke,21,186.0,CF,AFC Bournemouth,5.0,0.0,0.0,151.0
+220,Willy Boly,28,195.0,W,Wolverhampton Wanderers,9.0,0.0,1.0,810.0
+221,Jesús Vallejo,22,184.0,W,Wolverhampton Wanderers,3.0,0.0,0.0,270.0
+222,Conor Coady,26,185.0,W,Wolverhampton Wanderers,10.0,0.0,0.0,900.0
+223,Ryan Bennett,29,188.0,W,Wolverhampton Wanderers,7.0,1.0,0.0,630.0
+224,Max Kilman,22,192.0,W,Wolverhampton Wanderers,2.0,0.0,0.0,180.0
+225,Jonny Otto,25,175.0,W,Wolverhampton Wanderers,8.0,0.0,0.0,567.0
+226,Rúben Vinagre,20,174.0,W,Wolverhampton Wanderers,6.0,2.0,0.0,408.0
+227,Sylvain Deslandes,22,190.0,W,Wolverhampton Wanderers,,,,
+228,Matt Doherty,27,186.0,W,Wolverhampton Wanderers,4.0,1.0,0.0,274.0
+229,Phil Ofosu-Ayeh,27,181.0,W,Wolverhampton Wanderers,,,,
+230,Rúben Neves,22,180.0,W,Wolverhampton Wanderers,8.0,2.0,0.0,490.0
+231,Leander Dendoncker,24,188.0,W,Wolverhampton Wanderers,10.0,1.0,0.0,789.0
+232,Romain Saïss,29,188.0,W,Wolverhampton Wanderers,8.0,1.0,0.0,456.0
+233,João Moutinho,32,170.0,W,Wolverhampton Wanderers,10.0,0.0,5.0,772.0
+234,Morgan Gibbs-White,19,171.0,W,Wolverhampton Wanderers,4.0,1.0,0.0,275.0
+235,Bruno Jordão,20,180.0,W,Wolverhampton Wanderers,3.0,0.0,0.0,207.0
+236,Ming-Yang Yang,24,172.0,W,Wolverhampton Wanderers,,,,
+237,Diogo Jota,22,178.0,W,Wolverhampton Wanderers,10.0,3.0,5.0,663.0
+238,Jordan Graham,24,182.0,W,Wolverhampton Wanderers,,,,
+239,Adama Traoré,23,178.0,W,Wolverhampton Wanderers,8.0,0.0,3.0,572.0
+240,Pedro Neto,19,172.0,W,Wolverhampton Wanderers,6.0,1.0,1.0,126.0
+241,RaÃºl JimÃ©nez,28,188.0,CF,Wolverhampton Wanderers,10.0,8.0,1.0,703.0
+242,Patrick Cutrone,21,183.0,CF,Wolverhampton Wanderers,7.0,0.0,3.0,204.0
+243,Jamaal Lascelles,25,188.0,W,Newcastle United,4.0,0.0,0.0,352.0
+244,Fabian Schär,27,186.0,W,Newcastle United,5.0,1.0,0.0,445.0
+245,Florian Lejeune,28,190.0,W,Newcastle United,,,,
+246,Federico Fernández,30,190.0,W,Newcastle United,3.0,0.0,0.0,103.0
+247,Ciaran Clark,29,188.0,W,Newcastle United,1.0,0.0,0.0,90.0
+248,Paul Dummett,27,183.0,W,Newcastle United,5.0,0.0,0.0,372.0
+249,Jetro Willems,25,169.0,W,Newcastle United,3.0,0.0,1.0,204.0
+250,DeAndre Yedlin,26,173.0,W,Newcastle United,,,,
+251,Javier Manquillo,25,178.0,W,Newcastle United,3.0,0.0,0.0,142.0
+252,Emil Krafth,25,184.0,W,Newcastle United,4.0,0.0,0.0,308.0
+253,Jamie Sterry,23,180.0,W,Newcastle United,3.0,1.0,0.0,270.0
+254,Isaac Hayden,24,186.0,W,Newcastle United,5.0,0.0,1.0,450.0
+255,Sung-yong Ki,30,190.0,W,Newcastle United,1.0,0.0,0.0,74.0
+256,Jack Colback,29,177.0,W,Newcastle United,,,,
+257,Jonjo Shelvey,27,184.0,W,Newcastle United,3.0,1.0,0.0,234.0
+258,Sean Longstaff,21,181.0,W,Newcastle United,4.0,0.0,1.0,263.0
+259,Matt Ritchie,29,173.0,W,Newcastle United,4.0,0.0,0.0,315.0
+260,Miguel Almirón,25,174.0,W,Newcastle United,4.0,0.0,0.0,360.0
+261,Henri Saivet,28,175.0,W,Newcastle United,,,,
+262,Christian Atsu,27,165.0,W,Newcastle United,3.0,0.0,1.0,200.0
+263,Allan Saint-Maximin,22,173.0,W,Newcastle United,2.0,0.0,0.0,40.0
+264,Joelinton,23,186.0,CF,Newcastle United,4.0,1.0,0.0,335.0
+265,Dwight Gayle,28,177.0,CF,Newcastle United,,,,
+266,Yoshinori Muto,27,178.0,CF,Newcastle United,4.0,1.0,0.0,123.0
+267,Andy Carroll,30,193.0,CF,Newcastle United,,,,
+268,Christian Kabasele,28,187.0,W,Watford FC,2.0,0.0,1.0,180.0
+269,Craig Dawson,29,188.0,W,Watford FC,4.0,0.0,0.0,360.0
+270,Craig Cathcart,30,189.0,W,Watford FC,4.0,0.0,0.0,360.0
+271,Sebastian Prödl,32,194.0,W,Watford FC,0.0,0.0,0.0,0.0
+272,Adrian Mariappa,32,179.0,W,Watford FC,1.0,0.0,0.0,90.0
+273,Adam Masina,25,191.0,W,Watford FC,0.0,0.0,0.0,0.0
+274,Marvin Zeegelaar,29,186.0,W,Watford FC,,,,
+275,José Holebas,35,184.0,W,Watford FC,3.0,0.0,0.0,270.0
+276,Daryl Janmaat,30,185.0,W,Watford FC,2.0,1.0,0.0,180.0
+277,Kiko Femenía,28,171.0,W,Watford FC,4.0,0.0,0.0,360.0
+278,Dimitri Foulquier,26,183.0,W,Watford FC,1.0,0.0,0.0,90.0
+279,Étienne Capoue,31,189.0,W,Watford FC,3.0,0.0,0.0,263.0
+280,Nathaniel Chalobah,24,185.0,W,Watford FC,2.0,0.0,0.0,109.0
+281,Abdoulaye Doucouré,26,183.0,W,Watford FC,4.0,0.0,0.0,341.0
+282,Will Hughes,24,185.0,W,Watford FC,4.0,1.0,1.0,302.0
+283,Tom Cleverley,30,175.0,W,Watford FC,3.0,0.0,0.0,187.0
+284,Domingos Quina,19,173.0,W,Watford FC,2.0,0.0,0.0,94.0
+285,Tom Dele-Bashiru,19,179.0,W,Watford FC,1.0,0.0,0.0,18.0
+286,Roberto Pereyra,28,182.0,W,Watford FC,4.0,0.0,0.0,288.0
+287,Isaac Success,23,182.0,W,Watford FC,3.0,0.0,2.0,124.0
+288,Ismaïla Sarr,21,185.0,W,Watford FC,2.0,1.0,0.0,88.0
+289,Gerard Deulofeu,25,177.0,W,Watford FC,4.0,0.0,0.0,206.0
+290,Andre Gray,28,178.0,CF,Watford FC,4.0,1.0,0.0,254.0
+291,Danny Welbeck,28,185.0,CF,Watford FC,3.0,0.0,0.0,129.0
+292,Troy Deeney,31,184.0,CF,Watford FC,2.0,0.0,0.0,180.0
+293,Filip Stuparevic,19,184.0,CF,Watford FC,,,,
+294,Jannik Vestergaard,27,199.0,W,Southampton FC,4.0,1.0,0.0,360.0
+295,Jan Bednarek,23,189.0,W,Southampton FC,5.0,0.0,0.0,420.0
+296,Jack Stephens,25,185.0,W,Southampton FC,1.0,0.0,0.0,73.0
+297,Kevin Danso,20,190.0,W,Southampton FC,3.0,0.0,1.0,253.0
+298,Maya Yoshida,31,189.0,W,Southampton FC,3.0,0.0,0.0,133.0
+299,Ryan Bertrand,30,179.0,W,Southampton FC,2.0,0.0,0.0,167.0
+300,Sam McQueen,24,181.0,W,Southampton FC,,,,
+301,Cédric Soares,28,171.0,W,Southampton FC,2.0,0.0,0.0,180.0
+302,Yan Valery,20,180.0,W,Southampton FC,3.0,0.0,0.0,234.0
+303,Oriol Romeu,27,183.0,W,Southampton FC,5.0,0.0,0.0,424.0
+304,James Ward-Prowse,24,177.0,W,Southampton FC,5.0,0.0,0.0,450.0
+305,Pierre-Emile Höjbjerg,24,185.0,W,Southampton FC,5.0,0.0,0.0,377.0
+306,Stuart Armstrong,27,183.0,W,Southampton FC,3.0,0.0,0.0,47.0
+307,Nathan Redmond,25,173.0,W,Southampton FC,4.0,1.0,1.0,346.0
+308,Moussa Djenepo,21,177.0,W,Southampton FC,3.0,1.0,0.0,139.0
+309,Sofiane Boufal,25,175.0,W,Southampton FC,4.0,0.0,1.0,188.0
+310,Danny Ings,27,178.0,CF,Southampton FC,5.0,1.0,1.0,275.0
+311,Shane Long,32,180.0,CF,Southampton FC,2.0,0.0,0.0,42.0
+312,Che Adams,23,179.0,CF,Southampton FC,4.0,0.0,0.0,283.0
+313,Michael Obafemi,19,170.0,CF,Southampton FC,2.0,1.0,0.0,92.0
+314,Mamadou Sakho,29,187.0,W,Crystal Palace,1.0,0.0,0.0,10.0
+315,James Tomkins,30,192.0,W,Crystal Palace,,,,
+316,Gary Cahill,33,193.0,W,Crystal Palace,3.0,0.0,0.0,224.0
+317,Jairo Riedewald,22,182.0,W,Crystal Palace,1.0,0.0,0.0,90.0
+318,Scott Dann,32,194.0,W,Crystal Palace,3.0,0.0,0.0,270.0
+319,Martin Kelly,29,191.0,W,Crystal Palace,5.0,0.0,0.0,395.0
+320,Patrick van Aanholt,29,176.0,W,Crystal Palace,4.0,1.0,0.0,360.0
+321,Joel Ward,29,186.0,W,Crystal Palace,4.0,0.0,0.0,360.0
+322,Luka Milivojevic,28,186.0,W,Crystal Palace,4.0,0.0,0.0,360.0
+323,Cheikhou KouyatÃ©,29,189.0,W,Crystal Palace,2.0,0.0,0.0,173.0
+324,Víctor Camarasa,25,183.0,W,Crystal Palace,1.0,0.0,0.0,90.0
+325,James McArthur,31,178.0,W,Crystal Palace,4.0,0.0,0.0,344.0
+326,James McCarthy,28,180.0,W,Crystal Palace,4.0,0.0,0.0,137.0
+327,Jeffrey Schlupp,26,178.0,W,Crystal Palace,4.0,0.0,2.0,214.0
+328,Max Meyer,23,173.0,W,Crystal Palace,3.0,0.0,0.0,203.0
+329,Wilfried Zaha,26,180.0,W,Crystal Palace,5.0,0.0,0.0,322.0
+330,Andros Townsend,28,181.0,W,Crystal Palace,5.0,0.0,0.0,246.0
+331,Christian Benteke,28,190.0,CF,Crystal Palace,5.0,0.0,0.0,281.0
+332,Jordan Ayew,27,182.0,CF,Crystal Palace,4.0,2.0,0.0,244.0
+333,Connor Wickham,26,189.0,CF,Crystal Palace,4.0,0.0,0.0,86.0
+334,James Tarkowski,26,185.0,W,Burnley FC,4.0,0.0,0.0,360.0
+335,Ben Mee,29,180.0,W,Burnley FC,4.0,0.0,0.0,360.0
+336,Ben Gibson,26,185.0,W,Burnley FC,1.0,0.0,0.0,90.0
+337,Kevin Long,29,188.0,W,Burnley FC,1.0,0.0,0.0,90.0
+338,Charlie Taylor,25,176.0,W,Burnley FC,1.0,0.0,0.0,90.0
+339,Erik Pieters,31,183.0,W,Burnley FC,4.0,0.0,2.0,360.0
+340,Matthew Lowton,30,180.0,W,Burnley FC,5.0,0.0,0.0,372.0
+341,Phil Bardsley,34,180.0,W,Burnley FC,1.0,0.0,0.0,78.0
+342,Jack Cork,30,185.0,W,Burnley FC,4.0,0.0,0.0,360.0
+343,Ashley Westwood,29,174.0,W,Burnley FC,4.0,0.0,0.0,360.0
+344,Jeff Hendrick,27,185.0,W,Burnley FC,2.0,0.0,0.0,94.0
+345,Danny Drinkwater,29,177.0,W,Burnley FC,1.0,0.0,0.0,90.0
+346,Robbie Brady,27,176.0,W,Burnley FC,,,,
+347,Dwight McNeil,19,183.0,W,Burnley FC,5.0,0.0,1.0,440.0
+348,Johann Berg Gudmundsson,28,186.0,W,Burnley FC,3.0,1.0,0.0,228.0
+349,Aaron Lennon,32,165.0,W,Burnley FC,5.0,0.0,0.0,207.0
+350,Chris Wood,27,191.0,CF,Burnley FC,5.0,0.0,0.0,352.0
+351,Ashley Barnes,29,186.0,CF,Burnley FC,4.0,4.0,0.0,325.0
+352,Jay Rodríguez,30,185.0,CF,Burnley FC,5.0,1.0,0.0,154.0
+353,Matej Vydra,27,180.0,CF,Burnley FC,1.0,0.0,1.0,90.0
+354,Shane Duffy,27,193.0,W,Brighton & Hove Albion,3.0,0.0,0.0,270.0
+355,Lewis Dunk,27,192.0,W,Brighton & Hove Albion,4.0,0.0,1.0,360.0
+356,Adam Webster,24,190.0,W,Brighton & Hove Albion,2.0,0.0,0.0,180.0
+357,Dan Burn,27,201.0,W,Brighton & Hove Albion,4.0,0.0,0.0,360.0
+358,Leon Balogun,31,190.0,W,Brighton & Hove Albion,1.0,0.0,0.0,90.0
+359,Bernardo,24,186.0,W,Brighton & Hove Albion,3.0,0.0,0.0,157.0
+360,Gaëtan Bong,31,183.0,W,Brighton & Hove Albion,1.0,0.0,0.0,90.0
+361,Martín Montoya,28,175.0,W,Brighton & Hove Albion,4.0,0.0,0.0,360.0
+362,Ezequiel Schelotto,30,187.0,W,Brighton & Hove Albion,,,,
+363,Tudor Baluta,20,191.0,W,Brighton & Hove Albion,1.0,0.0,0.0,60.0
+364,Yves Bissouma,23,182.0,W,Brighton & Hove Albion,,,,
+365,Davy Pröpper,28,185.0,W,Brighton & Hove Albion,4.0,0.0,1.0,360.0
+366,Aaron Mooy,28,179.0,W,Brighton & Hove Albion,3.0,0.0,0.0,185.0
+367,Pascal Groß,28,181.0,W,Brighton & Hove Albion,5.0,0.0,1.0,275.0
+368,Dale Stephens,29,185.0,W,Brighton & Hove Albion,4.0,0.0,0.0,348.0
+369,Solly March,25,180.0,W,Brighton & Hove Albion,4.0,0.0,0.0,338.0
+370,Leandro Trossard,24,172.0,W,Brighton & Hove Albion,3.0,1.0,0.0,249.0
+371,José Izquierdo,27,171.0,W,Brighton & Hove Albion,,,,
+372,Alireza Jahanbakhsh,26,180.0,W,Brighton & Hove Albion,1.0,0.0,0.0,90.0
+373,Neal Maupay,23,173.0,CF,Brighton & Hove Albion,4.0,1.0,0.0,190.0
+374,Glenn Murray,35,186.0,CF,Brighton & Hove Albion,5.0,1.0,0.0,267.0
+375,James Chester,30,177.0,W,Aston Villa,,,,
+376,BjÃ¶rn Engels,24,194.0,W,Aston Villa,4.0,0.0,0.0,360.0
+377,Tyrone Mings,26,195.0,W,Aston Villa,4.0,0.0,1.0,360.0
+378,Ezri Konsa,21,183.0,W,Aston Villa,1.0,1.0,0.0,90.0
+379,Kortney Hause,24,191.0,W,Aston Villa,1.0,0.0,0.0,90.0
+380,Matt Targett,23,183.0,W,Aston Villa,1.0,0.0,0.0,43.0
+381,Neil Taylor,30,176.0,W,Aston Villa,4.0,0.0,0.0,360.0
+382,Frédéric Guilbert,24,178.0,W,Aston Villa,3.0,1.0,0.0,227.0
+383,Ahmed Elmohamady,31,182.0,W,Aston Villa,4.0,0.0,0.0,274.0
+384,Marvelous Nakamba,25,177.0,W,Aston Villa,1.0,0.0,0.0,90.0
+385,John McGinn,24,178.0,W,Aston Villa,4.0,1.0,1.0,360.0
+386,Conor Hourihane,28,181.0,W,Aston Villa,3.0,2.0,0.0,191.0
+387,Douglas Luiz,21,178.0,W,Aston Villa,4.0,1.0,0.0,259.0
+388,Henri Lansbury,28,183.0,W,Aston Villa,2.0,0.0,3.0,95.0
+389,Jack Grealish,23,175.0,W,Aston Villa,5.0,1.0,2.0,382.0
+390,Trezeguet,24,179.0,W,Aston Villa,4.0,0.0,0.0,286.0
+391,Anwar El Ghazi,24,189.0,W,Aston Villa,4.0,1.0,1.0,268.0
+392,Jota,28,180.0,W,Aston Villa,5.0,0.0,1.0,251.0
+393,Wesley,22,191.0,CF,Aston Villa,4.0,1.0,0.0,339.0
+394,Jonathan Kodjia,29,189.0,CF,Aston Villa,1.0,0.0,0.0,16.0
+395,Keinan Davis,21,178.0,CF,Aston Villa,3.0,1.0,0.0,115.0
+396,Ben Godfrey,21,183.0,W,Norwich City,5.0,0.0,0.0,423.0
+397,Christoph Zimmermann,26,194.0,W,Norwich City,2.0,0.0,0.0,92.0
+398,Grant Hanley,27,188.0,W,Norwich City,3.0,0.0,0.0,270.0
+399,Timm Klose,31,195.0,W,Norwich City,1.0,0.0,0.0,27.0
+400,Jamal Lewis,21,,W,Norwich City,4.0,0.0,0.0,360.0
+401,Philip Heise,28,184.0,W,Norwich City,1.0,0.0,0.0,90.0
+402,Max Aarons,19,178.0,W,Norwich City,5.0,0.0,0.0,364.0
+403,Sam Byram,25,183.0,W,Norwich City,2.0,0.0,0.0,86.0
+404,Ibrahim Amadou,26,183.0,W,Norwich City,2.0,0.0,0.0,143.0
+405,Tom Trybull,26,181.0,W,Norwich City,4.0,0.0,0.0,328.0
+406,Alexander Tettey,33,181.0,W,Norwich City,1.0,0.0,0.0,3.0
+407,Mario Vrancic,30,187.0,W,Norwich City,3.0,0.0,0.0,105.0
+408,Moritz Leitner,26,174.0,W,Norwich City,4.0,0.0,0.0,293.0
+409,Kenny McLean,27,180.0,W,Norwich City,4.0,0.0,0.0,201.0
+410,Todd Cantwell,21,177.0,W,Norwich City,4.0,1.0,2.0,348.0
+411,Marco Stiepermann,28,190.0,W,Norwich City,4.0,0.0,0.0,301.0
+412,Onel Hernández,26,172.0,W,Norwich City,1.0,0.0,0.0,20.0
+413,Emiliano Buendía,22,172.0,W,Norwich City,5.0,0.0,2.0,395.0
+414,Patrick Roberts,22,167.0,W,Norwich City,1.0,0.0,0.0,90.0
+415,Teemu Pukki,29,180.0,CF,Norwich City,4.0,5.0,1.0,353.0
+416,Josip Drmic,27,184.0,CF,Norwich City,2.0,0.0,0.0,19.0
+417,Dennis Srbeny,25,190.0,CF,Norwich City,2.0,0.0,0.0,99.0
+418,Jack O'Connell,25,191.0,W,Sheffield United,4.0,0.0,0.0,360.0
+419,John Egan,26,185.0,W,Sheffield United,4.0,0.0,0.0,360.0
+420,Chris Basham,31,190.0,W,Sheffield United,4.0,0.0,0.0,334.0
+421,Phil Jagielka,37,180.0,W,Sheffield United,3.0,0.0,0.0,92.0
+422,Richard Stearman,32,191.0,W,Sheffield United,1.0,1.0,0.0,90.0
+423,Kean Bryan,22,185.0,W,Sheffield United,1.0,0.0,0.0,24.0
+424,Enda Stevens,29,183.0,W,Sheffield United,5.0,0.0,1.0,426.0
+425,Kieron Freeman,27,178.0,W,Sheffield United,1.0,0.0,0.0,90.0
+426,George Baldock,26,178.0,W,Sheffield United,4.0,0.0,1.0,360.0
+427,Muhamed Besic,26,180.0,W,Sheffield United,1.0,0.0,0.0,90.0
+428,John Fleck,28,169.0,W,Sheffield United,2.0,0.0,0.0,58.0
+429,Oliver Norwood,28,175.0,W,Sheffield United,5.0,1.0,0.0,426.0
+430,John Lundstram,25,181.0,W,Sheffield United,4.0,2.0,0.0,348.0
+431,Ben Osborn,25,176.0,W,Sheffield United,2.0,0.0,0.0,96.0
+432,Luke Freeman,27,176.0,W,Sheffield United,6.0,0.0,0.0,347.0
+433,Ravel Morrison,26,175.0,W,Sheffield United,2.0,0.0,1.0,102.0
+434,Callum Robinson,24,178.0,W,Sheffield United,4.0,1.0,0.0,256.0
+435,Ricky Holmes,32,188.0,W,Sheffield United,,,,
+436,Oliver McBurnie,23,188.0,CF,Sheffield United,6.0,1.0,0.0,239.0
+437,Lys Mousset,23,184.0,CF,Sheffield United,2.0,0.0,0.0,35.0
+438,Billy Sharp,33,175.0,CF,Sheffield United,3.0,1.0,0.0,134.0
+439,David McGoldrick,31,184.0,CF,Sheffield United,4.0,0.0,0.0,232.0
+440,Leon Clarke,34,188.0,CF,Sheffield United,,,,

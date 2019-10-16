@@ -1,0 +1,501 @@
+,name,age,height,position,current club,15/16 date,15/16 left,15/16 joined,15/16 mv
+0,Ederson,26,188.0,W,Manchester City,"Jul 1, 2015",Rio Ave FC,Benfica,"1,20 mil. €"
+1,Claudio Bravo,36,184.0,W,Manchester City,,,,
+2,Scott Carson,34,188.0,W,Manchester City,"Jul 1, 2015",Wigan,Derby,"2,00 mil. €"
+3,Aymeric Laporte,25,191.0,W,Manchester City,,,,
+4,John Stones,25,188.0,W,Manchester City,,,,
+5,Nicolás Otamendi,31,183.0,W,Manchester City,"Aug 20, 2015",Valencia,Man City,"25,00 mil. €"
+6,Benjamin Mendy,25,185.0,W,Manchester City,,,,
+7,Oleksandr Zinchenko,22,175.0,W,Manchester City,,,,
+8,Angeliño,22,175.0,W,Manchester City,"Oct 31, 2015Jul 8, 2015",NYCFCMan City U21,Man City U21NYCFC,
+9,João Cancelo,25,182.0,W,Manchester City,"Jul 1, 2015",Benfica,Valencia,"5,00 mil. €"
+10,Kyle Walker,29,183.0,W,Manchester City,,,,
+11,Rodri,23,191.0,W,Manchester City,"Jul 1, 2015",Villarreal U19,Villarreal CF B,0
+12,Fernandinho,34,179.0,W,Manchester City,,,,
+13,Ilkay GÃ¼ndogan,28,180.0,W,Manchester City,,,,
+14,Phil Foden,19,171.0,W,Manchester City,,,,
+15,Kevin De Bruyne,28,181.0,W,Manchester City,"Aug 30, 2015",VfL Wolfsburg,Man City,"45,00 mil. €"
+16,David Silva,33,170.0,W,Manchester City,,,,
+17,Raheem Sterling,24,170.0,W,Manchester City,"Jul 14, 2015",Liverpool,Man City,"40,00 mil. €"
+18,Leroy Sané,23,184.0,W,Manchester City,"Jul 1, 2015",Schalke 04 U19,FC Schalke 04,"4,00 mil. €"
+19,Bernardo Silva,25,173.0,W,Manchester City,,,,
+20,Riyad Mahrez,28,179.0,W,Manchester City,,,,
+21,Gabriel Jesus,22,175.0,CF,Manchester City,,,,
+22,Sergio Agüero,31,173.0,CF,Manchester City,,,,
+23,Alisson,26,191.0,W,Liverpool FC,,,,
+24,Adrián,32,190.0,W,Liverpool FC,,,,
+25,Andy Lonergan,35,193.0,W,Liverpool FC,"Jul 1, 2015",Bolton,Fulham,500 thousand €
+26,Virgil van Dijk,28,193.0,W,Liverpool FC,"Sep 1, 2015",Celtic,Southampton,"5,00 mil. €"
+27,Joe Gomez,22,188.0,W,Liverpool FC,"Jul 1, 2015",Charlton,Liverpool,"2,50 mil. €"
+28,Joel Matip,28,195.0,W,Liverpool FC,,,,
+29,Dejan Lovren,30,188.0,W,Liverpool FC,,,,
+30,Andrew Robertson,25,178.0,W,Liverpool FC,,,,
+31,Trent Alexander-Arnold,20,180.0,W,Liverpool FC,,,,0.0
+32,Nathaniel Clyne,28,175.0,W,Liverpool FC,"Jul 1, 2015",Southampton,Liverpool,"17,00 mil. €"
+33,Fabinho,25,188.0,W,Liverpool FC,"Jul 1, 2015",Rio Ave FC,Monaco,
+34,Georginio Wijnaldum,28,175.0,W,Liverpool FC,"Jul 11, 2015",PSV Eindhoven,Newcastle,"15,00 mil. €"
+35,Naby Keïta,24,172.0,W,Liverpool FC,,,,
+36,Jordan Henderson,29,187.0,W,Liverpool FC,,,,
+37,Alex Oxlade-Chamberlain,26,175.0,W,Liverpool FC,,,,
+38,James Milner,33,175.0,W,Liverpool FC,"Jul 1, 2015",Man City,Liverpool,"14,00 mil. €"
+39,Adam Lallana,31,172.0,W,Liverpool FC,,,,
+40,Sadio Mané,27,174.0,W,Liverpool FC,,,,
+41,Mohamed Salah,27,175.0,W,Liverpool FC,"Jun 30, 2016Aug 6, 2015",AS RomaChelsea,ChelseaAS Roma,"23,00 mil. €18,00 mil. €"
+42,Xherdan Shaqiri,27,169.0,W,Liverpool FC,"Aug 11, 2015Jul 1, 2015",InterBayern Munich,Stoke CityInter,"17,00 mil. €17,00 mil. €"
+43,Roberto Firmino,27,181.0,CF,Liverpool FC,"Jul 1, 2015",TSG Hoffenheim,Liverpool,"25,00 mil. €"
+44,Divock Origi,24,185.0,CF,Liverpool FC,,,,
+45,Hugo Lloris,32,188.0,W,Tottenham Hotspur,,,,
+46,Paulo Gazzaniga,27,195.0,W,Tottenham Hotspur,,,,
+47,Davinson SÃ¡nchez,23,187.0,W,Tottenham Hotspur,,,,
+48,Toby Alderweireld,30,186.0,W,Tottenham Hotspur,"Jul 8, 2015",Atlético Madrid,Spurs,
+49,Jan Vertonghen,32,189.0,W,Tottenham Hotspur,,,,
+50,Juan Foyth,21,187.0,W,Tottenham Hotspur,,,,
+51,Danny Rose,29,173.0,W,Tottenham Hotspur,,,,
+52,Ben Davies,26,181.0,W,Tottenham Hotspur,,,,
+53,Serge Aurier,26,176.0,W,Tottenham Hotspur,"Jul 1, 2015",Toulouse,Paris SG,"10,00 mil. €"
+54,Kyle Walker-Peters,22,173.0,W,Tottenham Hotspur,,,,
+55,Eric Dier,25,188.0,W,Tottenham Hotspur,,,,
+56,Victor Wanyama,28,184.0,W,Tottenham Hotspur,,,,
+57,Oliver Skipp,19,175.0,W,Tottenham Hotspur,,,,
+58,Tanguy Ndombélé,22,181.0,W,Tottenham Hotspur,,,,
+59,Giovani Lo Celso,23,177.0,W,Tottenham Hotspur,"Jul 1, 2015",CA Rosario U19,CA Rosario,0
+60,Harry Winks,23,178.0,W,Tottenham Hotspur,,,,
+61,Moussa Sissoko,30,187.0,W,Tottenham Hotspur,,,,
+62,Ryan Sessegnon,19,178.0,W,Tottenham Hotspur,"Jul 1, 2015",Fulham Youth,Fulham U18,0
+63,Christian Eriksen,27,182.0,W,Tottenham Hotspur,,,,
+64,Dele Alli,23,188.0,W,Tottenham Hotspur,,,,
+65,Heung-min Son,27,184.0,W,Tottenham Hotspur,"Aug 28, 2015",Bay. Leverkusen,Spurs,"16,00 mil. €"
+66,Lucas Moura,27,172.0,W,Tottenham Hotspur,,,,
+67,Erik Lamela,27,184.0,W,Tottenham Hotspur,,,,
+68,Harry Kane,26,188.0,CF,Tottenham Hotspur,,,,
+69,Kepa,24,186.0,W,Chelsea FC,"Jun 30, 2016Jul 20, 2015",Real ValladolidAthletic,AthleticReal Valladolid,"1,50 mil. €1,00 mil. €"
+70,Willy Caballero,37,186.0,W,Chelsea FC,,,,
+71,Antonio Rüdiger,26,190.0,W,Chelsea FC,"Jun 30, 2016Aug 19, 2015",AS RomaVfB Stuttgart,VfB StuttgartAS Roma,"12,00 mil. €10,00 mil. €"
+72,Andreas Christensen,23,188.0,W,Chelsea FC,"Jul 10, 2015Jul 1, 2015",ChelseaChelsea U21,Bor. M'gladbachChelsea,"1,50 mil. €1,50 mil. €"
+73,Kurt Zouma,24,190.0,W,Chelsea FC,,,,
+74,Fikayo Tomori,21,185.0,W,Chelsea FC,"Jul 1, 2015",Chelsea U18,Chelsea U21,
+75,Michael Hector,27,193.0,W,Chelsea FC,"Apr 28, 2016Sep 2, 2015Sep 1, 2015",ReadingChelseaReading,ChelseaReadingChelsea,
+76,Marcos Alonso,28,188.0,W,Chelsea FC,,,,
+77,Emerson,25,175.0,W,Chelsea FC,"Aug 26, 2015",Santos FC,AS Roma,400 thousand €
+78,César Azpilicueta,30,178.0,W,Chelsea FC,,,,
+79,Reece James,19,182.0,W,Chelsea FC,,,,
+80,Jorginho,27,180.0,W,Chelsea FC,,,,
+81,N'Golo Kanté,28,168.0,W,Chelsea FC,"Aug 3, 2015",SM Caen,Leicester,"4,50 mil. €"
+82,Mateo Kovacic,25,177.0,W,Chelsea FC,"Aug 18, 2015",Inter,Real Madrid,"22,00 mil. €"
+83,Ross Barkley,25,185.0,W,Chelsea FC,,,,
+84,Ruben Loftus-Cheek,23,191.0,W,Chelsea FC,,,,
+85,Marco van Ginkel,26,186.0,W,Chelsea FC,"Jun 30, 2016Feb 1, 2016Jan 31, 2016Jul 10, 2015",PSV EindhovenChelseaStoke CityChelsea,ChelseaPSV EindhovenChelseaStoke City,"7,00 mil. €7,50 mil. €7,50 mil. €7,50 mil. €"
+86,Mason Mount,20,178.0,W,Chelsea FC,"Jul 1, 2015",Chelsea Youth,Chelsea U18,0
+87,Callum Hudson-Odoi,18,177.0,W,Chelsea FC,,,,
+88,Christian Pulisic,21,172.0,W,Chelsea FC,"Jan 4, 2016Jul 1, 2015",B. Dortmund U19B. Dortmund U17,Bor. DortmundB. Dortmund U19,0
+89,Willian,31,175.0,W,Chelsea FC,,,,
+90,Pedro,32,167.0,W,Chelsea FC,"Aug 20, 2015",FC Barcelona,Chelsea,"20,00 mil. €"
+91,Tammy Abraham,21,190.0,CF,Chelsea FC,"Jul 1, 2015",Chelsea U18,Chelsea U21,
+92,Michy Batshuayi,25,184.0,CF,Chelsea FC,,,,
+93,Olivier Giroud,32,193.0,CF,Chelsea FC,,,,
+94,David de Gea,28,189.0,W,Manchester United,,,,
+95,Sergio Romero,32,192.0,W,Manchester United,"Jul 27, 2015",Sampdoria,Man Utd,"5,00 mil. €"
+96,Lee Grant,36,193.0,W,Manchester United,,,,
+97,Harry Maguire,26,194.0,W,Manchester United,,,,
+98,Victor Lindelöf,25,187.0,W,Manchester United,"Jul 1, 2015",Benfica B,Benfica,"1,50 mil. €"
+99,Eric Bailly,25,187.0,W,Manchester United,,,,
+100,Phil Jones,27,185.0,W,Manchester United,,,,
+101,Marcos Rojo,29,186.0,W,Manchester United,,,,
+102,Axel Tuanzebe,21,184.0,W,Manchester United,,,,
+103,Luke Shaw,24,181.0,W,Manchester United,,,,
+104,Ashley Young,34,176.0,W,Manchester United,,,,
+105,Aaron Wan-Bissaka,21,183.0,W,Manchester United,,,,
+106,Diogo Dalot,20,183.0,W,Manchester United,"Jan 1, 2016Jul 1, 2015",Dragon ForcePFC Sub17,FC Porto U19Dragon Force,0
+107,Timothy Fosu-Mensah,21,190.0,W,Manchester United,"Jan 1, 2016",Man Utd U18,Man Utd,0
+108,Nemanja Matic,31,194.0,W,Manchester United,,,,
+109,Paul Pogba,26,191.0,W,Manchester United,,,,
+110,Fred,26,169.0,W,Manchester United,,,,
+111,Scott McTominay,22,190.0,W,Manchester United,,,,0.0
+112,Juan Mata,31,170.0,W,Manchester United,,,,
+113,Andreas Pereira,23,178.0,W,Manchester United,"Jul 1, 2015",Man Utd U23,Man Utd,500 thousand €
+114,Anthony Martial,23,183.0,W,Manchester United,"Sep 1, 2015",Monaco,Man Utd,"8,00 mil. €"
+115,Daniel James,21,170.0,W,Manchester United,"Jul 1, 2015",Swansea U18,Swansea U21,0
+116,Jesse Lingard,26,174.0,W,Manchester United,,,,
+117,Marcus Rashford,21,185.0,CF,Manchester United,,,,0.0
+118,Mason Greenwood,17,181.0,CF,Manchester United,,,,
+119,Bernd Leno,27,189.0,W,Arsenal FC,,,,
+120,Emiliano Martínez,27,190.0,W,Arsenal FC,"May 31, 2016Aug 11, 2015",WolvesArsenal,ArsenalWolves,
+121,Matt Macey,25,199.0,W,Arsenal FC,"Jul 1, 2015",Arsenal U21,Arsenal,0
+122,Sokratis,31,186.0,W,Arsenal FC,,,,
+123,David Luiz,32,189.0,W,Arsenal FC,,,,
+124,Shkodran Mustafi,27,184.0,W,Arsenal FC,,,,
+125,Calum Chambers,24,183.0,W,Arsenal FC,,,,
+126,Rob Holding,23,189.0,W,Arsenal FC,"Jul 1, 2015",Bolton U23,Bolton,0
+127,Konstantinos Mavropanos,21,194.0,W,Arsenal FC,"Jan 4, 2016",Apollon U20,PAS Giannina,0
+128,Kieran Tierney,22,178.0,W,Arsenal FC,"Dec 1, 2015",Celtic U20,Celtic,100 thousand €
+129,Sead Kolasinac,26,183.0,W,Arsenal FC,,,,
+130,Héctor Bellerín,24,178.0,W,Arsenal FC,,,,
+131,Lucas Torreira,23,166.0,W,Arsenal FC,"Jun 30, 2016Jul 2, 2015Jul 1, 2015",PescaraSampdoriaPescara,SampdoriaPescaraSampdoria,"1,50 mil. €800 thousand €800 thousand €"
+132,Granit Xhaka,26,186.0,W,Arsenal FC,,,,
+133,Dani Ceballos,23,179.0,W,Arsenal FC,"Jul 1, 2015",Betis B,Real Betis,"2,50 mil. €"
+134,Mattéo Guendouzi,20,184.0,W,Arsenal FC,"Jan 1, 2016",FC Lorient U19,Lorient B,0
+135,Joe Willock,20,179.0,W,Arsenal FC,,,,0.0
+136,Ainsley Maitland-Niles,22,180.0,W,Arsenal FC,"May 31, 2016Jul 2, 2015",IpswichArsenal U21,Arsenal U21Ipswich,750 thousand €250 thousand €
+137,Mesut Özil,30,180.0,W,Arsenal FC,,,,
+138,Gabriel Martinelli,18,180.0,W,Arsenal FC,,,,
+139,Nicolas Pépé,24,183.0,W,Arsenal FC,"Jun 30, 2016Jul 2, 2015Jul 1, 2015",US OrléansSCO AngersSCO Angers B,SCO AngersUS OrléansSCO Angers,0
+140,Reiss Nelson,19,175.0,W,Arsenal FC,"Jul 1, 2015",Arsenal FC Yout,Arsenal U18,
+141,Alexandre Lacazette,28,176.0,CF,Arsenal FC,,,,
+142,Pierre-Emerick Aubameyang,30,187.0,CF,Arsenal FC,,,,
+143,Jordan Pickford,25,185.0,W,Everton FC,"Jan 1, 2016Jul 31, 2015",Preston NESunderland,SunderlandPreston NE,500 thousand €250 thousand €
+144,Jonas Lössl,30,195.0,W,Everton FC,,,,
+145,Maarten Stekelenburg,36,197.0,W,Cape Verde,"May 31, 2016Jul 1, 2015",SouthamptonFulham,FulhamSouthampton,"1,00 mil. €1,00 mil. €"
+146,Michael Keane,26,188.0,W,Everton FC,,,,
+147,Yerry Mina,24,195.0,W,Everton FC,"May 1, 2016",Indep. Santa Fe,Palmeiras,650 thousand €
+148,Mason Holgate,22,187.0,W,Everton FC,"Aug 13, 2015",Barnsley FC,Everton,75 thousand €
+149,Lucas Digne,26,178.0,W,Everton FC,"Jun 30, 2016Aug 26, 2015",AS RomaParis SG,Paris SGAS Roma,"12,00 mil. €10,00 mil. €"
+150,Leighton Baines,34,170.0,W,Everton FC,,,,
+151,Seamus Coleman,30,177.0,W,Everton FC,,,,
+152,Djibril Sidibé,27,182.0,W,Everton FC,,,,
+153,Cuco Martina,29,185.0,W,Everton FC,"Jul 7, 2015",FC Twente,Southampton,"1,25 mil. €"
+154,Jean-Philippe Gbamin,23,186.0,W,Everton FC,,,,
+155,Morgan Schneiderlin,29,186.0,W,Everton FC,"Jul 13, 2015",Southampton,Man Utd,"28,00 mil. €"
+156,André Gomes,26,188.0,W,Everton FC,"Jul 1, 2015",Benfica,Valencia,"20,00 mil. €"
+157,Fabian Delph,29,174.0,W,Everton FC,"Jul 17, 2015",Aston Villa,Man City,"10,00 mil. €"
+158,Tom Davies,21,180.0,W,Everton FC,,,,0.0
+159,Beni Baningime,21,,W,Everton FC,"Jul 1, 2015",Everton FC Yout,Everton U18,0
+160,Gylfi Sigurdsson,30,186.0,W,Everton FC,,,,
+161,Richarlison,22,179.0,W,Everton FC,"Jan 1, 2016",América-MG,Fluminense,700 thousand €
+162,Alex Iwobi,23,183.0,W,Everton FC,"Jul 1, 2015",Arsenal U21,Arsenal,0
+163,Bernard,27,164.0,W,Everton FC,,,,
+164,Theo Walcott,30,175.0,W,Everton FC,,,,
+165,Moise Kean,19,183.0,CF,Everton FC,"Jul 1, 2015",Juventus Youth,Juventus U17,0
+166,Dominic Calvert-Lewin,22,187.0,CF,Everton FC,"Jan 3, 2016Aug 7, 2015",Northampt. TownSheffield Utd.,Sheffield Utd.Northampt. Town,0
+167,Cenk Tosun,28,183.0,CF,Everton FC,,,,
+168,Oumar Niasse,29,182.0,CF,Everton FC,"Feb 1, 2016",Loko Moscow,Everton,"10,00 mil. €"
+169,Kasper Schmeichel,32,189.0,W,Leicester City,,,,
+170,Danny Ward,26,191.0,W,Leicester City,"Jan 10, 2016Jul 1, 2015",Aberdeen FCLiverpool,LiverpoolAberdeen FC,350 thousand €250 thousand €
+171,Eldin Jakupovic,34,191.0,W,Leicester City,,,,
+172,Caglar Söyüncü,23,187.0,W,Leicester City,,,,
+173,Jonny Evans,31,188.0,W,Leicester City,"Aug 29, 2015",Man Utd,West Brom,"6,00 mil. €"
+174,Filip Benkovic,22,194.0,W,Leicester City,"Jul 1, 2015",Din. Zagreb U19,Dinamo Zagreb,0
+175,Wes Morgan,35,186.0,W,Leicester City,,,,
+176,Ben Chilwell,22,178.0,W,Leicester City,,,,0.0
+177,Christian Fuchs,33,187.0,W,Leicester City,"Jul 1, 2015",FC Schalke 04,Leicester,"3,00 mil. €"
+178,Ricardo Pereira,25,175.0,W,Leicester City,"Aug 31, 2015",FC Porto,OGC Nice,"3,75 mil. €"
+179,James Justin,21,183.0,W,Leicester City,,,,
+180,Wilfred Ndidi,22,183.0,W,Leicester City,,,,
+181,Hamza Choudhury,21,178.0,W,Leicester City,"May 31, 2016Feb 27, 2016Jul 1, 2015",Burton AlbionLeicester U23Leicester U18,Leicester U23Burton AlbionLeicester U23,
+182,Nampalys Mendy,27,167.0,W,Leicester City,,,,
+183,Daniel Amartey,24,186.0,W,Leicester City,"Jan 22, 2016",FC Copenhagen,Leicester,"3,00 mil. €"
+184,Youri Tielemans,22,176.0,W,Leicester City,,,,
+185,Dennis Praet,25,181.0,W,Leicester City,,,,
+186,Matty James,28,181.0,W,Leicester City,,,,
+187,Marc Albrighton,29,175.0,W,Leicester City,,,,
+188,James Maddison,22,175.0,W,Leicester City,"May 31, 2016Feb 2, 2016Feb 1, 2016",CoventryNorwichCoventry,NorwichCoventryNorwich,"1,50 mil. €500 thousand €500 thousand €"
+189,Harvey Barnes,21,180.0,W,Leicester City,,,,
+190,Bartosz Kapustka,22,179.0,W,Leicester City,,,,
+191,Demarai Gray,23,180.0,W,Leicester City,"Jan 4, 2016",Birmingham,Leicester,"4,00 mil. €"
+192,George Thomas,22,173.0,W,Leicester City,"Dec 11, 2015Oct 25, 2015Jul 1, 2015",Yeovil TownCoventryCoventry U18,CoventryYeovil TownCoventry,
+193,Ayoze Pérez,26,178.0,W,Leicester City,,,,
+194,Jamie Vardy,32,179.0,CF,Leicester City,,,,
+195,Kelechi Iheanacho,22,185.0,CF,Leicester City,"Jul 1, 2015",Man City U18,Man City,100 thousand €
+196,Lukasz Fabianski,34,190.0,W,West Ham United,,,,
+197,Roberto,33,192.0,W,West Ham United,,,,
+198,David Martin,33,188.0,W,West Ham United,,,,
+199,Issa Diop,22,194.0,W,West Ham United,"Dec 15, 2015Jul 1, 2015",Toulouse BFC Toulouse U19,ToulouseToulouse B,0
+200,Fabián Balbuena,28,188.0,W,West Ham United,"Feb 8, 2016",Libertad,Corinthians,0
+201,Angelo Ogbonna,31,191.0,W,West Ham United,"Jul 10, 2015",Juventus,West Ham,"9,00 mil. €"
+202,Winston Reid,31,191.0,W,West Ham United,,,,
+203,Gonçalo Cardoso,18,189.0,W,West Ham United,"Jul 1, 2015",Penafiel U15,Penafiel U17,0
+204,Arthur Masuaku,25,179.0,W,West Ham United,,,,
+205,Aaron Cresswell,29,170.0,W,West Ham United,,,,
+206,Ryan Fredericks,26,181.0,W,West Ham United,"Aug 31, 2015Aug 6, 2015",Bristol CitySpurs,FulhamBristol City,
+207,Pablo Zabaleta,34,176.0,W,West Ham United,,,,
+208,Declan Rice,20,185.0,W,West Ham United,,,,0.0
+209,Carlos Sánchez,33,182.0,W,West Ham United,,,,
+210,Jack Wilshere,27,172.0,W,West Ham United,,,,
+211,Mark Noble,32,180.0,W,West Ham United,,,,
+212,Pablo Fornals,23,178.0,W,West Ham United,"Jul 1, 2015",A. Malagueño,Málaga CF,0
+213,Manuel Lanzini,26,167.0,W,West Ham United,"Jun 30, 2016Jul 22, 2015",West HamAl-Jazira,Al-JaziraWest Ham,"9,00 mil. €6,00 mil. €"
+214,Felipe Anderson,26,175.0,W,West Ham United,,,,
+215,Andrii Yarmolenko,29,190.0,W,West Ham United,,,,
+216,Michail Antonio,29,180.0,W,West Ham United,"Sep 1, 2015",Nottm Forest,West Ham,
+217,Robert Snodgrass,32,182.0,W,West Ham United,,,,
+218,Sébastien Haller,25,190.0,CF,West Ham United,"Jul 1, 2015",AJ Auxerre,FC Utrecht,"2,00 mil. €"
+219,Albian Ajeti,22,183.0,CF,West Ham United,"Jan 8, 2016",FC Basel,FC Augsburg,"1,00 mil. €"
+220,Aaron Ramsdale,21,188.0,W,AFC Bournemouth,,,,
+221,Artur Boruc,39,193.0,W,AFC Bournemouth,"Jul 1, 2015",Southampton,Bournemouth,"1,00 mil. €"
+222,Mark Travers,20,191.0,W,AFC Bournemouth,,,,0.0
+223,Nathan Aké,24,180.0,W,AFC Bournemouth,"May 31, 2016Aug 14, 2015",WatfordChelsea,ChelseaWatford,"4,50 mil. €2,00 mil. €"
+224,Chris Mepham,21,191.0,W,AFC Bournemouth,,,,
+225,Steve Cook,28,185.0,W,AFC Bournemouth,,,,
+226,Jack Simpson,22,190.0,W,AFC Bournemouth,,,,0.0
+227,Lloyd Kelly,20,190.0,W,AFC Bournemouth,,,,
+228,Diego Rico,26,183.0,W,AFC Bournemouth,,,,
+229,Charlie Daniels,33,178.0,W,AFC Bournemouth,,,,
+230,Adam Smith,28,174.0,W,AFC Bournemouth,,,,
+231,Jack Stacey,23,180.0,W,AFC Bournemouth,,,,0.0
+232,Simon Francis,34,191.0,W,AFC Bournemouth,,,,
+233,Jefferson Lerma,24,179.0,W,AFC Bournemouth,"Jun 30, 2016Aug 13, 2015",LevanteAtlético Huila,Atlético HuilaLevante,
+234,Lewis Cook,22,175.0,W,AFC Bournemouth,,,,
+235,Philip Billing,23,192.0,W,AFC Bournemouth,,,,
+236,Dan Gosling,29,180.0,W,AFC Bournemouth,,,,
+237,Andrew Surman,33,178.0,W,AFC Bournemouth,,,,
+238,David Brooks,22,173.0,W,AFC Bournemouth,"Sep 28, 2015Aug 29, 2015Jul 1, 2015",Halifax TownSheffield Utd.Sheff Utd U18,Sheffield Utd.Halifax TownSheffield Utd.,0
+239,Ryan Fraser,25,163.0,W,AFC Bournemouth,"May 31, 2016Jul 1, 2015",IpswichBournemouth,BournemouthIpswich,
+240,Arnaut Danjuma,22,178.0,W,AFC Bournemouth,,,,
+241,Junior Stanislas,29,183.0,W,AFC Bournemouth,,,,
+242,Harry Wilson,22,173.0,W,AFC Bournemouth,"Jan 5, 2016Aug 26, 2015Jul 1, 2015",Crewe AlexandraLiverpool U23Liverpool U18,Liverpool U23Crewe AlexandraLiverpool U23,
+243,Jordon Ibe,23,176.0,W,AFC Bournemouth,,,,
+244,Joshua King,27,181.0,W,AFC Bournemouth,"Jul 1, 2015",Blackburn,Bournemouth,
+245,Callum Wilson,27,180.0,CF,AFC Bournemouth,,,,
+246,Dominic Solanke,22,186.0,CF,AFC Bournemouth,"Jun 30, 2016Aug 4, 2015Jul 1, 2015",VitesseChelsea U21Chelsea U18,Chelsea U21VitesseChelsea U21,"2,00 mil. €250 thousand €250 thousand €"
+247,Rui Patrício,31,190.0,W,Wolverhampton Wanderers,,,,
+248,John Ruddy,32,192.0,W,Wolverhampton Wanderers,,,,
+249,Harry Burgoyne,22,193.0,W,Wolverhampton Wanderers,,,,0.0
+250,Willy Boly,28,195.0,W,Wolverhampton Wanderers,"Jul 1, 2015",Braga B,Braga,"1,00 mil. €"
+251,Conor Coady,26,185.0,W,Wolverhampton Wanderers,"Jul 3, 2015",Huddersfield,Wolves,
+252,Jesús Vallejo,22,184.0,W,Wolverhampton Wanderers,"Jun 30, 2016Aug 1, 2015Jul 31, 2015",Real ZaragozaReal MadridReal Zaragoza,Real MadridReal ZaragozaReal Madrid,"3,00 mil. €2,00 mil. €2,00 mil. €"
+253,Ryan Bennett,29,188.0,W,Wolverhampton Wanderers,,,,
+254,Max Kilman,22,192.0,W,Wolverhampton Wanderers,,,,
+255,Jonny Otto,25,175.0,W,Wolverhampton Wanderers,,,,
+256,Rúben Vinagre,20,174.0,W,Wolverhampton Wanderers,"Jul 1, 2015",Sporting Sub17,Monaco U19,
+257,Matt Doherty,27,186.0,W,Wolverhampton Wanderers,,,,
+258,Phil Ofosu-Ayeh,28,181.0,W,Wolverhampton Wanderers,"Jul 1, 2015",VfR Aalen,E. Braunschweig,700 thousand €
+259,Rúben Neves,22,180.0,W,Wolverhampton Wanderers,,,,
+260,Leander Dendoncker,24,188.0,W,Wolverhampton Wanderers,,,,
+261,Romain Saïss,29,188.0,W,Wolverhampton Wanderers,"Jul 3, 2015",AC Le Havre,SCO Angers,500 thousand €
+262,João Moutinho,33,170.0,W,Wolverhampton Wanderers,,,,
+263,Morgan Gibbs-White,19,171.0,W,Wolverhampton Wanderers,,,,
+264,Bruno Jordão,20,180.0,W,Wolverhampton Wanderers,"Jul 1, 2015",Leiria U19,Leiria,0
+265,Ming-Yang Yang,24,172.0,W,Wolverhampton Wanderers,,,,
+266,Diogo Jota,22,178.0,W,Wolverhampton Wanderers,,,,
+267,Jordan Graham,24,182.0,W,Wolverhampton Wanderers,"Oct 28, 2015Sep 28, 2015",Oxford UnitedWolves,WolvesOxford United,
+268,Adama Traoré,23,178.0,W,Wolverhampton Wanderers,"Aug 14, 2015",FC Barcelona B,Aston Villa,"5,00 mil. €"
+269,Pedro Neto,19,172.0,W,Wolverhampton Wanderers,"Jun 30, 2016Aug 1, 2015",Palmeiras U17Braga U17,Braga U17Palmeiras U17,
+270,RaÃºl JimÃ©nez,28,188.0,CF,Wolverhampton Wanderers,"Aug 13, 2015",AtlÃ©tico Madrid,Benfica,"5,00 mil. â‚¬"
+271,Patrick Cutrone,21,183.0,CF,Wolverhampton Wanderers,,,,
+272,Martin Dubravka,30,191.0,W,Newcastle United,,,,
+273,Karl Darlow,28,190.0,W,Newcastle United,,,,
+274,Rob Elliot,33,190.0,W,Newcastle United,,,,
+275,Jamaal Lascelles,25,188.0,W,Newcastle United,,,,
+276,Fabian Schär,27,186.0,W,Newcastle United,"Jul 1, 2015",FC Basel,TSG Hoffenheim,"8,00 mil. €"
+277,Florian Lejeune,28,190.0,W,Newcastle United,"Jun 30, 2016Aug 29, 2015Aug 28, 2015",GironaMan CityGirona,Man CityGironaMan City,800 thousand €800 thousand €800 thousand €
+278,Federico Fernández,30,190.0,W,Newcastle United,,,,
+279,Ciaran Clark,29,188.0,W,Newcastle United,,,,
+280,Paul Dummett,27,183.0,W,Newcastle United,,,,
+281,Jetro Willems,25,169.0,W,Newcastle United,,,,
+282,DeAndre Yedlin,26,173.0,W,Newcastle United,"May 31, 2016Sep 1, 2015",SunderlandSpurs,SpursSunderland,"1,50 mil. €1,50 mil. €"
+283,Emil Krafth,25,184.0,W,Newcastle United,"Aug 21, 2015",Helsingborg,Bologna,900 thousand €
+284,Javier Manquillo,25,178.0,W,Newcastle United,"Jun 30, 2016Jul 24, 2015Jul 9, 2015",MarseilleAtlético MadridLiverpool,Atlético MadridMarseilleAtlético Madrid,"5,00 mil. €6,00 mil. €6,00 mil. €"
+285,Jamie Sterry,23,180.0,W,Newcastle United,"Jul 1, 2015",Newcastle U23,Newcastle,
+286,Isaac Hayden,24,186.0,W,Newcastle United,"May 31, 2016Jul 31, 2015",Hull CityArsenal U21,Arsenal U21Hull City,
+287,Sung-yong Ki,30,190.0,W,Newcastle United,,,,
+288,Jack Colback,29,177.0,W,Newcastle United,,,,
+289,Sean Longstaff,21,181.0,W,Newcastle United,"Jul 1, 2015",Newcastle U18,Newcastle U23,
+290,Jonjo Shelvey,27,184.0,W,Newcastle United,"Jan 12, 2016",Swansea,Newcastle,"12,00 mil. €"
+291,Matt Ritchie,30,173.0,W,Newcastle United,,,,
+292,Miguel Almirón,25,174.0,W,Newcastle United,"Aug 14, 2015",Cerro Porteño,Lanús,0
+293,Henri Saivet,28,175.0,W,Newcastle United,"Jan 11, 2016",G. Bordeaux,Newcastle,"2,50 mil. €"
+294,Christian Atsu,27,165.0,W,Newcastle United,"Jun 30, 2016Jan 25, 2016Jan 4, 2016Jul 1, 2015",Málaga CFChelseaBournemouthChelsea,ChelseaMálaga CFChelseaBournemouth,
+295,Allan Saint-Maximin,22,173.0,W,Newcastle United,"Jun 30, 2016Jul 31, 2015Jul 30, 2015",Hannover 96MonacoSaint-Étienne,MonacoHannover 96Monaco,"2,00 mil. €1,00 mil. €1,00 mil. €"
+296,Joelinton,23,186.0,CF,Newcastle United,"Jul 1, 2015",Sport Recife,TSG Hoffenheim,"1,25 mil. €"
+297,Dwight Gayle,28,177.0,CF,Newcastle United,,,,
+298,Yoshinori Muto,27,178.0,CF,Newcastle United,"Jul 1, 2015",FC Tokyo,1.FSV Mainz 05,"2,50 mil. €"
+299,Andy Carroll,30,193.0,CF,Newcastle United,,,,
+300,Angus Gunn,23,196.0,W,Southampton FC,,,,
+301,Alex McCarthy,29,193.0,W,Southampton FC,"Jul 23, 2015",QPR,Crystal Palace,"2,50 mil. €"
+302,Jannik Vestergaard,27,199.0,W,Southampton FC,,,,
+303,Jan Bednarek,23,189.0,W,Southampton FC,"Jun 30, 2016Jul 13, 2015",Gornik LecznaLech Poznan,Lech PoznanGornik Leczna,150 thousand €150 thousand €
+304,Jack Stephens,25,185.0,W,Southampton FC,"May 31, 2016Feb 1, 2016Jan 4, 2016Jul 31, 2015",CoventrySouthamptonMiddlesbroughSouthampton,SouthamptonCoventrySouthamptonMiddlesbrough,
+305,Kevin Danso,21,190.0,W,Southampton FC,"Jul 1, 2015",FC Augsburg U17,FC Augsburg U19,0
+306,Maya Yoshida,31,189.0,W,Southampton FC,,,,
+307,Ryan Bertrand,30,179.0,W,Southampton FC,,,,
+308,Sam McQueen,24,181.0,W,Southampton FC,"May 31, 2016Jan 21, 2016",Southend UnitedSouthampton U21,Southampton U21Southend United,0
+309,Cédric Soares,28,171.0,W,Southampton FC,"Jul 1, 2015",Sporting CP,Southampton,"9,50 mil. €"
+310,Yan Valery,20,180.0,W,Southampton FC,,,,0.0
+311,Oriol Romeu,27,183.0,W,Southampton FC,"Aug 12, 2015",Chelsea,Southampton,"2,50 mil. €"
+312,James Ward-Prowse,24,177.0,W,Southampton FC,,,,
+313,Pierre-Emile Höjbjerg,24,185.0,W,Southampton FC,"Jun 30, 2016Aug 28, 2015",FC Schalke 04Bayern Munich,Bayern MunichFC Schalke 04,"6,00 mil. €6,50 mil. €"
+314,Stuart Armstrong,27,183.0,W,Southampton FC,,,,
+315,Nathan Redmond,25,173.0,W,Southampton FC,,,,
+316,Moussa Djenepo,21,177.0,W,Southampton FC,,,,
+317,Sofiane Boufal,26,175.0,W,Southampton FC,,,,
+318,Danny Ings,27,178.0,CF,Southampton FC,"Jul 1, 2015",Burnley,Liverpool,"12,00 mil. €"
+319,Che Adams,23,179.0,CF,Southampton FC,,,,
+320,Shane Long,32,180.0,CF,Southampton FC,,,,
+321,Michael Obafemi,19,170.0,CF,Southampton FC,,,,
+322,Wayne Hennessey,32,197.0,W,Crystal Palace,,,,
+323,Vicente Guaita,32,190.0,W,Crystal Palace,,,,
+324,Stephen Henderson,31,188.0,W,Crystal Palace,,,,
+325,Dion Henry,22,192.0,W,Crystal Palace,"May 31, 2016Mar 24, 2016",Soham RangersPeterborough,PeterboroughSoham Rangers,50 thousand €50 thousand €
+326,Mamadou Sakho,29,187.0,W,Crystal Palace,,,,
+327,James Tomkins,30,192.0,W,Crystal Palace,,,,
+328,Gary Cahill,33,193.0,W,Crystal Palace,,,,
+329,Jairo Riedewald,23,182.0,W,Crystal Palace,,,,
+330,Scott Dann,32,194.0,W,Crystal Palace,,,,
+331,Martin Kelly,29,191.0,W,Crystal Palace,,,,
+332,Patrick van Aanholt,29,176.0,W,Crystal Palace,,,,
+333,Joel Ward,29,186.0,W,Crystal Palace,,,,
+334,Luka Milivojevic,28,186.0,W,Crystal Palace,"Jul 1, 2015",RSC Anderlecht,Olympiacos,"2,75 mil. €"
+335,Cheikhou KouyatÃ©,29,189.0,W,Crystal Palace,,,,
+336,Víctor Camarasa,25,183.0,W,Crystal Palace,,,,
+337,James McArthur,31,178.0,W,Crystal Palace,,,,
+338,James McCarthy,28,180.0,W,Crystal Palace,,,,
+339,Jeffrey Schlupp,26,178.0,W,Crystal Palace,,,,
+340,Max Meyer,24,173.0,W,Crystal Palace,,,,
+341,Wilfried Zaha,26,180.0,W,Crystal Palace,,,,
+342,Andros Townsend,28,181.0,W,Crystal Palace,"Jan 27, 2016",Spurs,Newcastle,
+343,Christian Benteke,28,190.0,CF,Crystal Palace,"Jul 22, 2015",Aston Villa,Liverpool,"20,00 mil. €"
+344,Jordan Ayew,28,182.0,CF,Crystal Palace,"Jul 27, 2015",FC Lorient,Aston Villa,"6,00 mil. €"
+345,Connor Wickham,26,189.0,CF,Crystal Palace,"Aug 3, 2015",Sunderland,Crystal Palace,"5,00 mil. €"
+346,Ben Foster,36,193.0,W,Watford FC,,,,
+347,Heurelho Gomes,38,191.0,W,Watford FC,,,,
+348,Pontus Dahlberg,20,195.0,W,Watford FC,,,,
+349,Daniel Bachmann,25,191.0,W,Watford FC,"Jan 9, 2016Oct 27, 2015Aug 31, 2015Jul 28, 2015",BuryStoke CityRoss CountyStoke City,Stoke CityBuryStoke CityRoss County,0
+350,Christian Kabasele,28,187.0,W,Watford FC,,,,
+351,Craig Dawson,29,188.0,W,Watford FC,,,,
+352,Craig Cathcart,30,189.0,W,Watford FC,,,,
+353,Adrian Mariappa,32,179.0,W,Watford FC,,,,
+354,Sebastian Prödl,32,194.0,W,Watford FC,"Jul 1, 2015",Werder Bremen,Watford,"3,00 mil. €"
+355,Adam Masina,25,191.0,W,Watford FC,,,,
+356,Marvin Zeegelaar,29,186.0,W,Watford FC,"Jan 1, 2016",Rio Ave FC,Sporting CP,"1,00 mil. €"
+357,José Holebas,35,184.0,W,Watford FC,"Jul 2, 2015",AS Roma,Watford,"2,00 mil. €"
+358,Daryl Janmaat,30,185.0,W,Watford FC,,,,
+359,Kiko Femenía,28,171.0,W,Watford FC,"Jul 2, 2015",Alcorcón,Alavés,400 thousand €
+360,Dimitri Foulquier,26,183.0,W,Watford FC,,,,
+361,Étienne Capoue,31,189.0,W,Watford FC,"Jul 6, 2015",Spurs,Watford,"7,50 mil. €"
+362,Nathaniel Chalobah,24,185.0,W,Watford FC,"Jun 30, 2016Aug 31, 2015",SSC NapoliChelsea,ChelseaSSC Napoli,
+363,Abdoulaye Doucouré,26,183.0,W,Watford FC,"Jun 30, 2016Feb 2, 2016Feb 1, 2016",Granada CFWatfordStade Rennais,WatfordGranada CFWatford,"6,00 mil. €6,00 mil. €6,00 mil. €"
+364,Will Hughes,24,185.0,W,Watford FC,,,,
+365,Tom Cleverley,30,175.0,W,Watford FC,"Jul 1, 2015",Man Utd,Everton,"9,00 mil. €"
+366,Domingos Quina,19,173.0,W,Watford FC,,,,
+367,Tom Dele-Bashiru,20,179.0,W,Watford FC,,,,
+368,Roberto Pereyra,28,182.0,W,Watford FC,"Jul 1, 2015",Udinese Calcio,Juventus,"17,00 mil. €"
+369,Isaac Success,23,182.0,W,Watford FC,,,,
+370,Ismaïla Sarr,21,185.0,W,Watford FC,,,,
+371,Gerard Deulofeu,25,177.0,W,Watford FC,"Jul 1, 2015",FC Barcelona,Everton,"6,00 mil. €"
+372,Andre Gray,28,178.0,CF,Watford FC,"Aug 21, 2015",Brentford,Burnley,"1,00 mil. €"
+373,Danny Welbeck,28,185.0,CF,Watford FC,,,,
+374,Troy Deeney,31,184.0,CF,Watford FC,,,,
+375,Mathew Ryan,27,184.0,W,Brighton & Hove Albion,"Jul 21, 2015",Club Brugge,Valencia,"7,00 mil. €"
+376,David Button,30,191.0,W,Brighton & Hove Albion,,,,
+377,Jason Steele,29,188.0,W,Brighton & Hove Albion,,,,
+378,Lewis Dunk,27,192.0,W,Brighton & Hove Albion,,,,
+379,Adam Webster,24,190.0,W,Brighton & Hove Albion,,,,
+380,Shane Duffy,27,193.0,W,Brighton & Hove Albion,,,,
+381,Dan Burn,27,201.0,W,Brighton & Hove Albion,,,,
+382,Leon Balogun,31,190.0,W,Brighton & Hove Albion,"Jul 1, 2015",SV Darmstadt 98,1.FSV Mainz 05,"1,00 mil. €"
+383,Bernardo,24,186.0,W,Brighton & Hove Albion,"Jan 14, 2016Jan 7, 2016",Ponte PretaRed Bull,RB SalzburgPonte Preta,
+384,Gaëtan Bong,31,183.0,W,Brighton & Hove Albion,"Jul 2, 2015",Wigan,Brighton,"1,50 mil. €"
+385,Martín Montoya,28,175.0,W,Brighton & Hove Albion,"Jun 30, 2016Feb 1, 2016Jan 31, 2016Jul 3, 2015",Real BetisFC BarcelonaInterFC Barcelona,FC BarcelonaReal BetisFC BarcelonaInter,"3,00 mil. €6,50 mil. €6,50 mil. €10,00 mil. €"
+386,Ezequiel Schelotto,30,187.0,W,Brighton & Hove Albion,"Nov 20, 2015Aug 31, 2015",Without ClubInter,Sporting CPWithout Club,"4,00 mil. €4,00 mil. €"
+387,Tudor Baluta,20,191.0,W,Brighton & Hove Albion,"Jul 1, 2015",Ac. Hagi,FC Viitorul U19,0
+388,Yves Bissouma,23,182.0,W,Brighton & Hove Albion,"Jul 1, 2015",JMG Bamako,AS Real Bamako,0
+389,Davy Pröpper,28,185.0,W,Brighton & Hove Albion,"Jul 13, 2015",Vitesse,PSV Eindhoven,"5,00 mil. €"
+390,Aaron Mooy,29,179.0,W,Brighton & Hove Albion,,,,
+391,Pascal Groß,28,181.0,W,Brighton & Hove Albion,,,,
+392,Dale Stephens,29,185.0,W,Brighton & Hove Albion,,,,
+393,Andrew Crofts,35,175.0,W,Brighton & Hove Albion U23,"May 31, 2016Mar 19, 2016",Gillingham FCBrighton,BrightonGillingham FC,500 thousand €750 thousand €
+394,Solly March,25,180.0,W,Brighton & Hove Albion,,,,
+395,Leandro Trossard,24,172.0,W,Brighton & Hove Albion,"Jun 30, 2016Jul 6, 2015",OH LeuvenKRC Genk,KRC GenkOH Leuven,"2,00 mil. €500 thousand €"
+396,José Izquierdo,27,171.0,W,Brighton & Hove Albion,,,,
+397,Alireza Jahanbakhsh,26,180.0,W,Brighton & Hove Albion,"Aug 3, 2015",NEC Nijmegen,AZ Alkmaar,"2,00 mil. €"
+398,Neal Maupay,23,173.0,CF,Brighton & Hove Albion,"Aug 10, 2015",OGC Nice,Saint-Étienne,"2,00 mil. €"
+399,Glenn Murray,35,186.0,CF,Brighton & Hove Albion,"Sep 1, 2015",Crystal Palace,Bournemouth,"2,50 mil. €"
+400,Nick Pope,27,197.0,W,Burnley FC,,,,
+401,Joe Hart,32,196.0,W,Burnley FC,,,,
+402,Bailey Peacock-Farrell,22,194.0,W,Burnley FC,"Jul 1, 2015",Leeds U18,Leeds,0
+403,Adam Legzdins,32,190.0,W,Burnley FC,"Jul 1, 2015",Leyton Orient,Birmingham,250 thousand €
+404,James Tarkowski,26,185.0,W,Burnley FC,"Feb 1, 2016",Brentford,Burnley,350 thousand €
+405,Ben Mee,29,180.0,W,Burnley FC,,,,
+406,Ben Gibson,26,185.0,W,Burnley FC,,,,
+407,Kevin Long,29,188.0,W,Burnley FC,"May 31, 2016Mar 24, 2016Feb 19, 2016Nov 19, 2015",MK DonsBurnleyBarnsley FCBurnley,BurnleyMK DonsBurnleyBarnsley FC,350 thousand €500 thousand €500 thousand €500 thousand €
+408,Charlie Taylor,26,176.0,W,Burnley FC,,,,
+409,Erik Pieters,31,183.0,W,Burnley FC,,,,
+410,Matthew Lowton,30,180.0,W,Burnley FC,"Jul 1, 2015",Aston Villa,Burnley,"2,00 mil. €"
+411,Phil Bardsley,34,180.0,W,Burnley FC,,,,
+412,Jack Cork,30,185.0,W,Burnley FC,,,,
+413,Ashley Westwood,29,174.0,W,Burnley FC,,,,
+414,Jeff Hendrick,27,185.0,W,Burnley FC,,,,
+415,Danny Drinkwater,29,177.0,W,Burnley FC,,,,
+416,Robbie Brady,27,176.0,W,Burnley FC,"Jul 29, 2015",Hull City,Norwich,
+417,Dwight McNeil,19,183.0,W,Burnley FC,,,,
+418,Johann Berg Gudmundsson,28,186.0,W,Burnley FC,,,,
+419,Aaron Lennon,32,165.0,W,Burnley FC,"Sep 1, 2015",Spurs,Everton,"8,50 mil. €"
+420,Chris Wood,27,191.0,CF,Burnley FC,"Jul 1, 2015",Leicester,Leeds,"1,00 mil. €"
+421,Ashley Barnes,29,186.0,CF,Burnley FC,,,,
+422,Jay Rodríguez,30,185.0,CF,Burnley FC,,,,
+423,Matej Vydra,27,180.0,CF,Burnley FC,"May 31, 2016Sep 1, 2015Jul 1, 2015",ReadingWatfordUdinese Calcio,WatfordReadingWatford,"5,50 mil. €5,50 mil. €5,50 mil. €"
+424,Tom Heaton,33,188.0,W,Aston Villa,,,,
+425,Lovre Kalinic,29,201.0,W,Aston Villa,,,,
+426,Jed Steer,26,182.0,W,Aston Villa,"May 31, 2016Sep 11, 2015",HuddersfieldAston Villa,Aston VillaHuddersfield,500 thousand €500 thousand €
+427,Örjan Nyland,29,192.0,W,Aston Villa,"Jul 1, 2015",Molde FK,FC Ingolstadt,"1,75 mil. €"
+428,Tyrone Mings,26,195.0,W,Aston Villa,"Jul 1, 2015",Ipswich,Bournemouth,
+429,BjÃ¶rn Engels,25,194.0,W,Aston Villa,,,,
+430,James Chester,30,177.0,W,Aston Villa,"Jul 29, 2015",Hull City,West Brom,"2,00 mil. €"
+431,Ezri Konsa,21,183.0,W,Aston Villa,,,,
+432,Kortney Hause,24,191.0,W,Aston Villa,,,,
+433,Matt Targett,24,183.0,W,Aston Villa,,,,
+434,Neil Taylor,30,176.0,W,Aston Villa,,,,
+435,Frédéric Guilbert,24,178.0,W,Aston Villa,"Jul 1, 2015",G. Bordeaux B,G. Bordeaux,0
+436,Ahmed Elmohamady,32,182.0,W,Aston Villa,,,,
+437,Marvelous Nakamba,25,177.0,W,Aston Villa,,,,
+438,Douglas Luiz,21,178.0,W,Aston Villa,,,,
+439,John McGinn,24,178.0,W,Aston Villa,"Jul 31, 2015",St. Mirren,Hibernian FC,450 thousand €
+440,Conor Hourihane,28,181.0,W,Aston Villa,,,,
+441,Henri Lansbury,28,183.0,W,Aston Villa,,,,
+442,Jack Grealish,24,175.0,W,Aston Villa,,,,
+443,Trezeguet,24,179.0,W,Aston Villa,"Jun 30, 2016Aug 6, 2015",RSC AnderlechtAhly,AhlyRSC Anderlecht,"1,50 mil. €1,80 mil. €"
+444,Anwar El Ghazi,24,189.0,W,Aston Villa,,,,
+445,Jota,28,180.0,W,Aston Villa,"Jan 15, 2016",Brentford,SD Eibar,
+446,Wesley,22,191.0,CF,Aston Villa,"Jan 29, 2016Jul 1, 2015",AS TrencinItabuna Esporte Clube (BA),Club BruggeAS Trencin,
+447,Jonathan Kodjia,29,189.0,CF,Aston Villa,"Jul 20, 2015",SCO Angers,Bristol City,"2,00 mil. €"
+448,Keinan Davis,21,178.0,CF,Aston Villa,,,,0.0
+449,Tim Krul,31,193.0,W,Norwich City,,,,
+450,Ralf Fährmann,30,196.0,W,Norwich City,,,,
+451,Michael McGovern,35,190.0,W,Norwich City,,,,
+452,Ben Godfrey,21,183.0,W,Norwich City,"Jan 15, 2016Jul 1, 2015",York CityYork City U19,NorwichYork City,
+453,Christoph Zimmermann,26,194.0,W,Norwich City,,,,
+454,Grant Hanley,27,188.0,W,Norwich City,,,,
+455,Timm Klose,31,195.0,W,Norwich City,"Jan 18, 2016",VfL Wolfsburg,Norwich,"3,00 mil. €"
+456,Jamal Lewis,21,,W,Norwich City,,,,0.0
+457,Philip Heise,28,184.0,W,Norwich City,"Jul 1, 2015",1.FC Heidenheim,VfB Stuttgart,800 thousand €
+458,Max Aarons,19,178.0,W,Norwich City,,,,
+459,Sam Byram,26,183.0,W,Norwich City,"Jan 20, 2016",Leeds,West Ham,"3,50 mil. €"
+460,Ibrahim Amadou,26,183.0,W,Norwich City,"Jul 16, 2015",AS Nancy,LOSC Lille,600 thousand €
+461,Tom Trybull,26,181.0,W,Norwich City,"Jul 1, 2015",FC St. Pauli,Greuther Fürth,400 thousand €
+462,Alexander Tettey,33,181.0,W,Norwich City,,,,
+463,Mario Vrancic,30,187.0,W,Norwich City,"Jul 1, 2015",SC Paderborn,SV Darmstadt 98,"1,75 mil. €"
+464,Moritz Leitner,26,174.0,W,Norwich City,,,,
+465,Kenny McLean,27,180.0,W,Norwich City,,,,
+466,Todd Cantwell,21,177.0,W,Norwich City,"Jul 1, 2015",Norwich U18,Norwich U23,
+467,Marco Stiepermann,28,190.0,W,Norwich City,,,,
+468,Onel Hernández,26,172.0,W,Norwich City,,,,
+469,Emiliano Buendía,22,172.0,W,Norwich City,"Jul 1, 2015",Getafe CF B,Getafe,0
+470,Patrick Roberts,22,167.0,W,Norwich City,"Feb 1, 2016Jul 19, 2015",Man CityFulham,CelticMan City,"5,00 mil. €2,50 mil. €"
+471,Teemu Pukki,29,180.0,CF,Norwich City,"Jul 1, 2015",Celtic,Bröndby IF,"2,00 mil. €"
+472,Josip Drmic,27,184.0,CF,Norwich City,"Jun 30, 2016Feb 1, 2016Jul 1, 2015",Hamburger SVBor. M'gladbachBay. Leverkusen,Bor. M'gladbachHamburger SVBor. M'gladbach,"6,00 mil. €8,00 mil. €8,00 mil. €"
+473,Dennis Srbeny,25,190.0,CF,Norwich City,"Jul 1, 2015",Hansa Rostock,BFC Dynamo,150 thousand €
+474,Dean Henderson,22,188.0,W,Sheffield United,"Feb 20, 2016Jan 12, 2016Jul 1, 2015",StockportMan Utd U23Man Utd U18,Man Utd U23StockportMan Utd U23,0
+475,Michael Verrips,22,196.0,W,Sheffield United,,,,
+476,Simon Moore,29,191.0,W,Sheffield United,,,,
+477,John Egan,26,185.0,W,Sheffield United,,,,
+478,Jack O'Connell,25,191.0,W,Sheffield United,,,,
+479,Chris Basham,31,190.0,W,Sheffield United,,,,
+480,Phil Jagielka,37,180.0,W,Sheffield United,,,,
+481,Richard Stearman,32,191.0,W,Sheffield United,"Sep 1, 2015",Wolves,Fulham,"1,30 mil. €"
+482,Kean Bryan,22,185.0,W,Sheffield United,,,,
+483,Enda Stevens,29,183.0,W,Sheffield United,"Jul 1, 2015",Aston Villa,Portsmouth,500 thousand €
+484,George Baldock,26,178.0,W,Sheffield United,"Jan 30, 2016Jul 1, 2015",Oxford UnitedMK Dons,MK DonsOxford United,150 thousand €150 thousand €
+485,Kieron Freeman,27,178.0,W,Sheffield United,"May 31, 2016Jan 28, 2016",PortsmouthSheffield Utd.,Sheffield Utd.Portsmouth,
+486,Muhamed Besic,27,180.0,W,Sheffield United,,,,
+487,John Fleck,28,169.0,W,Sheffield United,,,,
+488,Oliver Norwood,28,175.0,W,Sheffield United,,,,
+489,John Lundstram,25,181.0,W,Sheffield United,"Aug 13, 2015",Everton,Oxford United,500 thousand €
+490,Ben Osborn,25,176.0,W,Sheffield United,,,,
+491,Luke Freeman,27,176.0,W,Sheffield United,,,,
+492,Ravel Morrison,26,175.0,W,Sheffield United,"Jul 1, 2015",Without Club,Lazio,"2,50 mil. €"
+493,Callum Robinson,24,178.0,W,Sheffield United,"Jun 30, 2016Jan 5, 2016Jan 3, 2016Aug 7, 2015",Preston NEAston VillaBristol CityAston Villa,Aston VillaPreston NEAston VillaBristol City,500 thousand €500 thousand €500 thousand €500 thousand €
+494,Ricky Holmes,32,188.0,W,Sheffield United,,,,
+495,Oliver McBurnie,23,188.0,CF,Sheffield United,"May 31, 2016Mar 7, 2016Dec 25, 2015Nov 26, 2015Jul 13, 2015",Bristol RoversSwanseaNewport CountySwanseaBradford,SwanseaBristol RoversSwanseaNewport CountySwansea,250 thousand €250 thousand €250 thousand €250 thousand €50 thousand €
+496,Lys Mousset,23,184.0,CF,Sheffield United,"Jul 1, 2015",Le Havre B,AC Le Havre,50 thousand €
+497,Billy Sharp,33,175.0,CF,Sheffield United,"Jul 25, 2015",Leeds,Sheffield Utd.,"1,25 mil. €"
+498,David McGoldrick,31,184.0,CF,Sheffield United,,,,
+499,Leon Clarke,34,188.0,CF,Sheffield United,"Jul 1, 2015",Wolves,Bury,500 thousand €
