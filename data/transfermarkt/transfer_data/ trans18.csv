@@ -1,501 +1,508 @@
 ,name,age,height,position,current club,17/18 date,17/18 left,17/18 joined,17/18 mv
-0,Ederson,26,188.0,W,Manchester City,"Jul 1, 2017",Benfica,Man City,"22,00 mil. €"
-1,Claudio Bravo,36,184.0,W,Manchester City,,,,
-2,Scott Carson,34,188.0,W,Manchester City,,,,
-3,Aymeric Laporte,25,191.0,W,Manchester City,"Jan 30, 2018",Athletic,Man City,
-4,John Stones,25,188.0,W,Manchester City,,,,
-5,Nicolás Otamendi,31,183.0,W,Manchester City,,,,
-6,Benjamin Mendy,25,185.0,W,Manchester City,"Jul 24, 2017",Monaco,Man City,"13,00 mil. €"
-7,Oleksandr Zinchenko,22,175.0,W,Manchester City,,,,
-8,Angeliño,22,175.0,W,Manchester City,"Jun 29, 2018Jul 4, 2017",NAC BredaMan City U23,Man City U23NAC Breda,
-9,João Cancelo,25,182.0,W,Manchester City,"Jun 30, 2018Aug 22, 2017",InterValencia,ValenciaInter,"35,00 mil. €20,00 mil. €"
-10,Kyle Walker,29,183.0,W,Manchester City,"Jul 14, 2017",Spurs,Man City,"30,00 mil. €"
-11,Rodri,23,191.0,W,Manchester City,,,,
-12,Fernandinho,34,179.0,W,Manchester City,,,,
-13,Ilkay GÃ¼ndogan,28,180.0,W,Manchester City,,,,
-14,Phil Foden,19,171.0,W,Manchester City,,,,0.0
-15,Kevin De Bruyne,28,181.0,W,Manchester City,,,,
-16,David Silva,33,170.0,W,Manchester City,,,,
-17,Raheem Sterling,24,170.0,W,Manchester City,,,,
-18,Leroy Sané,23,184.0,W,Manchester City,,,,
-19,Bernardo Silva,25,173.0,W,Manchester City,"Jul 1, 2017",Monaco,Man City,"40,00 mil. €"
-20,Riyad Mahrez,28,179.0,W,Manchester City,,,,
-21,Gabriel Jesus,22,175.0,CF,Manchester City,,,,
-22,Sergio Agüero,31,173.0,CF,Manchester City,,,,
-23,Alisson,26,191.0,W,Liverpool FC,,,,
-24,Adrián,32,190.0,W,Liverpool FC,,,,
-25,Andy Lonergan,35,193.0,W,Liverpool FC,"Aug 27, 2017",Wolves,Leeds,500 thousand €
-26,Virgil van Dijk,28,193.0,W,Liverpool FC,"Jan 1, 2018",Southampton,Liverpool,"30,00 mil. €"
-27,Joe Gomez,22,188.0,W,Liverpool FC,,,,
-28,Joel Matip,28,195.0,W,Liverpool FC,,,,
-29,Dejan Lovren,30,188.0,W,Liverpool FC,,,,
-30,Andrew Robertson,25,178.0,W,Liverpool FC,"Jul 21, 2017",Hull City,Liverpool,"7,00 mil. €"
-31,Trent Alexander-Arnold,20,180.0,W,Liverpool FC,,,,
-32,Nathaniel Clyne,28,175.0,W,Liverpool FC,,,,
-33,Fabinho,25,188.0,W,Liverpool FC,,,,
-34,Georginio Wijnaldum,28,175.0,W,Liverpool FC,,,,
-35,Naby Keïta,24,172.0,W,Liverpool FC,,,,
-36,Jordan Henderson,29,187.0,W,Liverpool FC,,,,
-37,Alex Oxlade-Chamberlain,26,175.0,W,Liverpool FC,"Aug 31, 2017",Arsenal,Liverpool,"22,00 mil. €"
-38,James Milner,33,175.0,W,Liverpool FC,,,,
-39,Adam Lallana,31,172.0,W,Liverpool FC,,,,
-40,Sadio Mané,27,174.0,W,Liverpool FC,,,,
-41,Mohamed Salah,27,175.0,W,Liverpool FC,"Jul 1, 2017",AS Roma,Liverpool,"35,00 mil. €"
-42,Xherdan Shaqiri,27,169.0,W,Liverpool FC,,,,
-43,Roberto Firmino,27,181.0,CF,Liverpool FC,,,,
-44,Divock Origi,24,185.0,CF,Liverpool FC,"Jun 30, 2018Aug 31, 2017",VfL WolfsburgLiverpool,LiverpoolVfL Wolfsburg,"10,00 mil. €12,00 mil. €"
-45,Hugo Lloris,32,188.0,W,Tottenham Hotspur,,,,
-46,Paulo Gazzaniga,27,195.0,W,Tottenham Hotspur,"Aug 23, 2017",Southampton,Spurs,"1,00 mil. €"
-47,Davinson SÃ¡nchez,23,187.0,W,Tottenham Hotspur,"Aug 23, 2017",Ajax,Spurs,"25,00 mil. â‚¬"
-48,Toby Alderweireld,30,186.0,W,Tottenham Hotspur,,,,
-49,Jan Vertonghen,32,189.0,W,Tottenham Hotspur,,,,
-50,Juan Foyth,21,187.0,W,Tottenham Hotspur,"Aug 30, 2017",Estudiantes,Spurs,"5,00 mil. €"
-51,Danny Rose,29,173.0,W,Tottenham Hotspur,,,,
-52,Ben Davies,26,181.0,W,Tottenham Hotspur,,,,
-53,Serge Aurier,26,176.0,W,Tottenham Hotspur,"Aug 31, 2017",Paris SG,Spurs,"15,00 mil. €"
-54,Kyle Walker-Peters,22,173.0,W,Tottenham Hotspur,,,,
-55,Eric Dier,25,188.0,W,Tottenham Hotspur,,,,
-56,Victor Wanyama,28,184.0,W,Tottenham Hotspur,,,,
-57,Oliver Skipp,19,175.0,W,Tottenham Hotspur,,,,0.0
-58,Tanguy Ndombélé,22,181.0,W,Tottenham Hotspur,"Jun 30, 2018Aug 31, 2017",Olympique LyonSC Amiens,SC AmiensOlympique Lyon,"25,00 mil. €1,00 mil. €"
-59,Giovani Lo Celso,23,177.0,W,Tottenham Hotspur,,,,
-60,Harry Winks,23,178.0,W,Tottenham Hotspur,,,,
-61,Moussa Sissoko,30,187.0,W,Tottenham Hotspur,,,,
-62,Ryan Sessegnon,19,178.0,W,Tottenham Hotspur,,,,
-63,Christian Eriksen,27,182.0,W,Tottenham Hotspur,,,,
-64,Dele Alli,23,188.0,W,Tottenham Hotspur,,,,
-65,Heung-min Son,27,184.0,W,Tottenham Hotspur,,,,
-66,Lucas Moura,27,172.0,W,Tottenham Hotspur,"Jan 31, 2018",Paris SG,Spurs,"28,00 mil. €"
-67,Erik Lamela,27,184.0,W,Tottenham Hotspur,,,,
-68,Harry Kane,26,188.0,CF,Tottenham Hotspur,,,,
-69,Kepa,24,186.0,W,Chelsea FC,,,,
-70,Willy Caballero,37,186.0,W,Chelsea FC,"Jul 1, 2017",Man City,Chelsea,"1,50 mil. €"
-71,Antonio Rüdiger,26,190.0,W,Chelsea FC,"Jul 9, 2017",AS Roma,Chelsea,"25,00 mil. €"
-72,Andreas Christensen,23,188.0,W,Chelsea FC,,,,
-73,Kurt Zouma,24,190.0,W,Chelsea FC,"May 31, 2018Jul 21, 2017",Stoke CityChelsea,ChelseaStoke City,"15,00 mil. €15,00 mil. €"
-74,Fikayo Tomori,21,185.0,W,Chelsea FC,"May 31, 2018Aug 31, 2017",Hull CityChelsea U23,Chelsea U23Hull City,
-75,Michael Hector,27,193.0,W,Chelsea FC,"May 31, 2018Jul 27, 2017",Hull CityChelsea,ChelseaHull City,
-76,Marcos Alonso,28,188.0,W,Chelsea FC,,,,
-77,Emerson,25,175.0,W,Chelsea FC,"Jan 30, 2018",AS Roma,Chelsea,"14,00 mil. €"
-78,César Azpilicueta,30,178.0,W,Chelsea FC,,,,
-79,Reece James,19,182.0,W,Chelsea FC,"Jul 1, 2017",Chelsea U18,Chelsea U23,
-80,Jorginho,27,180.0,W,Chelsea FC,,,,
-81,N'Golo Kanté,28,168.0,W,Chelsea FC,,,,
-82,Mateo Kovacic,25,177.0,W,Chelsea FC,,,,
-83,Ross Barkley,25,185.0,W,Chelsea FC,"Jan 5, 2018",Everton,Chelsea,"25,00 mil. €"
-84,Ruben Loftus-Cheek,23,191.0,W,Chelsea FC,"May 31, 2018Jul 12, 2017",Crystal PalaceChelsea,ChelseaCrystal Palace,"15,00 mil. €5,00 mil. €"
-85,Marco van Ginkel,26,186.0,W,Chelsea FC,"Jun 30, 2018",PSV Eindhoven,Chelsea,"12,00 mil. €"
-86,Mason Mount,20,178.0,W,Chelsea FC,"Jun 30, 2018Jul 24, 2017",VitesseChelsea U23,Chelsea U23Vitesse,"4,00 mil. €400 thousand €"
-87,Callum Hudson-Odoi,18,177.0,W,Chelsea FC,,,,0.0
-88,Christian Pulisic,21,172.0,W,Chelsea FC,,,,
-89,Willian,31,175.0,W,Chelsea FC,,,,
-90,Pedro,32,167.0,W,Chelsea FC,,,,
-91,Tammy Abraham,21,190.0,CF,Chelsea FC,"May 31, 2018Jul 4, 2017Jul 1, 2017",SwanseaChelseaChelsea U23,ChelseaSwanseaChelsea,
-92,Michy Batshuayi,25,184.0,CF,Chelsea FC,"Jun 30, 2018Jan 31, 2018",Bor. DortmundChelsea,ChelseaBor. Dortmund,"40,00 mil. €25,00 mil. €"
-93,Olivier Giroud,32,193.0,CF,Chelsea FC,"Jan 31, 2018",Arsenal,Chelsea,"20,00 mil. €"
-94,David de Gea,28,189.0,W,Manchester United,,,,
-95,Sergio Romero,32,192.0,W,Manchester United,,,,
-96,Lee Grant,36,193.0,W,Manchester United,,,,
-97,Harry Maguire,26,194.0,W,Manchester United,"Jul 1, 2017",Hull City,Leicester,"8,00 mil. €"
-98,Victor Lindelöf,25,187.0,W,Manchester United,"Jul 1, 2017",Benfica,Man Utd,"22,00 mil. €"
-99,Eric Bailly,25,187.0,W,Manchester United,,,,
-100,Phil Jones,27,185.0,W,Manchester United,,,,
-101,Marcos Rojo,29,186.0,W,Manchester United,,,,
-102,Axel Tuanzebe,21,184.0,W,Manchester United,"May 31, 2018Jan 25, 2018",Aston VillaMan Utd,Man UtdAston Villa,"1,00 mil. €1,00 mil. €"
-103,Luke Shaw,24,181.0,W,Manchester United,,,,
-104,Ashley Young,34,176.0,W,Manchester United,,,,
-105,Aaron Wan-Bissaka,21,183.0,W,Manchester United,"Jan 1, 2018",Palace U23,Crystal Palace,0
-106,Diogo Dalot,20,183.0,W,Manchester United,"Feb 21, 2018",FC Porto B,FC Porto,600 thousand €
-107,Timothy Fosu-Mensah,21,190.0,W,Manchester United,"May 31, 2018Aug 10, 2017",Crystal PalaceMan Utd,Man UtdCrystal Palace,"7,00 mil. €2,50 mil. €"
-108,Nemanja Matic,31,194.0,W,Manchester United,"Jul 31, 2017",Chelsea,Man Utd,"35,00 mil. €"
-109,Paul Pogba,26,191.0,W,Manchester United,,,,
-110,Fred,26,169.0,W,Manchester United,,,,
-111,Scott McTominay,22,190.0,W,Manchester United,,,,0.0
-112,Juan Mata,31,170.0,W,Manchester United,,,,
-113,Andreas Pereira,23,178.0,W,Manchester United,"Jun 30, 2018Sep 1, 2017",ValenciaMan Utd,Man UtdValencia,"6,00 mil. €5,00 mil. €"
-114,Anthony Martial,23,183.0,W,Manchester United,,,,
-115,Daniel James,21,170.0,W,Manchester United,"Aug 31, 2017Jul 1, 2017",ShrewsburySwansea U23,Swansea U23Shrewsbury,0
-116,Jesse Lingard,26,174.0,W,Manchester United,,,,
-117,Marcus Rashford,21,185.0,CF,Manchester United,,,,
-118,Mason Greenwood,17,181.0,CF,Manchester United,,,,0.0
-119,Bernd Leno,27,189.0,W,Arsenal FC,,,,
-120,Emiliano Martínez,27,190.0,W,Arsenal FC,"Jun 30, 2018Aug 2, 2017",GetafeArsenal,ArsenalGetafe,
-121,Matt Macey,25,199.0,W,Arsenal FC,,,,
-122,Sokratis,31,186.0,W,Arsenal FC,,,,
-123,David Luiz,32,189.0,W,Arsenal FC,,,,
-124,Shkodran Mustafi,27,184.0,W,Arsenal FC,,,,
-125,Calum Chambers,24,183.0,W,Arsenal FC,,,,
-126,Rob Holding,23,189.0,W,Arsenal FC,,,,
-127,Konstantinos Mavropanos,21,194.0,W,Arsenal FC,"Jan 4, 2018",PAS Giannina,Arsenal,450 thousand €
-128,Kieran Tierney,22,178.0,W,Arsenal FC,,,,
-129,Sead Kolasinac,26,183.0,W,Arsenal FC,"Jul 1, 2017",FC Schalke 04,Arsenal,"15,00 mil. €"
-130,Héctor Bellerín,24,178.0,W,Arsenal FC,,,,
-131,Lucas Torreira,23,166.0,W,Arsenal FC,,,,
-132,Granit Xhaka,26,186.0,W,Arsenal FC,,,,
-133,Dani Ceballos,23,179.0,W,Arsenal FC,"Jul 14, 2017",Real Betis,Real Madrid,"10,00 mil. €"
-134,Mattéo Guendouzi,20,184.0,W,Arsenal FC,,,,
-135,Joe Willock,20,179.0,W,Arsenal FC,,,,0.0
-136,Ainsley Maitland-Niles,22,180.0,W,Arsenal FC,"Jul 1, 2017",Arsenal U23,Arsenal,750 thousand €
-137,Mesut Özil,30,180.0,W,Arsenal FC,,,,
-138,Gabriel Martinelli,18,180.0,W,Arsenal FC,,,,0.0
-139,Nicolas Pépé,24,183.0,W,Arsenal FC,"Jul 1, 2017",SCO Angers,LOSC Lille,"3,00 mil. €"
-140,Reiss Nelson,19,175.0,W,Arsenal FC,"Jul 1, 2017",Arsenal U18,Arsenal U23,
-141,Alexandre Lacazette,28,176.0,CF,Arsenal FC,"Jul 5, 2017",Olympique Lyon,Arsenal,"40,00 mil. €"
-142,Pierre-Emerick Aubameyang,30,187.0,CF,Arsenal FC,"Jan 31, 2018",Bor. Dortmund,Arsenal,
-143,Jordan Pickford,25,185.0,W,Everton FC,"Jul 1, 2017",Sunderland,Everton,"15,00 mil. €"
-144,Jonas Lössl,30,195.0,W,Everton FC,"Jun 30, 2018Jul 1, 2017",Huddersfield1.FSV Mainz 05,1.FSV Mainz 05Huddersfield,"5,00 mil. €1,50 mil. €"
-145,Maarten Stekelenburg,36,197.0,W,Cape Verde,,,,
-146,Michael Keane,26,188.0,W,Everton FC,"Jul 3, 2017",Burnley,Everton,"18,00 mil. €"
-147,Yerry Mina,24,195.0,W,Everton FC,"Jan 11, 2018",Palmeiras,FC Barcelona,"9,00 mil. €"
-148,Mason Holgate,22,187.0,W,Everton FC,,,,
-149,Lucas Digne,26,178.0,W,Everton FC,,,,
-150,Leighton Baines,34,170.0,W,Everton FC,,,,
-151,Seamus Coleman,30,177.0,W,Everton FC,,,,
-152,Djibril Sidibé,27,182.0,W,Everton FC,,,,
-153,Cuco Martina,29,185.0,W,Everton FC,"Jul 17, 2017",Southampton,Everton,"2,00 mil. €"
-154,Jean-Philippe Gbamin,23,186.0,W,Everton FC,,,,
-155,Morgan Schneiderlin,29,186.0,W,Everton FC,,,,
-156,André Gomes,26,188.0,W,Everton FC,,,,
-157,Fabian Delph,29,174.0,W,Everton FC,,,,
-158,Tom Davies,21,180.0,W,Everton FC,,,,
-159,Beni Baningime,21,,W,Everton FC,"Jan 1, 2018",Everton U23,Everton,0
-160,Gylfi Sigurdsson,30,186.0,W,Everton FC,"Aug 16, 2017",Swansea,Everton,
-161,Richarlison,22,179.0,W,Everton FC,"Aug 8, 2017",Fluminense,Watford,"2,00 mil. €"
-162,Alex Iwobi,23,183.0,W,Everton FC,,,,
-163,Bernard,27,164.0,W,Everton FC,,,,
-164,Theo Walcott,30,175.0,W,Everton FC,"Jan 17, 2018",Arsenal,Everton,
-165,Moise Kean,19,183.0,CF,Everton FC,"Jun 30, 2018Aug 31, 2017Jul 1, 2017",Hellas VeronaJuventusJuventus U19,JuventusHellas VeronaJuventus,"12,00 mil. €1,50 mil. €1,50 mil. €"
-166,Dominic Calvert-Lewin,22,187.0,CF,Everton FC,,,,
-167,Cenk Tosun,28,183.0,CF,Everton FC,"Jan 5, 2018",Besiktas,Everton,"10,50 mil. €"
-168,Oumar Niasse,29,182.0,CF,Everton FC,,,,
-169,Kasper Schmeichel,32,189.0,W,Leicester City,,,,
-170,Danny Ward,26,191.0,W,Leicester City,,,,
-171,Eldin Jakupovic,34,191.0,W,Leicester City,"Jul 19, 2017",Hull City,Leicester,"1,00 mil. €"
-172,Caglar Söyüncü,23,187.0,W,Leicester City,,,,
-173,Jonny Evans,31,188.0,W,Leicester City,,,,
-174,Filip Benkovic,22,194.0,W,Leicester City,,,,
-175,Wes Morgan,35,186.0,W,Leicester City,,,,
-176,Ben Chilwell,22,178.0,W,Leicester City,,,,
-177,Christian Fuchs,33,187.0,W,Leicester City,,,,
-178,Ricardo Pereira,25,175.0,W,Leicester City,,,,
-179,James Justin,21,183.0,W,Leicester City,,,,
-180,Wilfred Ndidi,22,183.0,W,Leicester City,,,,
-181,Hamza Choudhury,21,178.0,W,Leicester City,"Jan 1, 2018",Leicester U23,Leicester,
-182,Nampalys Mendy,27,167.0,W,Leicester City,"Jun 30, 2018Aug 31, 2017",OGC NiceLeicester,LeicesterOGC Nice,"5,00 mil. €10,00 mil. €"
-183,Daniel Amartey,24,186.0,W,Leicester City,,,,
-184,Youri Tielemans,22,176.0,W,Leicester City,"Jul 1, 2017",RSC Anderlecht,Monaco,"22,00 mil. €"
-185,Dennis Praet,25,181.0,W,Leicester City,,,,
-186,Matty James,28,181.0,W,Leicester City,,,,
-187,Marc Albrighton,29,175.0,W,Leicester City,,,,
-188,James Maddison,22,175.0,W,Leicester City,,,,
-189,Harvey Barnes,21,180.0,W,Leicester City,"Jan 1, 2018Aug 11, 2017Jul 1, 2017",Barnsley FCLeicesterLeicester U23,LeicesterBarnsley FCLeicester,
-190,Bartosz Kapustka,22,179.0,W,Leicester City,"Jun 30, 2018Jul 14, 2017",SC FreiburgLeicester,LeicesterSC Freiburg,"3,00 mil. €6,00 mil. €"
-191,Demarai Gray,23,180.0,W,Leicester City,,,,
-192,George Thomas,22,173.0,W,Leicester City,"Aug 8, 2017",Coventry,Leicester,
-193,Ayoze Pérez,26,178.0,W,Leicester City,,,,
-194,Jamie Vardy,32,179.0,CF,Leicester City,,,,
-195,Kelechi Iheanacho,22,185.0,CF,Leicester City,"Aug 3, 2017",Man City,Leicester,"15,00 mil. €"
-196,Lukasz Fabianski,34,190.0,W,West Ham United,,,,
-197,Roberto,33,192.0,W,West Ham United,"Jun 30, 2018Jul 5, 2017",Málaga CFEspanyol,EspanyolMálaga CF,"2,00 mil. €2,00 mil. €"
-198,David Martin,33,188.0,W,West Ham United,"Sep 1, 2017Jul 1, 2017",Without ClubMK Dons,MillwallWithout Club,250 thousand €250 thousand €
-199,Issa Diop,22,194.0,W,West Ham United,,,,
-200,Fabián Balbuena,28,188.0,W,West Ham United,,,,
-201,Angelo Ogbonna,31,191.0,W,West Ham United,,,,
-202,Winston Reid,31,191.0,W,West Ham United,,,,
-203,Gonçalo Cardoso,18,189.0,W,West Ham United,"Jul 1, 2017",Penafiel U17,Boavista U19,0
-204,Arthur Masuaku,25,179.0,W,West Ham United,,,,
-205,Aaron Cresswell,29,170.0,W,West Ham United,,,,
-206,Ryan Fredericks,26,181.0,W,West Ham United,,,,
-207,Pablo Zabaleta,34,176.0,W,West Ham United,"Jul 1, 2017",Man City,West Ham,"7,00 mil. €"
-208,Declan Rice,20,185.0,W,West Ham United,,,,0.0
-209,Carlos Sánchez,33,182.0,W,West Ham United,"Jun 30, 2018Jan 31, 2018Jul 1, 2017",EspanyolFiorentinaAston Villa,FiorentinaEspanyolFiorentina,"2,00 mil. €2,50 mil. €3,00 mil. €"
-210,Jack Wilshere,27,172.0,W,West Ham United,,,,
-211,Mark Noble,32,180.0,W,West Ham United,,,,
-212,Pablo Fornals,23,178.0,W,West Ham United,"Jul 24, 2017",Málaga CF,Villarreal,"10,00 mil. €"
-213,Manuel Lanzini,26,167.0,W,West Ham United,,,,
-214,Felipe Anderson,26,175.0,W,West Ham United,,,,
-215,Andrii Yarmolenko,29,190.0,W,West Ham United,"Aug 28, 2017",Dynamo Kyiv,Bor. Dortmund,"18,00 mil. €"
-216,Michail Antonio,29,180.0,W,West Ham United,,,,
-217,Robert Snodgrass,32,182.0,W,West Ham United,"May 31, 2018Aug 25, 2017",Aston VillaWest Ham,West HamAston Villa,"7,00 mil. €8,00 mil. €"
-218,Sébastien Haller,25,190.0,CF,West Ham United,"Jul 1, 2017",FC Utrecht,E. Frankfurt,"8,00 mil. €"
-219,Albian Ajeti,22,183.0,CF,West Ham United,"Oct 2, 2017Jul 1, 2017",FC St. GallenFC Augsburg,FC BaselFC St. Gallen,"1,50 mil. €1,50 mil. €"
-220,Aaron Ramsdale,21,188.0,W,AFC Bournemouth,"May 31, 2018Jan 5, 2018",Chesterfield FCBournemouth,BournemouthChesterfield FC,
-221,Artur Boruc,39,193.0,W,AFC Bournemouth,,,,
-222,Mark Travers,20,191.0,W,AFC Bournemouth,,,,0.0
-223,Nathan Aké,24,180.0,W,AFC Bournemouth,"Jul 1, 2017",Chelsea,Bournemouth,"8,00 mil. €"
-224,Chris Mepham,21,191.0,W,AFC Bournemouth,"Jul 1, 2017",Brentford B,Brentford,0
-225,Steve Cook,28,185.0,W,AFC Bournemouth,,,,
-226,Jack Simpson,22,190.0,W,AFC Bournemouth,,,,0.0
-227,Lloyd Kelly,20,190.0,W,AFC Bournemouth,"Jul 1, 2017",Bristol City U18,Bristol City,0
-228,Diego Rico,26,183.0,W,AFC Bournemouth,,,,
-229,Charlie Daniels,33,178.0,W,AFC Bournemouth,,,,
-230,Adam Smith,28,174.0,W,AFC Bournemouth,,,,
-231,Jack Stacey,23,180.0,W,AFC Bournemouth,,,,0.0
-232,Simon Francis,34,191.0,W,AFC Bournemouth,,,,
-233,Jefferson Lerma,24,179.0,W,AFC Bournemouth,,,,
-234,Lewis Cook,22,175.0,W,AFC Bournemouth,,,,
-235,Philip Billing,23,192.0,W,AFC Bournemouth,,,,
-236,Dan Gosling,29,180.0,W,AFC Bournemouth,,,,
-237,Andrew Surman,33,178.0,W,AFC Bournemouth,,,,
-238,David Brooks,22,173.0,W,AFC Bournemouth,,,,
-239,Ryan Fraser,25,163.0,W,AFC Bournemouth,,,,
-240,Arnaut Danjuma,22,178.0,W,AFC Bournemouth,,,,
-241,Junior Stanislas,29,183.0,W,AFC Bournemouth,,,,
-242,Harry Wilson,22,173.0,W,AFC Bournemouth,"May 31, 2018Jan 31, 2018",Hull CityLiverpool U23,Liverpool U23Hull City,
-243,Jordon Ibe,23,176.0,W,AFC Bournemouth,,,,
-244,Joshua King,27,181.0,W,AFC Bournemouth,,,,
-245,Callum Wilson,27,180.0,CF,AFC Bournemouth,,,,
-246,Dominic Solanke,22,186.0,CF,AFC Bournemouth,"Jul 10, 2017",Chelsea U23,Liverpool,"2,00 mil. €"
-247,Rui Patrício,31,190.0,W,Wolverhampton Wanderers,,,,
-248,John Ruddy,32,192.0,W,Wolverhampton Wanderers,"Jul 10, 2017",Norwich,Wolves,"3,00 mil. €"
-249,Harry Burgoyne,22,193.0,W,Wolverhampton Wanderers,,,,
-250,Willy Boly,28,195.0,W,Wolverhampton Wanderers,"Jun 30, 2018Jul 8, 2017",WolvesFC Porto,FC PortoWolves,"5,00 mil. €3,50 mil. €"
-251,Conor Coady,26,185.0,W,Wolverhampton Wanderers,,,,
-252,Jesús Vallejo,22,184.0,W,Wolverhampton Wanderers,,,,
-253,Ryan Bennett,29,188.0,W,Wolverhampton Wanderers,"Jul 1, 2017",Norwich,Wolves,"2,00 mil. €"
-254,Max Kilman,22,192.0,W,Wolverhampton Wanderers,,,,
-255,Jonny Otto,25,175.0,W,Wolverhampton Wanderers,,,,
-256,Rúben Vinagre,20,174.0,W,Wolverhampton Wanderers,"Jun 30, 2018Jul 20, 2017Jul 1, 2017",WolvesMonacoMonaco U19,MonacoWolvesMonaco,
-257,Matt Doherty,27,186.0,W,Wolverhampton Wanderers,,,,
-258,Phil Ofosu-Ayeh,28,181.0,W,Wolverhampton Wanderers,"Jul 1, 2017",E. Braunschweig,Wolves,800 thousand €
-259,Rúben Neves,22,180.0,W,Wolverhampton Wanderers,"Jul 8, 2017",FC Porto,Wolves,"10,00 mil. €"
-260,Leander Dendoncker,24,188.0,W,Wolverhampton Wanderers,,,,
-261,Romain Saïss,29,188.0,W,Wolverhampton Wanderers,,,,
-262,João Moutinho,33,170.0,W,Wolverhampton Wanderers,,,,
-263,Morgan Gibbs-White,19,171.0,W,Wolverhampton Wanderers,,,,0.0
-264,Bruno Jordão,20,180.0,W,Wolverhampton Wanderers,"Aug 31, 2017Jul 1, 2017",BragaBraga B,LazioBraga,150 thousand €150 thousand €
-265,Ming-Yang Yang,24,172.0,W,Wolverhampton Wanderers,"Aug 31, 2017Jul 6, 2017",FC WinterthurLausanne-Sport,WolvesFC Winterthur,325 thousand €500 thousand €
-266,Diogo Jota,22,178.0,W,Wolverhampton Wanderers,"Jun 30, 2018Jul 25, 2017",WolvesAtlético Madrid,Atlético MadridWolves,"12,00 mil. €8,00 mil. €"
-267,Jordan Graham,24,182.0,W,Wolverhampton Wanderers,"Jan 15, 2018Aug 31, 2017",FulhamWolves,WolvesFulham,
-268,Adama Traoré,23,178.0,W,Wolverhampton Wanderers,,,,
-269,Pedro Neto,19,172.0,W,Wolverhampton Wanderers,"Aug 31, 2017Jul 1, 2017",BragaBraga U17,LazioBraga,
-270,RaÃºl JimÃ©nez,28,188.0,CF,Wolverhampton Wanderers,,,,
-271,Patrick Cutrone,21,183.0,CF,Wolverhampton Wanderers,,,,
-272,Martin Dubravka,30,191.0,W,Newcastle United,"Jun 30, 2018Jan 31, 2018Jul 1, 2017",NewcastleSparta PrahaSlovan Liberec,Sparta PrahaNewcastleSparta Praha,"4,00 mil. €900 thousand €600 thousand €"
-273,Karl Darlow,28,190.0,W,Newcastle United,,,,
-274,Rob Elliot,33,190.0,W,Newcastle United,,,,
-275,Jamaal Lascelles,25,188.0,W,Newcastle United,,,,
-276,Fabian Schär,27,186.0,W,Newcastle United,"Jul 21, 2017",TSG Hoffenheim,Dep. La Coruña,"2,50 mil. €"
-277,Florian Lejeune,28,190.0,W,Newcastle United,"Jul 4, 2017",SD Eibar,Newcastle,"5,00 mil. €"
-278,Federico Fernández,30,190.0,W,Newcastle United,,,,
-279,Ciaran Clark,29,188.0,W,Newcastle United,,,,
-280,Paul Dummett,27,183.0,W,Newcastle United,,,,
-281,Jetro Willems,25,169.0,W,Newcastle United,"Jul 21, 2017",PSV Eindhoven,E. Frankfurt,"7,50 mil. €"
-282,DeAndre Yedlin,26,173.0,W,Newcastle United,,,,
-283,Emil Krafth,25,184.0,W,Newcastle United,,,,
-284,Javier Manquillo,25,178.0,W,Newcastle United,"Jul 21, 2017",Atlético Madrid,Newcastle,"4,00 mil. €"
-285,Jamie Sterry,23,180.0,W,Newcastle United,"May 31, 2018Jan 31, 2018",Crewe AlexandraNewcastle,NewcastleCrewe Alexandra,
-286,Isaac Hayden,24,186.0,W,Newcastle United,,,,
-287,Sung-yong Ki,30,190.0,W,Newcastle United,,,,
-288,Jack Colback,29,177.0,W,Newcastle United,"May 31, 2018Jan 31, 2018",Nottm ForestNewcastle,NewcastleNottm Forest,
-289,Sean Longstaff,21,181.0,W,Newcastle United,"May 31, 2018Jul 21, 2017",BlackpoolNewcastle U23,Newcastle U23Blackpool,
-290,Jonjo Shelvey,27,184.0,W,Newcastle United,,,,
-291,Matt Ritchie,30,173.0,W,Newcastle United,,,,
-292,Miguel Almirón,25,174.0,W,Newcastle United,,,,
-293,Henri Saivet,28,175.0,W,Newcastle United,"Jun 30, 2018Jan 31, 2018",SivassporNewcastle,NewcastleSivasspor,"2,00 mil. €5,00 mil. €"
-294,Christian Atsu,27,165.0,W,Newcastle United,"Jul 1, 2017",Chelsea,Newcastle,
-295,Allan Saint-Maximin,22,173.0,W,Newcastle United,"Aug 7, 2017",Monaco,OGC Nice,"3,00 mil. €"
-296,Joelinton,23,186.0,CF,Newcastle United,"Jun 30, 2018",Rapid Vienna,TSG Hoffenheim,"1,25 mil. €"
-297,Dwight Gayle,28,177.0,CF,Newcastle United,,,,
-298,Yoshinori Muto,27,178.0,CF,Newcastle United,,,,
-299,Andy Carroll,30,193.0,CF,Newcastle United,,,,
-300,Angus Gunn,23,196.0,W,Southampton FC,"May 31, 2018Jul 1, 2017",NorwichMan City,Man CityNorwich,"2,00 mil. €250 thousand €"
-301,Alex McCarthy,29,193.0,W,Southampton FC,,,,
-302,Jannik Vestergaard,27,199.0,W,Southampton FC,,,,
-303,Jan Bednarek,23,189.0,W,Southampton FC,"Jul 1, 2017",Lech Poznan,Southampton,500 thousand €
-304,Jack Stephens,25,185.0,W,Southampton FC,,,,
-305,Kevin Danso,21,190.0,W,Southampton FC,,,,
-306,Maya Yoshida,31,189.0,W,Southampton FC,,,,
-307,Ryan Bertrand,30,179.0,W,Southampton FC,,,,
-308,Sam McQueen,24,181.0,W,Southampton FC,,,,
-309,Cédric Soares,28,171.0,W,Southampton FC,,,,
-310,Yan Valery,20,180.0,W,Southampton FC,,,,
-311,Oriol Romeu,27,183.0,W,Southampton FC,,,,
-312,James Ward-Prowse,24,177.0,W,Southampton FC,,,,
-313,Pierre-Emile Höjbjerg,24,185.0,W,Southampton FC,,,,
-314,Stuart Armstrong,27,183.0,W,Southampton FC,,,,
-315,Nathan Redmond,25,173.0,W,Southampton FC,,,,
-316,Moussa Djenepo,21,177.0,W,Southampton FC,"Jul 1, 2017",Yeelen,Standard Liège,
-317,Sofiane Boufal,26,175.0,W,Southampton FC,,,,
-318,Danny Ings,27,178.0,CF,Southampton FC,,,,
-319,Che Adams,23,179.0,CF,Southampton FC,,,,
-320,Shane Long,32,180.0,CF,Southampton FC,,,,
-321,Michael Obafemi,19,170.0,CF,Southampton FC,,,,
-322,Wayne Hennessey,32,197.0,W,Crystal Palace,,,,
-323,Vicente Guaita,32,190.0,W,Crystal Palace,,,,
-324,Stephen Henderson,31,188.0,W,Crystal Palace,"May 31, 2018Jan 31, 2018",PortsmouthNottm Forest,Nottm ForestPortsmouth,
-325,Dion Henry,22,192.0,W,Crystal Palace,"Aug 4, 2017",Peterborough,Crystal Palace,50 thousand €
-326,Mamadou Sakho,29,187.0,W,Crystal Palace,"Aug 31, 2017",Liverpool,Crystal Palace,"15,00 mil. €"
-327,James Tomkins,30,192.0,W,Crystal Palace,,,,
-328,Gary Cahill,33,193.0,W,Crystal Palace,,,,
-329,Jairo Riedewald,23,182.0,W,Crystal Palace,"Jul 24, 2017",Ajax,Crystal Palace,"5,00 mil. €"
-330,Scott Dann,32,194.0,W,Crystal Palace,,,,
-331,Martin Kelly,29,191.0,W,Crystal Palace,,,,
-332,Patrick van Aanholt,29,176.0,W,Crystal Palace,,,,
-333,Joel Ward,29,186.0,W,Crystal Palace,,,,
-334,Luka Milivojevic,28,186.0,W,Crystal Palace,,,,
-335,Cheikhou KouyatÃ©,29,189.0,W,Crystal Palace,,,,
-336,Víctor Camarasa,25,183.0,W,Crystal Palace,"Jul 1, 2017",Levante,Real Betis,"5,00 mil. €"
-337,James McArthur,31,178.0,W,Crystal Palace,,,,
-338,James McCarthy,28,180.0,W,Crystal Palace,,,,
-339,Jeffrey Schlupp,26,178.0,W,Crystal Palace,,,,
-340,Max Meyer,24,173.0,W,Crystal Palace,,,,
-341,Wilfried Zaha,26,180.0,W,Crystal Palace,,,,
-342,Andros Townsend,28,181.0,W,Crystal Palace,,,,
-343,Christian Benteke,28,190.0,CF,Crystal Palace,,,,
-344,Jordan Ayew,28,182.0,CF,Crystal Palace,,,,
-345,Connor Wickham,26,189.0,CF,Crystal Palace,,,,
-346,Ben Foster,36,193.0,W,Watford FC,,,,
-347,Heurelho Gomes,38,191.0,W,Watford FC,,,,
-348,Pontus Dahlberg,20,195.0,W,Watford FC,"Jun 30, 2018Feb 1, 2018Jan 31, 2018",IFK GöteborgWatfordIFK Göteborg,WatfordIFK GöteborgWatford,"1,00 mil. €800 thousand €800 thousand €"
-349,Daniel Bachmann,25,191.0,W,Watford FC,"Jul 1, 2017",Stoke City,Watford,250 thousand €
-350,Christian Kabasele,28,187.0,W,Watford FC,,,,
-351,Craig Dawson,29,188.0,W,Watford FC,,,,
-352,Craig Cathcart,30,189.0,W,Watford FC,,,,
-353,Adrian Mariappa,32,179.0,W,Watford FC,,,,
-354,Sebastian Prödl,32,194.0,W,Watford FC,,,,
-355,Adam Masina,25,191.0,W,Watford FC,,,,
-356,Marvin Zeegelaar,29,186.0,W,Watford FC,"Aug 31, 2017",Sporting CP,Watford,"3,50 mil. €"
-357,José Holebas,35,184.0,W,Watford FC,,,,
-358,Daryl Janmaat,30,185.0,W,Watford FC,,,,
-359,Kiko Femenía,28,171.0,W,Watford FC,"Jul 1, 2017",Alavés,Watford,"4,00 mil. €"
-360,Dimitri Foulquier,26,183.0,W,Watford FC,"Jun 30, 2018Aug 26, 2017Aug 25, 2017",R. StrasbourgWatfordGranada CF,WatfordR. StrasbourgWatford,"2,00 mil. €2,00 mil. €2,00 mil. €"
-361,Étienne Capoue,31,189.0,W,Watford FC,,,,
-362,Nathaniel Chalobah,24,185.0,W,Watford FC,"Jul 13, 2017",Chelsea,Watford,
-363,Abdoulaye Doucouré,26,183.0,W,Watford FC,,,,
-364,Will Hughes,24,185.0,W,Watford FC,"Jul 1, 2017",Derby,Watford,"8,00 mil. €"
-365,Tom Cleverley,30,175.0,W,Watford FC,"Jul 1, 2017",Everton,Watford,"8,00 mil. €"
-366,Domingos Quina,19,173.0,W,Watford FC,,,,0.0
-367,Tom Dele-Bashiru,20,179.0,W,Watford FC,"Jul 1, 2017",Man City U18,Man City U23,0
-368,Roberto Pereyra,28,182.0,W,Watford FC,,,,
-369,Isaac Success,23,182.0,W,Watford FC,"Jun 30, 2018Jan 31, 2018",Málaga CFWatford,WatfordMálaga CF,"2,00 mil. €4,00 mil. €"
-370,Ismaïla Sarr,21,185.0,W,Watford FC,"Jul 26, 2017",FC Metz,Stade Rennais,"2,50 mil. €"
-371,Gerard Deulofeu,25,177.0,W,Watford FC,"Jun 30, 2018Jan 29, 2018Jul 1, 2017",WatfordFC BarcelonaEverton,FC BarcelonaWatfordFC Barcelona,"14,00 mil. €14,00 mil. €12,00 mil. €"
-372,Andre Gray,28,178.0,CF,Watford FC,"Aug 9, 2017",Burnley,Watford,"10,00 mil. €"
-373,Danny Welbeck,28,185.0,CF,Watford FC,,,,
-374,Troy Deeney,31,184.0,CF,Watford FC,,,,
-375,Mathew Ryan,27,184.0,W,Brighton & Hove Albion,"Jul 1, 2017",Valencia,Brighton,"3,50 mil. €"
-376,David Button,30,191.0,W,Brighton & Hove Albion,,,,
-377,Jason Steele,29,188.0,W,Brighton & Hove Albion,"Jul 26, 2017",Blackburn,Sunderland,"1,00 mil. €"
-378,Lewis Dunk,27,192.0,W,Brighton & Hove Albion,,,,
-379,Adam Webster,24,190.0,W,Brighton & Hove Albion,,,,
-380,Shane Duffy,27,193.0,W,Brighton & Hove Albion,,,,
-381,Dan Burn,27,201.0,W,Brighton & Hove Albion,,,,
-382,Leon Balogun,31,190.0,W,Brighton & Hove Albion,,,,
-383,Bernardo,24,186.0,W,Brighton & Hove Albion,,,,
-384,Gaëtan Bong,31,183.0,W,Brighton & Hove Albion,,,,
-385,Martín Montoya,28,175.0,W,Brighton & Hove Albion,,,,
-386,Ezequiel Schelotto,30,187.0,W,Brighton & Hove Albion,"Aug 31, 2017",Sporting CP,Brighton,"4,50 mil. €"
-387,Tudor Baluta,20,191.0,W,Brighton & Hove Albion,,,,
-388,Yves Bissouma,23,182.0,W,Brighton & Hove Albion,,,,
-389,Davy Pröpper,28,185.0,W,Brighton & Hove Albion,"Aug 7, 2017",PSV Eindhoven,Brighton,"10,00 mil. €"
-390,Aaron Mooy,29,179.0,W,Brighton & Hove Albion,"Jul 1, 2017",Man City,Huddersfield,"5,00 mil. €"
-391,Pascal Groß,28,181.0,W,Brighton & Hove Albion,"Jul 1, 2017",FC Ingolstadt,Brighton,"4,00 mil. €"
-392,Dale Stephens,29,185.0,W,Brighton & Hove Albion,,,,
-393,Andrew Crofts,35,175.0,W,Brighton & Hove Albion U23,"Aug 31, 2017",Charlton,Scunthorpe Utd.,500 thousand €
-394,Solly March,25,180.0,W,Brighton & Hove Albion,,,,
-395,Leandro Trossard,24,172.0,W,Brighton & Hove Albion,,,,
-396,José Izquierdo,27,171.0,W,Brighton & Hove Albion,"Aug 20, 2017",Club Brugge,Brighton,"14,00 mil. €"
-397,Alireza Jahanbakhsh,26,180.0,W,Brighton & Hove Albion,,,,
-398,Neal Maupay,23,173.0,CF,Brighton & Hove Albion,"Jul 14, 2017",Saint-Étienne,Brentford,"2,00 mil. €"
-399,Glenn Murray,35,186.0,CF,Brighton & Hove Albion,,,,
-400,Nick Pope,27,197.0,W,Burnley FC,,,,
-401,Joe Hart,32,196.0,W,Burnley FC,"May 31, 2018Jul 18, 2017",West HamMan City,Man CityWest Ham,"10,00 mil. €13,00 mil. €"
-402,Bailey Peacock-Farrell,22,194.0,W,Burnley FC,"Nov 12, 2017Oct 12, 2017",York CityLeeds,LeedsYork City,100 thousand €100 thousand €
-403,Adam Legzdins,32,190.0,W,Burnley FC,"Aug 8, 2017",Birmingham,Burnley,250 thousand €
-404,James Tarkowski,26,185.0,W,Burnley FC,,,,
-405,Ben Mee,29,180.0,W,Burnley FC,,,,
-406,Ben Gibson,26,185.0,W,Burnley FC,,,,
-407,Kevin Long,29,188.0,W,Burnley FC,,,,
-408,Charlie Taylor,26,176.0,W,Burnley FC,"Jul 6, 2017",Leeds,Burnley,
-409,Erik Pieters,31,183.0,W,Burnley FC,,,,
-410,Matthew Lowton,30,180.0,W,Burnley FC,,,,
-411,Phil Bardsley,34,180.0,W,Burnley FC,"Jul 25, 2017",Stoke City,Burnley,"1,50 mil. €"
-412,Jack Cork,30,185.0,W,Burnley FC,"Jul 11, 2017",Swansea,Burnley,
-413,Ashley Westwood,29,174.0,W,Burnley FC,,,,
-414,Jeff Hendrick,27,185.0,W,Burnley FC,,,,
-415,Danny Drinkwater,29,177.0,W,Burnley FC,"Aug 31, 2017",Leicester,Chelsea,
-416,Robbie Brady,27,176.0,W,Burnley FC,,,,
-417,Dwight McNeil,19,183.0,W,Burnley FC,,,,0.0
-418,Johann Berg Gudmundsson,28,186.0,W,Burnley FC,,,,
-419,Aaron Lennon,32,165.0,W,Burnley FC,"Jan 23, 2018",Everton,Burnley,"5,00 mil. €"
-420,Chris Wood,27,191.0,CF,Burnley FC,"Aug 21, 2017",Leeds,Burnley,"6,00 mil. €"
-421,Ashley Barnes,29,186.0,CF,Burnley FC,,,,
-422,Jay Rodríguez,30,185.0,CF,Burnley FC,"Jul 2, 2017",Southampton,West Brom,
-423,Matej Vydra,27,180.0,CF,Burnley FC,,,,
-424,Tom Heaton,33,188.0,W,Aston Villa,,,,
-425,Lovre Kalinic,29,201.0,W,Aston Villa,,,,
-426,Jed Steer,26,182.0,W,Aston Villa,,,,
-427,Örjan Nyland,29,192.0,W,Aston Villa,,,,
-428,Tyrone Mings,26,195.0,W,Aston Villa,,,,
-429,BjÃ¶rn Engels,25,194.0,W,Aston Villa,"Aug 31, 2017",Club Brugge,Olympiacos,"8,00 mil. â‚¬"
-430,James Chester,30,177.0,W,Aston Villa,,,,
-431,Ezri Konsa,21,183.0,W,Aston Villa,,,,
-432,Kortney Hause,24,191.0,W,Aston Villa,,,,
-433,Matt Targett,24,183.0,W,Aston Villa,"May 31, 2018Jan 22, 2018",FulhamSouthampton,SouthamptonFulham,"3,00 mil. €3,00 mil. €"
-434,Neil Taylor,30,176.0,W,Aston Villa,,,,
-435,Frédéric Guilbert,24,178.0,W,Aston Villa,"Jul 28, 2017",G. Bordeaux,SM Caen,"2,50 mil. €"
-436,Ahmed Elmohamady,32,182.0,W,Aston Villa,"Jul 19, 2017",Hull City,Aston Villa,"4,00 mil. €"
-437,Marvelous Nakamba,25,177.0,W,Aston Villa,"Jul 1, 2017",Vitesse,Club Brugge,"3,00 mil. €"
-438,Douglas Luiz,21,178.0,W,Aston Villa,"Aug 1, 2017Jul 15, 2017",Man CityVasco da Gama,GironaMan City,0
-439,John McGinn,24,178.0,W,Aston Villa,,,,
-440,Conor Hourihane,28,181.0,W,Aston Villa,,,,
-441,Henri Lansbury,28,183.0,W,Aston Villa,,,,
-442,Jack Grealish,24,175.0,W,Aston Villa,,,,
-443,Trezeguet,24,179.0,W,Aston Villa,"Jun 30, 2018Jul 5, 2017",KasimpasaRSC Anderlecht,RSC AnderlechtKasimpasa,"3,50 mil. €1,50 mil. €"
-444,Anwar El Ghazi,24,189.0,W,Aston Villa,,,,
-445,Jota,28,180.0,W,Aston Villa,"Aug 31, 2017",Brentford,Birmingham,
-446,Wesley,22,191.0,CF,Aston Villa,,,,
-447,Jonathan Kodjia,29,189.0,CF,Aston Villa,,,,
-448,Keinan Davis,21,178.0,CF,Aston Villa,,,,0.0
-449,Tim Krul,31,193.0,W,Norwich City,"Sep 20, 2017Sep 19, 2017Aug 31, 2017",NewcastleBrightonNewcastle,BrightonNewcastleBrighton,"4,00 mil. €4,00 mil. €4,00 mil. €"
-450,Ralf Fährmann,30,196.0,W,Norwich City,,,,
-451,Michael McGovern,35,190.0,W,Norwich City,,,,
-452,Ben Godfrey,21,183.0,W,Norwich City,"May 31, 2018Aug 24, 2017",ShrewsburyNorwich,NorwichShrewsbury,
-453,Christoph Zimmermann,26,194.0,W,Norwich City,"Jul 1, 2017",B. Dortmund II,Norwich,250 thousand €
-454,Grant Hanley,27,188.0,W,Norwich City,"Aug 30, 2017",Newcastle,Norwich,"4,50 mil. €"
-455,Timm Klose,31,195.0,W,Norwich City,,,,
-456,Jamal Lewis,21,,W,Norwich City,,,,0.0
-457,Philip Heise,28,184.0,W,Norwich City,,,,
-458,Max Aarons,19,178.0,W,Norwich City,,,,0.0
-459,Sam Byram,26,183.0,W,Norwich City,,,,
-460,Ibrahim Amadou,26,183.0,W,Norwich City,,,,
-461,Tom Trybull,26,181.0,W,Norwich City,"Aug 4, 2017",ADO Den Haag,Norwich,650 thousand €
-462,Alexander Tettey,33,181.0,W,Norwich City,,,,
-463,Mario Vrancic,30,187.0,W,Norwich City,"Jul 1, 2017",SV Darmstadt 98,Norwich,"1,25 mil. €"
-464,Moritz Leitner,26,174.0,W,Norwich City,"Jun 30, 2018Jan 25, 2018",NorwichFC Augsburg,FC AugsburgNorwich,
-465,Kenny McLean,27,180.0,W,Norwich City,"May 14, 2018Jan 23, 2018Jan 22, 2018",Aberdeen FCNorwichAberdeen FC,NorwichAberdeen FCNorwich,650 thousand €600 thousand €600 thousand €
-466,Todd Cantwell,21,177.0,W,Norwich City,"Jun 30, 2018Jan 28, 2018",Fortuna SittardNorwich U23,Norwich U23Fortuna Sittard,
-467,Marco Stiepermann,28,190.0,W,Norwich City,"Aug 6, 2017",VfL Bochum,Norwich,900 thousand €
-468,Onel Hernández,26,172.0,W,Norwich City,"Jan 25, 2018",E. Braunschweig,Norwich,
-469,Emiliano Buendía,22,172.0,W,Norwich City,"Jun 30, 2018Jul 27, 2017",CyD LeonesaGetafe,GetafeCyD Leonesa,"2,50 mil. €500 thousand €"
-470,Patrick Roberts,22,167.0,W,Norwich City,"May 21, 2018Aug 28, 2017",CelticMan City,Man CityCeltic,"7,50 mil. €7,50 mil. €"
-471,Teemu Pukki,29,180.0,CF,Norwich City,,,,
-472,Josip Drmic,27,184.0,CF,Norwich City,,,,
-473,Dennis Srbeny,25,190.0,CF,Norwich City,"Jan 25, 2018Jul 1, 2017",SC PaderbornBFC Dynamo,NorwichSC Paderborn,400 thousand €175 thousand €
-474,Dean Henderson,22,188.0,W,Sheffield United,"May 31, 2018Jul 10, 2017",ShrewsburyMan Utd U23,Man Utd U23Shrewsbury,250 thousand €100 thousand €
-475,Michael Verrips,22,196.0,W,Sheffield United,"Jun 30, 2018Aug 7, 2017",MVV MaastrichtSparta R.,Sparta R.MVV Maastricht,250 thousand €100 thousand €
-476,Simon Moore,29,191.0,W,Sheffield United,,,,
-477,John Egan,26,185.0,W,Sheffield United,,,,
-478,Jack O'Connell,25,191.0,W,Sheffield United,,,,
-479,Chris Basham,31,190.0,W,Sheffield United,,,,
-480,Phil Jagielka,37,180.0,W,Sheffield United,,,,
-481,Richard Stearman,32,191.0,W,Sheffield United,"Jul 6, 2017",Fulham,Sheffield Utd.,"1,50 mil. €"
-482,Kean Bryan,22,185.0,W,Sheffield United,"May 31, 2018Aug 31, 2017",Oldham AthleticMan City U23,Man City U23Oldham Athletic,
-483,Enda Stevens,29,183.0,W,Sheffield United,"Jul 1, 2017",Portsmouth,Sheffield Utd.,250 thousand €
-484,George Baldock,26,178.0,W,Sheffield United,"Jul 1, 2017",MK Dons,Sheffield Utd.,150 thousand €
-485,Kieron Freeman,27,178.0,W,Sheffield United,,,,
-486,Muhamed Besic,27,180.0,W,Sheffield United,"May 31, 2018Jan 31, 2018",MiddlesbroughEverton,EvertonMiddlesbrough,"5,00 mil. €5,00 mil. €"
-487,John Fleck,28,169.0,W,Sheffield United,,,,
-488,Oliver Norwood,28,175.0,W,Sheffield United,"May 31, 2018Jul 25, 2017",FulhamBrighton,BrightonFulham,"3,00 mil. €2,50 mil. €"
-489,John Lundstram,25,181.0,W,Sheffield United,"Jul 25, 2017",Oxford United,Sheffield Utd.,500 thousand €
-490,Ben Osborn,25,176.0,W,Sheffield United,,,,
-491,Luke Freeman,27,176.0,W,Sheffield United,,,,
-492,Ravel Morrison,26,175.0,W,Sheffield United,"Jun 30, 2018Aug 31, 2017",AtlasLazio,LazioAtlas,600 thousand €350 thousand €
-493,Callum Robinson,24,178.0,W,Sheffield United,,,,
-494,Ricky Holmes,32,188.0,W,Sheffield United,"Jan 15, 2018",Charlton,Sheffield Utd.,250 thousand €
-495,Oliver McBurnie,23,188.0,CF,Sheffield United,"May 31, 2018Jan 31, 2018",Barnsley FCSwansea,SwanseaBarnsley FC,"1,00 mil. €1,00 mil. €"
-496,Lys Mousset,23,184.0,CF,Sheffield United,,,,
-497,Billy Sharp,33,175.0,CF,Sheffield United,,,,
-498,David McGoldrick,31,184.0,CF,Sheffield United,,,,
-499,Leon Clarke,34,188.0,CF,Sheffield United,,,,
+0,Ederson,26,188.0,Goalkeeper,Manchester City,"Jul 1, 2017",Benfica,Man City,"22,00 mil. €"
+1,Claudio Bravo,36,184.0,Goalkeeper,Manchester City,,,,
+2,Scott Carson,34,188.0,Goalkeeper,Manchester City,,,,
+3,Aymeric Laporte,25,191.0,Defender - Centre-Back,Manchester City,"Jan 30, 2018",Athletic,Man City,
+4,John Stones,25,188.0,Defender - Centre-Back,Manchester City,,,,
+5,Nicolás Otamendi,31,183.0,Defender - Centre-Back,Manchester City,,,,
+6,Eric García,18,182.0,Defender - Centre-Back,Manchester City,,,,0.0
+7,Benjamin Mendy,25,185.0,Defender - Left-Back,Manchester City,"Jul 24, 2017",Monaco,Man City,"13,00 mil. €"
+8,Oleksandr Zinchenko,22,175.0,Defender - Left-Back,Manchester City,,,,
+9,Angeliño,22,175.0,Defender - Left-Back,Manchester City,"Jun 29, 2018Jul 4, 2017",NAC BredaMan City U23,Man City U23NAC Breda,
+10,João Cancelo,25,182.0,Defender - Right-Back,Manchester City,"Jun 30, 2018Aug 22, 2017",InterValencia,ValenciaInter,"35,00 mil. €20,00 mil. €"
+11,Kyle Walker,29,183.0,Defender - Right-Back,Manchester City,"Jul 14, 2017",Spurs,Man City,"30,00 mil. €"
+12,Rodri,23,191.0,Midfielder - Defensive Midfield,Manchester City,,,,
+13,Fernandinho,34,179.0,Midfielder - Defensive Midfield,Manchester City,,,,
+14,Ilkay GÃ¼ndogan,28,180.0,Midfielder - Central Midfield,Manchester City,,,,
+15,Phil Foden,19,171.0,Midfielder - Central Midfield,Manchester City,,,,0.0
+16,Kevin De Bruyne,28,181.0,Midfielder - Attacking Midfield,Manchester City,,,,
+17,David Silva,33,170.0,Midfielder - Attacking Midfield,Manchester City,,,,
+18,Raheem Sterling,24,170.0,Forward - Left Winger,Manchester City,,,,
+19,Leroy Sané,23,184.0,Forward - Left Winger,Manchester City,,,,
+20,Bernardo Silva,25,173.0,Forward - Right Winger,Manchester City,"Jul 1, 2017",Monaco,Man City,"40,00 mil. €"
+21,Riyad Mahrez,28,179.0,Forward - Right Winger,Manchester City,,,,
+22,Gabriel Jesus,22,175.0,Forward - Centre-Forward,Manchester City,,,,
+23,Sergio Agüero,31,173.0,Forward - Centre-Forward,Manchester City,,,,
+24,Alisson,27,191.0,Goalkeeper,Liverpool FC,,,,
+25,Adrián,32,190.0,Goalkeeper,Liverpool FC,,,,
+26,Caoimhin Kelleher,20,188.0,Goalkeeper,Liverpool FC,,,,0.0
+27,Andy Lonergan,35,193.0,Goalkeeper,Liverpool FC,"Aug 27, 2017",Wolves,Leeds,500 K €
+28,Virgil van Dijk,28,193.0,Defender - Centre-Back,Liverpool FC,"Jan 1, 2018",Southampton,Liverpool,"30,00 mil. €"
+29,Joe Gomez,22,188.0,Defender - Centre-Back,Liverpool FC,,,,
+30,Joel Matip,28,195.0,Defender - Centre-Back,Liverpool FC,,,,
+31,Dejan Lovren,30,188.0,Defender - Centre-Back,Liverpool FC,,,,
+32,Sepp van den Berg,17,189.0,Defender - Centre-Back,Liverpool FC,"Oct 1, 2017Jul 1, 2017",PEC Zwolle U17PEC Youth,PEC Zwolle U19PEC Zwolle U17,0
+33,Andrew Robertson,25,178.0,Defender - Left-Back,Liverpool FC,"Jul 21, 2017",Hull City,Liverpool,"7,00 mil. €"
+34,Trent Alexander-Arnold,21,180.0,Defender - Right-Back,Liverpool FC,,,,
+35,Nathaniel Clyne,28,175.0,Defender - Right-Back,Liverpool FC,,,,
+36,Fabinho,25,188.0,Midfielder - Defensive Midfield,Liverpool FC,,,,
+37,Georginio Wijnaldum,28,175.0,Midfielder - Central Midfield,Liverpool FC,,,,
+38,Naby Keïta,24,172.0,Midfielder - Central Midfield,Liverpool FC,,,,
+39,Jordan Henderson,29,187.0,Midfielder - Central Midfield,Liverpool FC,,,,
+40,Alex Oxlade-Chamberlain,26,175.0,Midfielder - Central Midfield,Liverpool FC,"Aug 31, 2017",Arsenal,Liverpool,"22,00 mil. €"
+41,James Milner,33,175.0,Midfielder - Central Midfield,Liverpool FC,,,,
+42,Adam Lallana,31,172.0,Midfielder - Attacking Midfield,Liverpool FC,,,,
+43,Sadio Mané,27,174.0,Forward - Left Winger,Liverpool FC,,,,
+44,Mohamed Salah,27,175.0,Forward - Right Winger,Liverpool FC,"Jul 1, 2017",AS Roma,Liverpool,"35,00 mil. €"
+45,Xherdan Shaqiri,28,169.0,Forward - Right Winger,Liverpool FC,,,,
+46,Roberto Firmino,28,181.0,Forward - Centre-Forward,Liverpool FC,,,,
+47,Divock Origi,24,185.0,Forward - Centre-Forward,Liverpool FC,"Jun 30, 2018Aug 31, 2017",VfL WolfsburgLiverpool,LiverpoolVfL Wolfsburg,"10,00 mil. €12,00 mil. €"
+48,Hugo Lloris,32,188.0,Goalkeeper,Tottenham Hotspur,,,,
+49,Paulo Gazzaniga,27,195.0,Goalkeeper,Tottenham Hotspur,"Aug 23, 2017",Southampton,Spurs,"1,00 mil. €"
+50,Michel Vorm,35,183.0,Goalkeeper,Tottenham Hotspur,,,,
+51,Davinson SÃ¡nchez,23,187.0,Defender - Centre-Back,Tottenham Hotspur,"Aug 23, 2017",Ajax,Spurs,"25,00 mil. â‚¬"
+52,Toby Alderweireld,30,186.0,Defender - Centre-Back,Tottenham Hotspur,,,,
+53,Jan Vertonghen,32,189.0,Defender - Centre-Back,Tottenham Hotspur,,,,
+54,Juan Foyth,21,187.0,Defender - Centre-Back,Tottenham Hotspur,"Aug 30, 2017",Estudiantes,Spurs,"5,00 mil. €"
+55,Danny Rose,29,173.0,Defender - Left-Back,Tottenham Hotspur,,,,
+56,Ben Davies,26,181.0,Defender - Left-Back,Tottenham Hotspur,,,,
+57,Serge Aurier,26,176.0,Defender - Right-Back,Tottenham Hotspur,"Aug 31, 2017",Paris SG,Spurs,"15,00 mil. €"
+58,Kyle Walker-Peters,22,173.0,Defender - Right-Back,Tottenham Hotspur,,,,
+59,Eric Dier,25,188.0,Midfielder - Defensive Midfield,Tottenham Hotspur,,,,
+60,Victor Wanyama,28,184.0,Midfielder - Defensive Midfield,Tottenham Hotspur,,,,
+61,Oliver Skipp,19,175.0,Midfielder - Defensive Midfield,Tottenham Hotspur,,,,0.0
+62,Tanguy Ndombélé,22,181.0,Midfielder - Central Midfield,Tottenham Hotspur,"Jun 30, 2018Aug 31, 2017",Olympique LyonSC Amiens,SC AmiensOlympique Lyon,"25,00 mil. €1,00 mil. €"
+63,Giovani Lo Celso,23,177.0,Midfielder - Central Midfield,Tottenham Hotspur,,,,
+64,Harry Winks,23,178.0,Midfielder - Central Midfield,Tottenham Hotspur,,,,
+65,Moussa Sissoko,30,187.0,Midfielder - Central Midfield,Tottenham Hotspur,,,,
+66,Ryan Sessegnon,19,178.0,Midfielder - Left Midfield,Tottenham Hotspur,,,,
+67,Christian Eriksen,27,182.0,Midfielder - Attacking Midfield,Tottenham Hotspur,,,,
+68,Dele Alli,23,188.0,Midfielder - Attacking Midfield,Tottenham Hotspur,,,,
+69,Heung-min Son,27,184.0,Forward - Left Winger,Tottenham Hotspur,,,,
+70,Lucas Moura,27,172.0,Forward - Right Winger,Tottenham Hotspur,"Jan 31, 2018",Paris SG,Spurs,"28,00 mil. €"
+71,Erik Lamela,27,184.0,Forward - Right Winger,Tottenham Hotspur,,,,
+72,Harry Kane,26,188.0,Forward - Centre-Forward,Tottenham Hotspur,,,,
+73,Kepa,25,186.0,Goalkeeper,Chelsea FC,,,,
+74,Willy Caballero,38,186.0,Goalkeeper,Chelsea FC,"Jul 1, 2017",Man City,Chelsea,"1,50 mil. €"
+75,Antonio Rüdiger,26,190.0,Defender - Centre-Back,Chelsea FC,"Jul 9, 2017",AS Roma,Chelsea,"25,00 mil. €"
+76,Andreas Christensen,23,188.0,Defender - Centre-Back,Chelsea FC,,,,
+77,Kurt Zouma,24,190.0,Defender - Centre-Back,Chelsea FC,"May 31, 2018Jul 21, 2017",Stoke CityChelsea,ChelseaStoke City,"15,00 mil. €15,00 mil. €"
+78,Fikayo Tomori,21,185.0,Defender - Centre-Back,Chelsea FC,"May 31, 2018Aug 31, 2017",Hull CityChelsea U23,Chelsea U23Hull City,
+79,Michael Hector,27,193.0,Defender - Centre-Back,Chelsea FC,"May 31, 2018Jul 27, 2017",Hull CityChelsea,ChelseaHull City,
+80,Marcos Alonso,28,188.0,Defender - Left-Back,Chelsea FC,,,,
+81,Emerson,25,175.0,Defender - Left-Back,Chelsea FC,"Jan 30, 2018",AS Roma,Chelsea,"14,00 mil. €"
+82,César Azpilicueta,30,178.0,Defender - Right-Back,Chelsea FC,,,,
+83,Reece James,19,182.0,Defender - Right-Back,Chelsea FC,"Jul 1, 2017",Chelsea U18,Chelsea U23,
+84,Jorginho,27,180.0,Midfielder - Defensive Midfield,Chelsea FC,,,,
+85,N'Golo Kanté,28,168.0,Midfielder - Central Midfield,Chelsea FC,,,,
+86,Mateo Kovacic,25,177.0,Midfielder - Central Midfield,Chelsea FC,,,,
+87,Ross Barkley,25,185.0,Midfielder - Central Midfield,Chelsea FC,"Jan 5, 2018",Everton,Chelsea,"25,00 mil. €"
+88,Ruben Loftus-Cheek,23,191.0,Midfielder - Central Midfield,Chelsea FC,"May 31, 2018Jul 12, 2017",Crystal PalaceChelsea,ChelseaCrystal Palace,"15,00 mil. €5,00 mil. €"
+89,Marco van Ginkel,26,186.0,Midfielder - Central Midfield,Chelsea FC,"Jun 30, 2018",PSV Eindhoven,Chelsea,"12,00 mil. €"
+90,Mason Mount,20,178.0,Midfielder - Attacking Midfield,Chelsea FC,"Jun 30, 2018Jul 24, 2017",VitesseChelsea U23,Chelsea U23Vitesse,"4,00 mil. €400 K €"
+91,Callum Hudson-Odoi,18,177.0,Forward - Left Winger,Chelsea FC,,,,0.0
+92,Christian Pulisic,21,172.0,Forward - Right Winger,Chelsea FC,,,,
+93,Willian,31,175.0,Forward - Right Winger,Chelsea FC,,,,
+94,Pedro,32,167.0,Forward - Right Winger,Chelsea FC,,,,
+95,Tammy Abraham,22,190.0,Forward - Centre-Forward,Chelsea FC,"May 31, 2018Jul 4, 2017Jul 1, 2017",SwanseaChelseaChelsea U23,ChelseaSwanseaChelsea,
+96,Michy Batshuayi,26,184.0,Forward - Centre-Forward,Chelsea FC,"Jun 30, 2018Jan 31, 2018",Bor. DortmundChelsea,ChelseaBor. Dortmund,"40,00 mil. €25,00 mil. €"
+97,Olivier Giroud,33,193.0,Forward - Centre-Forward,Chelsea FC,"Jan 31, 2018",Arsenal,Chelsea,"20,00 mil. €"
+98,David de Gea,28,189.0,Goalkeeper,Manchester United,,,,
+99,Sergio Romero,32,192.0,Goalkeeper,Manchester United,,,,
+100,Lee Grant,36,193.0,Goalkeeper,Manchester United,,,,
+101,Harry Maguire,26,194.0,Defender - Centre-Back,Manchester United,"Jul 1, 2017",Hull City,Leicester,"8,00 mil. €"
+102,Victor Lindelöf,25,187.0,Defender - Centre-Back,Manchester United,"Jul 1, 2017",Benfica,Man Utd,"22,00 mil. €"
+103,Eric Bailly,25,187.0,Defender - Centre-Back,Manchester United,,,,
+104,Phil Jones,27,185.0,Defender - Centre-Back,Manchester United,,,,
+105,Marcos Rojo,29,186.0,Defender - Centre-Back,Manchester United,,,,
+106,Axel Tuanzebe,21,184.0,Defender - Centre-Back,Manchester United,"May 31, 2018Jan 25, 2018",Aston VillaMan Utd,Man UtdAston Villa,"1,00 mil. €1,00 mil. €"
+107,Luke Shaw,24,181.0,Defender - Left-Back,Manchester United,,,,
+108,Ashley Young,34,176.0,Defender - Left-Back,Manchester United,,,,
+109,Aaron Wan-Bissaka,21,183.0,Defender - Right-Back,Manchester United,"Jan 1, 2018",Palace U23,Crystal Palace,0
+110,Diogo Dalot,20,183.0,Defender - Right-Back,Manchester United,"Feb 21, 2018",FC Porto B,FC Porto,600 K €
+111,Timothy Fosu-Mensah,21,190.0,Defender - Right-Back,Manchester United,"May 31, 2018Aug 10, 2017",Crystal PalaceMan Utd,Man UtdCrystal Palace,"7,00 mil. €2,50 mil. €"
+112,Nemanja Matic,31,194.0,Midfielder - Defensive Midfield,Manchester United,"Jul 31, 2017",Chelsea,Man Utd,"35,00 mil. €"
+113,Paul Pogba,26,191.0,Midfielder - Central Midfield,Manchester United,,,,
+114,Fred,26,169.0,Midfielder - Central Midfield,Manchester United,,,,
+115,Scott McTominay,22,190.0,Midfielder - Central Midfield,Manchester United,,,,0.0
+116,Juan Mata,31,170.0,Midfielder - Attacking Midfield,Manchester United,,,,
+117,Andreas Pereira,23,178.0,Midfielder - Attacking Midfield,Manchester United,"Jun 30, 2018Sep 1, 2017",ValenciaMan Utd,Man UtdValencia,"6,00 mil. €5,00 mil. €"
+118,Anthony Martial,23,183.0,Forward - Left Winger,Manchester United,,,,
+119,Daniel James,21,170.0,Forward - Left Winger,Manchester United,"Aug 31, 2017Jul 1, 2017",ShrewsburySwansea U23,Swansea U23Shrewsbury,0
+120,Jesse Lingard,26,174.0,Forward - Right Winger,Manchester United,,,,
+121,Marcus Rashford,21,185.0,Forward - Centre-Forward,Manchester United,,,,
+122,Mason Greenwood,18,181.0,Forward - Centre-Forward,Manchester United,,,,0.0
+123,Bernd Leno,27,189.0,Goalkeeper,Arsenal FC,,,,
+124,Emiliano Martínez,27,190.0,Goalkeeper,Arsenal FC,"Jun 30, 2018Aug 2, 2017",GetafeArsenal,ArsenalGetafe,
+125,Matt Macey,25,199.0,Goalkeeper,Arsenal FC,,,,
+126,Sokratis,31,186.0,Defender - Centre-Back,Arsenal FC,,,,
+127,David Luiz,32,189.0,Defender - Centre-Back,Arsenal FC,,,,
+128,Shkodran Mustafi,27,184.0,Defender - Centre-Back,Arsenal FC,,,,
+129,Calum Chambers,24,183.0,Defender - Centre-Back,Arsenal FC,,,,
+130,Rob Holding,24,189.0,Defender - Centre-Back,Arsenal FC,,,,
+131,Konstantinos Mavropanos,21,194.0,Defender - Centre-Back,Arsenal FC,"Jan 4, 2018",PAS Giannina,Arsenal,450 K €
+132,Kieran Tierney,22,178.0,Defender - Left-Back,Arsenal FC,,,,
+133,Sead Kolasinac,26,183.0,Defender - Left-Back,Arsenal FC,"Jul 1, 2017",FC Schalke 04,Arsenal,"15,00 mil. €"
+134,Héctor Bellerín,24,178.0,Defender - Right-Back,Arsenal FC,,,,
+135,Lucas Torreira,23,166.0,Midfielder - Defensive Midfield,Arsenal FC,,,,
+136,Granit Xhaka,27,186.0,Midfielder - Defensive Midfield,Arsenal FC,,,,
+137,Dani Ceballos,23,179.0,Midfielder - Central Midfield,Arsenal FC,"Jul 14, 2017",Real Betis,Real Madrid,"10,00 mil. €"
+138,Mattéo Guendouzi,20,184.0,Midfielder - Central Midfield,Arsenal FC,,,,
+139,Joe Willock,20,179.0,Midfielder - Central Midfield,Arsenal FC,,,,0.0
+140,Ainsley Maitland-Niles,22,180.0,Midfielder - Right Midfield,Arsenal FC,"Jul 1, 2017",Arsenal U23,Arsenal,750 K €
+141,Mesut Özil,31,180.0,Midfielder - Attacking Midfield,Arsenal FC,,,,
+142,Gabriel Martinelli,18,180.0,Forward - Left Winger,Arsenal FC,,,,0.0
+143,Bukayo Saka,18,178.0,Forward - Left Winger,Arsenal FC U23,,,,0.0
+144,Nicolas Pépé,24,183.0,Forward - Right Winger,Arsenal FC,"Jul 1, 2017",SCO Angers,LOSC Lille,"3,00 mil. €"
+145,Reiss Nelson,19,175.0,Forward - Right Winger,Arsenal FC,"Jul 1, 2017",Arsenal U18,Arsenal U23,
+146,Alexandre Lacazette,28,176.0,Forward - Centre-Forward,Arsenal FC,"Jul 5, 2017",Olympique Lyon,Arsenal,"40,00 mil. €"
+147,Pierre-Emerick Aubameyang,30,187.0,Forward - Centre-Forward,Arsenal FC,"Jan 31, 2018",Bor. Dortmund,Arsenal,
+148,Jordan Pickford,25,185.0,Goalkeeper,Everton FC,"Jul 1, 2017",Sunderland,Everton,"15,00 mil. €"
+149,Jonas Lössl,30,195.0,Goalkeeper,Everton FC,"Jun 30, 2018Jul 1, 2017",Huddersfield1.FSV Mainz 05,1.FSV Mainz 05Huddersfield,"5,00 mil. €1,50 mil. €"
+150,Maarten Stekelenburg,37,197.0,Goalkeeper,Everton FC,,,,
+151,Michael Keane,26,188.0,Defender - Centre-Back,Everton FC,"Jul 3, 2017",Burnley,Everton,"18,00 mil. €"
+152,Yerry Mina,25,195.0,Defender - Centre-Back,Everton FC,"Jan 11, 2018",Palmeiras,FC Barcelona,"9,00 mil. €"
+153,Mason Holgate,22,187.0,Defender - Centre-Back,Everton FC,,,,
+154,Lucas Digne,26,178.0,Defender - Left-Back,Everton FC,,,,
+155,Leighton Baines,34,170.0,Defender - Left-Back,Everton FC,,,,
+156,Seamus Coleman,31,177.0,Defender - Right-Back,Everton FC,,,,
+157,Djibril Sidibé,27,182.0,Defender - Right-Back,Everton FC,,,,
+158,Cuco Martina,30,185.0,Defender - Right-Back,Everton FC,"Jul 17, 2017",Southampton,Everton,"2,00 mil. €"
+159,Jean-Philippe Gbamin,24,186.0,Midfielder - Defensive Midfield,Everton FC,,,,
+160,Morgan Schneiderlin,29,186.0,Midfielder - Defensive Midfield,Everton FC,,,,
+161,André Gomes,26,188.0,Midfielder - Central Midfield,Everton FC,,,,
+162,Fabian Delph,29,174.0,Midfielder - Central Midfield,Everton FC,,,,
+163,Tom Davies,21,180.0,Midfielder - Central Midfield,Everton FC,,,,
+164,Beni Baningime,21,,Midfielder - Central Midfield,Everton FC,"Jan 1, 2018",Everton U23,Everton,0
+165,Gylfi Sigurdsson,30,186.0,Midfielder - Attacking Midfield,Everton FC,"Aug 16, 2017",Swansea,Everton,
+166,Richarlison,22,179.0,Forward - Left Winger,Everton FC,"Aug 8, 2017",Fluminense,Watford,"2,00 mil. €"
+167,Alex Iwobi,23,183.0,Forward - Left Winger,Everton FC,,,,
+168,Bernard,27,164.0,Forward - Left Winger,Everton FC,,,,
+169,Theo Walcott,30,175.0,Forward - Right Winger,Everton FC,"Jan 17, 2018",Arsenal,Everton,
+170,Moise Kean,19,183.0,Forward - Centre-Forward,Everton FC,"Jun 30, 2018Aug 31, 2017Jul 1, 2017",Hellas VeronaJuventusJuventus U19,JuventusHellas VeronaJuventus,"12,00 mil. €1,50 mil. €1,50 mil. €"
+171,Dominic Calvert-Lewin,22,187.0,Forward - Centre-Forward,Everton FC,,,,
+172,Cenk Tosun,28,183.0,Forward - Centre-Forward,Everton FC,"Jan 5, 2018",Besiktas,Everton,"10,50 mil. €"
+173,Oumar Niasse,29,182.0,Forward - Centre-Forward,Everton FC,,,,
+174,Kasper Schmeichel,32,189.0,Goalkeeper,Leicester City,,,,
+175,Danny Ward,26,191.0,Goalkeeper,Leicester City,,,,
+176,Eldin Jakupovic,35,191.0,Goalkeeper,Leicester City,"Jul 19, 2017",Hull City,Leicester,"1,00 mil. €"
+177,Caglar Söyüncü,23,187.0,Defender - Centre-Back,Leicester City,,,,
+178,Jonny Evans,31,188.0,Defender - Centre-Back,Leicester City,,,,
+179,Filip Benkovic,22,194.0,Defender - Centre-Back,Leicester City,,,,
+180,Wes Morgan,35,186.0,Defender - Centre-Back,Leicester City,,,,
+181,Ben Chilwell,22,178.0,Defender - Left-Back,Leicester City,,,,
+182,Christian Fuchs,33,187.0,Defender - Left-Back,Leicester City,,,,
+183,Ricardo Pereira,26,175.0,Defender - Right-Back,Leicester City,,,,
+184,James Justin,21,183.0,Defender - Right-Back,Leicester City,,,,
+185,Wilfred Ndidi,22,183.0,Midfielder - Defensive Midfield,Leicester City,,,,
+186,Hamza Choudhury,22,178.0,Midfielder - Defensive Midfield,Leicester City,"Jan 1, 2018",Leicester U23,Leicester,
+187,Nampalys Mendy,27,167.0,Midfielder - Defensive Midfield,Leicester City,"Jun 30, 2018Aug 31, 2017",OGC NiceLeicester,LeicesterOGC Nice,"5,00 mil. €10,00 mil. €"
+188,Daniel Amartey,24,186.0,Midfielder - Defensive Midfield,Leicester City,,,,
+189,Youri Tielemans,22,176.0,Midfielder - Central Midfield,Leicester City,"Jul 1, 2017",RSC Anderlecht,Monaco,"22,00 mil. €"
+190,Dennis Praet,25,181.0,Midfielder - Central Midfield,Leicester City,,,,
+191,Matty James,28,181.0,Midfielder - Central Midfield,Leicester City,,,,
+192,Marc Albrighton,29,175.0,Midfielder - Right Midfield,Leicester City,,,,
+193,James Maddison,22,175.0,Midfielder - Attacking Midfield,Leicester City,,,,
+194,Harvey Barnes,21,180.0,Midfielder - Attacking Midfield,Leicester City,"Jan 1, 2018Aug 11, 2017Jul 1, 2017",Barnsley FCLeicesterLeicester U23,LeicesterBarnsley FCLeicester,
+195,Bartosz Kapustka,22,179.0,Midfielder - Attacking Midfield,Leicester City,"Jun 30, 2018Jul 14, 2017",SC FreiburgLeicester,LeicesterSC Freiburg,"3,00 mil. €6,00 mil. €"
+196,Demarai Gray,23,180.0,Forward - Left Winger,Leicester City,,,,
+197,Ayoze Pérez,26,178.0,Forward - Right Winger,Leicester City,,,,
+198,George Thomas,22,173.0,Forward - Right Winger,Leicester City,"Aug 8, 2017",Coventry,Leicester,
+199,Jamie Vardy,32,179.0,Forward - Centre-Forward,Leicester City,,,,
+200,Kelechi Iheanacho,23,185.0,Forward - Centre-Forward,Leicester City,"Aug 3, 2017",Man City,Leicester,"15,00 mil. €"
+201,Lukasz Fabianski,34,190.0,Goalkeeper,West Ham United,,,,
+202,Roberto,33,192.0,Goalkeeper,West Ham United,"Jun 30, 2018Jul 5, 2017",Málaga CFEspanyol,EspanyolMálaga CF,"2,00 mil. €2,00 mil. €"
+203,David Martin,33,188.0,Goalkeeper,West Ham United,"Sep 1, 2017Jul 1, 2017",Without ClubMK Dons,MillwallWithout Club,250 K €250 K €
+204,Issa Diop,22,194.0,Defender - Centre-Back,West Ham United,,,,
+205,Fabián Balbuena,28,188.0,Defender - Centre-Back,West Ham United,,,,
+206,Angelo Ogbonna,31,191.0,Defender - Centre-Back,West Ham United,,,,
+207,Winston Reid,31,191.0,Defender - Centre-Back,West Ham United,,,,
+208,Gonçalo Cardoso,18,189.0,Defender - Centre-Back,West Ham United,"Jul 1, 2017",Penafiel U17,Boavista U19,0
+209,Arthur Masuaku,25,179.0,Defender - Left-Back,West Ham United,,,,
+210,Aaron Cresswell,29,170.0,Defender - Left-Back,West Ham United,,,,
+211,Ryan Fredericks,27,181.0,Defender - Right-Back,West Ham United,,,,
+212,Pablo Zabaleta,34,176.0,Defender - Right-Back,West Ham United,"Jul 1, 2017",Man City,West Ham,"7,00 mil. €"
+213,Declan Rice,20,185.0,Midfielder - Defensive Midfield,West Ham United,,,,0.0
+214,Carlos Sánchez,33,182.0,Midfielder - Defensive Midfield,West Ham United,"Jun 30, 2018Jan 31, 2018Jul 1, 2017",EspanyolFiorentinaAston Villa,FiorentinaEspanyolFiorentina,"2,00 mil. €2,50 mil. €3,00 mil. €"
+215,Jack Wilshere,27,172.0,Midfielder - Central Midfield,West Ham United,,,,
+216,Mark Noble,32,180.0,Midfielder - Central Midfield,West Ham United,,,,
+217,Pablo Fornals,23,178.0,Midfielder - Attacking Midfield,West Ham United,"Jul 24, 2017",Málaga CF,Villarreal,"10,00 mil. €"
+218,Manuel Lanzini,26,167.0,Midfielder - Attacking Midfield,West Ham United,,,,
+219,Felipe Anderson,26,175.0,Forward - Left Winger,West Ham United,,,,
+220,Andrii Yarmolenko,29,190.0,Forward - Right Winger,West Ham United,"Aug 28, 2017",Dynamo Kyiv,Bor. Dortmund,"18,00 mil. €"
+221,Michail Antonio,29,180.0,Forward - Right Winger,West Ham United,,,,
+222,Robert Snodgrass,32,182.0,Forward - Right Winger,West Ham United,"May 31, 2018Aug 25, 2017",Aston VillaWest Ham,West HamAston Villa,"7,00 mil. €8,00 mil. €"
+223,Sébastien Haller,25,190.0,Forward - Centre-Forward,West Ham United,"Jul 1, 2017",FC Utrecht,E. Frankfurt,"8,00 mil. €"
+224,Albian Ajeti,22,183.0,Forward - Centre-Forward,West Ham United,"Oct 2, 2017Jul 1, 2017",FC St. GallenFC Augsburg,FC BaselFC St. Gallen,"1,50 mil. €1,50 mil. €"
+225,Aaron Ramsdale,21,188.0,Goalkeeper,AFC Bournemouth,"May 31, 2018Jan 5, 2018",Chesterfield FCBournemouth,BournemouthChesterfield FC,
+226,Artur Boruc,39,193.0,Goalkeeper,AFC Bournemouth,,,,
+227,Mark Travers,20,191.0,Goalkeeper,AFC Bournemouth,,,,0.0
+228,Nathan Aké,24,180.0,Defender - Centre-Back,AFC Bournemouth,"Jul 1, 2017",Chelsea,Bournemouth,"8,00 mil. €"
+229,Chris Mepham,21,191.0,Defender - Centre-Back,AFC Bournemouth,"Jul 1, 2017",Brentford B,Brentford,0
+230,Steve Cook,28,185.0,Defender - Centre-Back,AFC Bournemouth,,,,
+231,Jack Simpson,22,190.0,Defender - Centre-Back,AFC Bournemouth,,,,0.0
+232,Lloyd Kelly,21,190.0,Defender - Left-Back,AFC Bournemouth,"Jul 1, 2017",Bristol City U18,Bristol City,0
+233,Diego Rico,26,183.0,Defender - Left-Back,AFC Bournemouth,,,,
+234,Charlie Daniels,33,178.0,Defender - Left-Back,AFC Bournemouth,,,,
+235,Adam Smith,28,174.0,Defender - Right-Back,AFC Bournemouth,,,,
+236,Jack Stacey,23,180.0,Defender - Right-Back,AFC Bournemouth,,,,0.0
+237,Simon Francis,34,191.0,Defender - Right-Back,AFC Bournemouth,,,,
+238,Jefferson Lerma,24,179.0,Midfielder - Defensive Midfield,AFC Bournemouth,,,,
+239,Lewis Cook,22,175.0,Midfielder - Central Midfield,AFC Bournemouth,,,,
+240,Philip Billing,23,192.0,Midfielder - Central Midfield,AFC Bournemouth,,,,
+241,Dan Gosling,29,180.0,Midfielder - Central Midfield,AFC Bournemouth,,,,
+242,Andrew Surman,33,178.0,Midfielder - Central Midfield,AFC Bournemouth,,,,
+243,David Brooks,22,173.0,Midfielder - Attacking Midfield,AFC Bournemouth,,,,
+244,Ryan Fraser,25,163.0,Forward - Left Winger,AFC Bournemouth,,,,
+245,Arnaut Danjuma,22,178.0,Forward - Left Winger,AFC Bournemouth,,,,
+246,Junior Stanislas,29,183.0,Forward - Left Winger,AFC Bournemouth,,,,
+247,Harry Wilson,22,173.0,Forward - Right Winger,AFC Bournemouth,"May 31, 2018Jan 31, 2018",Hull CityLiverpool U23,Liverpool U23Hull City,
+248,Jordon Ibe,23,176.0,Forward - Right Winger,AFC Bournemouth,,,,
+249,Joshua King,27,181.0,Forward - Second Striker,AFC Bournemouth,,,,
+250,Callum Wilson,27,180.0,Forward - Centre-Forward,AFC Bournemouth,,,,
+251,Dominic Solanke,22,186.0,Forward - Centre-Forward,AFC Bournemouth,"Jul 10, 2017",Chelsea U23,Liverpool,"2,00 mil. €"
+252,Rui Patrício,31,190.0,Goalkeeper,Wolverhampton Wanderers,,,,
+253,John Ruddy,32,192.0,Goalkeeper,Wolverhampton Wanderers,"Jul 10, 2017",Norwich,Wolves,"3,00 mil. €"
+254,Harry Burgoyne,22,193.0,Goalkeeper,Wolverhampton Wanderers,,,,
+255,Willy Boly,28,195.0,Defender - Centre-Back,Wolverhampton Wanderers,"Jun 30, 2018Jul 8, 2017",WolvesFC Porto,FC PortoWolves,"5,00 mil. €3,50 mil. €"
+256,Conor Coady,26,185.0,Defender - Centre-Back,Wolverhampton Wanderers,,,,
+257,Jesús Vallejo,22,184.0,Defender - Centre-Back,Wolverhampton Wanderers,,,,
+258,Ryan Bennett,29,188.0,Defender - Centre-Back,Wolverhampton Wanderers,"Jul 1, 2017",Norwich,Wolves,"2,00 mil. €"
+259,Max Kilman,22,192.0,Defender - Centre-Back,Wolverhampton Wanderers,,,,
+260,Jonny Otto,25,175.0,Defender - Left-Back,Wolverhampton Wanderers,,,,
+261,Rúben Vinagre,20,174.0,Defender - Left-Back,Wolverhampton Wanderers,"Jun 30, 2018Jul 20, 2017Jul 1, 2017",WolvesMonacoMonaco U19,MonacoWolvesMonaco,
+262,Matt Doherty,27,186.0,Defender - Right-Back,Wolverhampton Wanderers,,,,
+263,Phil Ofosu-Ayeh,28,181.0,Defender - Right-Back,Wolverhampton Wanderers,"Jul 1, 2017",E. Braunschweig,Wolves,800 K €
+264,Rúben Neves,22,180.0,Midfielder - Defensive Midfield,Wolverhampton Wanderers,"Jul 8, 2017",FC Porto,Wolves,"10,00 mil. €"
+265,Leander Dendoncker,24,188.0,Midfielder - Defensive Midfield,Wolverhampton Wanderers,,,,
+266,Romain Saïss,29,188.0,Midfielder - Defensive Midfield,Wolverhampton Wanderers,,,,
+267,João Moutinho,33,170.0,Midfielder - Central Midfield,Wolverhampton Wanderers,,,,
+268,Morgan Gibbs-White,19,171.0,Midfielder - Central Midfield,Wolverhampton Wanderers,,,,0.0
+269,Bruno Jordão,21,180.0,Midfielder - Central Midfield,Wolverhampton Wanderers,"Aug 31, 2017Jul 1, 2017",BragaBraga B,LazioBraga,150 K €150 K €
+270,Ming-Yang Yang,24,172.0,Midfielder - Central Midfield,Wolverhampton Wanderers,"Aug 31, 2017Jul 6, 2017",FC WinterthurLausanne-Sport,WolvesFC Winterthur,325 K €500 K €
+271,Diogo Jota,22,178.0,Forward - Left Winger,Wolverhampton Wanderers,"Jun 30, 2018Jul 25, 2017",WolvesAtlético Madrid,Atlético MadridWolves,"12,00 mil. €8,00 mil. €"
+272,Jordan Graham,24,182.0,Forward - Left Winger,Wolverhampton Wanderers,"Jan 15, 2018Aug 31, 2017",FulhamWolves,WolvesFulham,
+273,Adama Traoré,23,178.0,Forward - Right Winger,Wolverhampton Wanderers,,,,
+274,Pedro Neto,19,172.0,Forward - Right Winger,Wolverhampton Wanderers,"Aug 31, 2017Jul 1, 2017",BragaBraga U17,LazioBraga,
+275,RaÃºl JimÃ©nez,28,188.0,Forward - Centre-Forward,Wolverhampton Wanderers,,,,
+276,Patrick Cutrone,21,183.0,Forward - Centre-Forward,Wolverhampton Wanderers,,,,
+277,Martin Dubravka,30,191.0,Goalkeeper,Newcastle United,"Jun 30, 2018Jan 31, 2018Jul 1, 2017",NewcastleSparta PrahaSlovan Liberec,Sparta PrahaNewcastleSparta Praha,"4,00 mil. €900 K €600 K €"
+278,Karl Darlow,29,190.0,Goalkeeper,Newcastle United,,,,
+279,Rob Elliot,33,190.0,Goalkeeper,Newcastle United,,,,
+280,Jamaal Lascelles,25,188.0,Defender - Centre-Back,Newcastle United,,,,
+281,Fabian Schär,27,186.0,Defender - Centre-Back,Newcastle United,"Jul 21, 2017",TSG Hoffenheim,Dep. La Coruña,"2,50 mil. €"
+282,Florian Lejeune,28,190.0,Defender - Centre-Back,Newcastle United,"Jul 4, 2017",SD Eibar,Newcastle,"5,00 mil. €"
+283,Federico Fernández,30,190.0,Defender - Centre-Back,Newcastle United,,,,
+284,Ciaran Clark,30,188.0,Defender - Centre-Back,Newcastle United,,,,
+285,Paul Dummett,28,183.0,Defender - Left-Back,Newcastle United,,,,
+286,Jetro Willems,25,169.0,Defender - Left-Back,Newcastle United,"Jul 21, 2017",PSV Eindhoven,E. Frankfurt,"7,50 mil. €"
+287,DeAndre Yedlin,26,173.0,Defender - Right-Back,Newcastle United,,,,
+288,Emil Krafth,25,184.0,Defender - Right-Back,Newcastle United,,,,
+289,Javier Manquillo,25,178.0,Defender - Right-Back,Newcastle United,"Jul 21, 2017",Atlético Madrid,Newcastle,"4,00 mil. €"
+290,Jamie Sterry,23,180.0,Defender - Right-Back,Newcastle United,"May 31, 2018Jan 31, 2018",Crewe AlexandraNewcastle,NewcastleCrewe Alexandra,
+291,Isaac Hayden,24,186.0,Midfielder - Defensive Midfield,Newcastle United,,,,
+292,Sung-yong Ki,30,190.0,Midfielder - Defensive Midfield,Newcastle United,,,,
+293,Jack Colback,29,177.0,Midfielder - Defensive Midfield,Newcastle United,"May 31, 2018Jan 31, 2018",Nottm ForestNewcastle,NewcastleNottm Forest,
+294,Sean Longstaff,21,181.0,Midfielder - Central Midfield,Newcastle United,"May 31, 2018Jul 21, 2017",BlackpoolNewcastle U23,Newcastle U23Blackpool,
+295,Jonjo Shelvey,27,184.0,Midfielder - Central Midfield,Newcastle United,,,,
+296,Matt Ritchie,30,173.0,Midfielder - Right Midfield,Newcastle United,,,,
+297,Miguel Almirón,25,174.0,Midfielder - Attacking Midfield,Newcastle United,,,,
+298,Henri Saivet,28,175.0,Midfielder - Attacking Midfield,Newcastle United,"Jun 30, 2018Jan 31, 2018",SivassporNewcastle,NewcastleSivasspor,"2,00 mil. €5,00 mil. €"
+299,Christian Atsu,27,165.0,Forward - Left Winger,Newcastle United,"Jul 1, 2017",Chelsea,Newcastle,
+300,Allan Saint-Maximin,22,173.0,Forward - Right Winger,Newcastle United,"Aug 7, 2017",Monaco,OGC Nice,"3,00 mil. €"
+301,Joelinton,23,186.0,Forward - Centre-Forward,Newcastle United,"Jun 30, 2018",Rapid Vienna,TSG Hoffenheim,"1,25 mil. €"
+302,Dwight Gayle,29,177.0,Forward - Centre-Forward,Newcastle United,,,,
+303,Yoshinori Muto,27,178.0,Forward - Centre-Forward,Newcastle United,,,,
+304,Andy Carroll,30,193.0,Forward - Centre-Forward,Newcastle United,,,,
+305,Angus Gunn,23,196.0,Goalkeeper,Southampton FC,"May 31, 2018Jul 1, 2017",NorwichMan City,Man CityNorwich,"2,00 mil. €250 K €"
+306,Alex McCarthy,29,193.0,Goalkeeper,Southampton FC,,,,
+307,Jannik Vestergaard,27,199.0,Defender - Centre-Back,Southampton FC,,,,
+308,Jan Bednarek,23,189.0,Defender - Centre-Back,Southampton FC,"Jul 1, 2017",Lech Poznan,Southampton,500 K €
+309,Jack Stephens,25,185.0,Defender - Centre-Back,Southampton FC,,,,
+310,Kevin Danso,21,190.0,Defender - Centre-Back,Southampton FC,,,,
+311,Maya Yoshida,31,189.0,Defender - Centre-Back,Southampton FC,,,,
+312,Ryan Bertrand,30,179.0,Defender - Left-Back,Southampton FC,,,,
+313,Sam McQueen,24,181.0,Defender - Left-Back,Southampton FC,,,,
+314,Cédric Soares,28,171.0,Defender - Right-Back,Southampton FC,,,,
+315,Yan Valery,20,180.0,Defender - Right-Back,Southampton FC,,,,
+316,Oriol Romeu,28,183.0,Midfielder - Defensive Midfield,Southampton FC,,,,
+317,James Ward-Prowse,24,177.0,Midfielder - Central Midfield,Southampton FC,,,,
+318,Pierre-Emile Höjbjerg,24,185.0,Midfielder - Central Midfield,Southampton FC,,,,
+319,Stuart Armstrong,27,183.0,Midfielder - Central Midfield,Southampton FC,,,,
+320,Nathan Redmond,25,173.0,Forward - Left Winger,Southampton FC,,,,
+321,Moussa Djenepo,21,177.0,Forward - Left Winger,Southampton FC,"Jul 1, 2017",Yeelen,Standard Liège,
+322,Sofiane Boufal,26,175.0,Forward - Left Winger,Southampton FC,,,,
+323,Danny Ings,27,178.0,Forward - Centre-Forward,Southampton FC,,,,
+324,Che Adams,23,179.0,Forward - Centre-Forward,Southampton FC,,,,
+325,Shane Long,32,180.0,Forward - Centre-Forward,Southampton FC,,,,
+326,Michael Obafemi,19,170.0,Forward - Centre-Forward,Southampton FC,,,,
+327,Wayne Hennessey,32,197.0,Goalkeeper,Crystal Palace,,,,
+328,Vicente Guaita,32,190.0,Goalkeeper,Crystal Palace,,,,
+329,Stephen Henderson,31,188.0,Goalkeeper,Crystal Palace,"May 31, 2018Jan 31, 2018",PortsmouthNottm Forest,Nottm ForestPortsmouth,
+330,Dion Henry,22,192.0,Goalkeeper,Crystal Palace,"Aug 4, 2017",Peterborough,Crystal Palace,50 K €
+331,Mamadou Sakho,29,187.0,Defender - Centre-Back,Crystal Palace,"Aug 31, 2017",Liverpool,Crystal Palace,"15,00 mil. €"
+332,James Tomkins,30,192.0,Defender - Centre-Back,Crystal Palace,,,,
+333,Gary Cahill,33,193.0,Defender - Centre-Back,Crystal Palace,,,,
+334,Jairo Riedewald,23,182.0,Defender - Centre-Back,Crystal Palace,"Jul 24, 2017",Ajax,Crystal Palace,"5,00 mil. €"
+335,Scott Dann,32,194.0,Defender - Centre-Back,Crystal Palace,,,,
+336,Patrick van Aanholt,29,176.0,Defender - Left-Back,Crystal Palace,,,,
+337,Joel Ward,29,186.0,Defender - Right-Back,Crystal Palace,,,,
+338,Martin Kelly,29,191.0,Defender - Right-Back,Crystal Palace,,,,
+339,Luka Milivojevic,28,186.0,Midfielder - Defensive Midfield,Crystal Palace,,,,
+340,Cheikhou KouyatÃ©,29,189.0,Midfielder - Defensive Midfield,Crystal Palace,,,,
+341,Víctor Camarasa,25,183.0,Midfielder - Central Midfield,Crystal Palace,"Jul 1, 2017",Levante,Real Betis,"5,00 mil. €"
+342,James McArthur,32,178.0,Midfielder - Central Midfield,Crystal Palace,,,,
+343,James McCarthy,28,180.0,Midfielder - Central Midfield,Crystal Palace,,,,
+344,Jeffrey Schlupp,26,178.0,Midfielder - Left Midfield,Crystal Palace,,,,
+345,Max Meyer,24,173.0,Midfielder - Attacking Midfield,Crystal Palace,,,,
+346,Wilfried Zaha,26,180.0,Forward - Right Winger,Crystal Palace,,,,
+347,Andros Townsend,28,181.0,Forward - Right Winger,Crystal Palace,,,,
+348,Christian Benteke,28,190.0,Forward - Centre-Forward,Crystal Palace,,,,
+349,Jordan Ayew,28,182.0,Forward - Centre-Forward,Crystal Palace,,,,
+350,Connor Wickham,26,189.0,Forward - Centre-Forward,Crystal Palace,,,,
+351,Ben Foster,36,193.0,Goalkeeper,Watford FC,,,,
+352,Heurelho Gomes,38,191.0,Goalkeeper,Watford FC,,,,
+353,Pontus Dahlberg,20,195.0,Goalkeeper,Watford FC,"Jun 30, 2018Feb 1, 2018Jan 31, 2018",IFK GöteborgWatfordIFK Göteborg,WatfordIFK GöteborgWatford,"1,00 mil. €800 K €800 K €"
+354,Daniel Bachmann,25,191.0,Goalkeeper,Watford FC,"Jul 1, 2017",Stoke City,Watford,250 K €
+355,Christian Kabasele,28,187.0,Defender - Centre-Back,Watford FC,,,,
+356,Craig Dawson,29,188.0,Defender - Centre-Back,Watford FC,,,,
+357,Craig Cathcart,30,189.0,Defender - Centre-Back,Watford FC,,,,
+358,Adrian Mariappa,33,179.0,Defender - Centre-Back,Watford FC,,,,
+359,Sebastian Prödl,32,194.0,Defender - Centre-Back,Watford FC,,,,
+360,Adam Masina,25,191.0,Defender - Left-Back,Watford FC,,,,
+361,Marvin Zeegelaar,29,186.0,Defender - Left-Back,Watford FC,"Aug 31, 2017",Sporting CP,Watford,"3,50 mil. €"
+362,José Holebas,35,184.0,Defender - Left-Back,Watford FC,,,,
+363,Daryl Janmaat,30,185.0,Defender - Right-Back,Watford FC,,,,
+364,Kiko Femenía,28,171.0,Defender - Right-Back,Watford FC,"Jul 1, 2017",Alavés,Watford,"4,00 mil. €"
+365,Dimitri Foulquier,26,183.0,Defender - Right-Back,Watford FC,"Jun 30, 2018Aug 26, 2017Aug 25, 2017",R. StrasbourgWatfordGranada CF,WatfordR. StrasbourgWatford,"2,00 mil. €2,00 mil. €2,00 mil. €"
+366,Étienne Capoue,31,189.0,Midfielder - Defensive Midfield,Watford FC,,,,
+367,Nathaniel Chalobah,24,185.0,Midfielder - Defensive Midfield,Watford FC,"Jul 13, 2017",Chelsea,Watford,
+368,Abdoulaye Doucouré,26,183.0,Midfielder - Central Midfield,Watford FC,,,,
+369,Will Hughes,24,185.0,Midfielder - Central Midfield,Watford FC,"Jul 1, 2017",Derby,Watford,"8,00 mil. €"
+370,Tom Cleverley,30,175.0,Midfielder - Central Midfield,Watford FC,"Jul 1, 2017",Everton,Watford,"8,00 mil. €"
+371,Domingos Quina,19,173.0,Midfielder - Central Midfield,Watford FC,,,,0.0
+372,Tom Dele-Bashiru,20,179.0,Midfielder - Central Midfield,Watford FC,"Jul 1, 2017",Man City U18,Man City U23,0
+373,Roberto Pereyra,28,182.0,Midfielder - Attacking Midfield,Watford FC,,,,
+374,Isaac Success,23,182.0,Forward - Left Winger,Watford FC,"Jun 30, 2018Jan 31, 2018",Málaga CFWatford,WatfordMálaga CF,"2,00 mil. €4,00 mil. €"
+375,Ismaïla Sarr,21,185.0,Forward - Right Winger,Watford FC,"Jul 26, 2017",FC Metz,Stade Rennais,"2,50 mil. €"
+376,Gerard Deulofeu,25,177.0,Forward - Right Winger,Watford FC,"Jun 30, 2018Jan 29, 2018Jul 1, 2017",WatfordFC BarcelonaEverton,FC BarcelonaWatfordFC Barcelona,"14,00 mil. €14,00 mil. €12,00 mil. €"
+377,Andre Gray,28,178.0,Forward - Centre-Forward,Watford FC,"Aug 9, 2017",Burnley,Watford,"10,00 mil. €"
+378,Danny Welbeck,28,185.0,Forward - Centre-Forward,Watford FC,,,,
+379,Troy Deeney,31,184.0,Forward - Centre-Forward,Watford FC,,,,
+380,Mathew Ryan,27,184.0,Goalkeeper,Brighton & Hove Albion,"Jul 1, 2017",Valencia,Brighton,"3,50 mil. €"
+381,David Button,30,191.0,Goalkeeper,Brighton & Hove Albion,,,,
+382,Jason Steele,29,188.0,Goalkeeper,Brighton & Hove Albion,"Jul 26, 2017",Blackburn,Sunderland,"1,00 mil. €"
+383,Lewis Dunk,27,192.0,Defender - Centre-Back,Brighton & Hove Albion,,,,
+384,Adam Webster,24,190.0,Defender - Centre-Back,Brighton & Hove Albion,,,,
+385,Shane Duffy,27,193.0,Defender - Centre-Back,Brighton & Hove Albion,,,,
+386,Dan Burn,27,201.0,Defender - Centre-Back,Brighton & Hove Albion,,,,
+387,Leon Balogun,31,190.0,Defender - Centre-Back,Brighton & Hove Albion,,,,
+388,Bernardo,24,186.0,Defender - Left-Back,Brighton & Hove Albion,,,,
+389,Gaëtan Bong,31,183.0,Defender - Left-Back,Brighton & Hove Albion,,,,
+390,Martín Montoya,28,175.0,Defender - Right-Back,Brighton & Hove Albion,,,,
+391,Ezequiel Schelotto,30,187.0,Defender - Right-Back,Brighton & Hove Albion,"Aug 31, 2017",Sporting CP,Brighton,"4,50 mil. €"
+392,Tudor Baluta,20,191.0,Midfielder - Defensive Midfield,Brighton & Hove Albion,,,,
+393,Yves Bissouma,23,182.0,Midfielder - Central Midfield,Brighton & Hove Albion,,,,
+394,Davy Pröpper,28,185.0,Midfielder - Central Midfield,Brighton & Hove Albion,"Aug 7, 2017",PSV Eindhoven,Brighton,"10,00 mil. €"
+395,Aaron Mooy,29,179.0,Midfielder - Central Midfield,Brighton & Hove Albion,"Jul 1, 2017",Man City,Huddersfield,"5,00 mil. €"
+396,Pascal Groß,28,181.0,Midfielder - Central Midfield,Brighton & Hove Albion,"Jul 1, 2017",FC Ingolstadt,Brighton,"4,00 mil. €"
+397,Dale Stephens,29,185.0,Midfielder - Central Midfield,Brighton & Hove Albion,,,,
+398,Andrew Crofts,35,175.0,Midfielder - Central Midfield,Brighton & Hove Albion,"Aug 31, 2017",Charlton,Scunthorpe Utd.,500 K €
+399,Solly March,25,180.0,Midfielder - Left Midfield,Brighton & Hove Albion,,,,
+400,Steven Alzate,21,180.0,Midfielder - Attacking Midfield,Brighton & Hove Albion,,,,0.0
+401,Leandro Trossard,24,172.0,Forward - Left Winger,Brighton & Hove Albion,,,,
+402,José Izquierdo,27,171.0,Forward - Left Winger,Brighton & Hove Albion,"Aug 20, 2017",Club Brugge,Brighton,"14,00 mil. €"
+403,Alireza Jahanbakhsh,26,180.0,Forward - Right Winger,Brighton & Hove Albion,,,,
+404,Neal Maupay,23,173.0,Forward - Centre-Forward,Brighton & Hove Albion,"Jul 14, 2017",Saint-Étienne,Brentford,"2,00 mil. €"
+405,Glenn Murray,36,186.0,Forward - Centre-Forward,Brighton & Hove Albion,,,,
+406,Aaron Connolly,19,175.0,Forward - Centre-Forward,Brighton & Hove Albion,,,,0.0
+407,Nick Pope,27,197.0,Goalkeeper,Burnley FC,,,,
+408,Joe Hart,32,196.0,Goalkeeper,Burnley FC,"May 31, 2018Jul 18, 2017",West HamMan City,Man CityWest Ham,"10,00 mil. €13,00 mil. €"
+409,Bailey Peacock-Farrell,22,194.0,Goalkeeper,Burnley FC,"Nov 12, 2017Oct 12, 2017",York CityLeeds,LeedsYork City,100 K €100 K €
+410,Adam Legzdins,32,190.0,Goalkeeper,Burnley FC,"Aug 8, 2017",Birmingham,Burnley,250 K €
+411,James Tarkowski,26,185.0,Defender - Centre-Back,Burnley FC,,,,
+412,Ben Mee,30,180.0,Defender - Centre-Back,Burnley FC,,,,
+413,Ben Gibson,26,185.0,Defender - Centre-Back,Burnley FC,,,,
+414,Kevin Long,29,188.0,Defender - Centre-Back,Burnley FC,,,,
+415,Charlie Taylor,26,176.0,Defender - Left-Back,Burnley FC,"Jul 6, 2017",Leeds,Burnley,
+416,Erik Pieters,31,183.0,Defender - Left-Back,Burnley FC,,,,
+417,Matthew Lowton,30,180.0,Defender - Right-Back,Burnley FC,,,,
+418,Phil Bardsley,34,180.0,Defender - Right-Back,Burnley FC,"Jul 25, 2017",Stoke City,Burnley,"1,50 mil. €"
+419,Jack Cork,30,185.0,Midfielder - Defensive Midfield,Burnley FC,"Jul 11, 2017",Swansea,Burnley,
+420,Ashley Westwood,29,174.0,Midfielder - Defensive Midfield,Burnley FC,,,,
+421,Jeff Hendrick,27,185.0,Midfielder - Central Midfield,Burnley FC,,,,
+422,Danny Drinkwater,29,177.0,Midfielder - Central Midfield,Burnley FC,"Aug 31, 2017",Leicester,Chelsea,
+423,Robbie Brady,27,176.0,Midfielder - Left Midfield,Burnley FC,,,,
+424,Dwight McNeil,19,183.0,Forward - Left Winger,Burnley FC,,,,0.0
+425,Johann Berg Gudmundsson,28,186.0,Forward - Right Winger,Burnley FC,,,,
+426,Aaron Lennon,32,165.0,Forward - Right Winger,Burnley FC,"Jan 23, 2018",Everton,Burnley,"5,00 mil. €"
+427,Chris Wood,27,191.0,Forward - Centre-Forward,Burnley FC,"Aug 21, 2017",Leeds,Burnley,"6,00 mil. €"
+428,Ashley Barnes,29,186.0,Forward - Centre-Forward,Burnley FC,,,,
+429,Jay Rodríguez,30,185.0,Forward - Centre-Forward,Burnley FC,"Jul 2, 2017",Southampton,West Brom,
+430,Matej Vydra,27,180.0,Forward - Centre-Forward,Burnley FC,,,,
+431,Tom Heaton,33,188.0,Goalkeeper,Aston Villa,,,,
+432,Lovre Kalinic,29,201.0,Goalkeeper,Aston Villa,,,,
+433,Jed Steer,27,182.0,Goalkeeper,Aston Villa,,,,
+434,Örjan Nyland,29,192.0,Goalkeeper,Aston Villa,,,,
+435,Tyrone Mings,26,195.0,Defender - Centre-Back,Aston Villa,,,,
+436,BjÃ¶rn Engels,25,194.0,Defender - Centre-Back,Aston Villa,"Aug 31, 2017",Club Brugge,Olympiacos,"8,00 mil. â‚¬"
+437,James Chester,30,177.0,Defender - Centre-Back,Aston Villa,,,,
+438,Ezri Konsa,21,183.0,Defender - Centre-Back,Aston Villa,,,,
+439,Kortney Hause,24,191.0,Defender - Centre-Back,Aston Villa,,,,
+440,Matt Targett,24,183.0,Defender - Left-Back,Aston Villa,"May 31, 2018Jan 22, 2018",FulhamSouthampton,SouthamptonFulham,"3,00 mil. €3,00 mil. €"
+441,Neil Taylor,30,176.0,Defender - Left-Back,Aston Villa,,,,
+442,Frédéric Guilbert,24,178.0,Defender - Right-Back,Aston Villa,"Jul 28, 2017",G. Bordeaux,SM Caen,"2,50 mil. €"
+443,Ahmed Elmohamady,32,182.0,Defender - Right-Back,Aston Villa,"Jul 19, 2017",Hull City,Aston Villa,"4,00 mil. €"
+444,Marvelous Nakamba,25,177.0,Midfielder - Defensive Midfield,Aston Villa,"Jul 1, 2017",Vitesse,Club Brugge,"3,00 mil. €"
+445,Douglas Luiz,21,178.0,Midfielder - Central Midfield,Aston Villa,"Aug 1, 2017Jul 15, 2017",Man CityVasco da Gama,GironaMan City,0
+446,John McGinn,25,178.0,Midfielder - Central Midfield,Aston Villa,,,,
+447,Conor Hourihane,28,181.0,Midfielder - Central Midfield,Aston Villa,,,,
+448,Henri Lansbury,29,183.0,Midfielder - Central Midfield,Aston Villa,,,,
+449,Jack Grealish,24,175.0,Midfielder - Attacking Midfield,Aston Villa,,,,
+450,Trezeguet,25,179.0,Forward - Left Winger,Aston Villa,"Jun 30, 2018Jul 5, 2017",KasimpasaRSC Anderlecht,RSC AnderlechtKasimpasa,"3,50 mil. €1,50 mil. €"
+451,Anwar El Ghazi,24,189.0,Forward - Right Winger,Aston Villa,,,,
+452,Jota,28,180.0,Forward - Right Winger,Aston Villa,"Aug 31, 2017",Brentford,Birmingham,
+453,Wesley,22,191.0,Forward - Centre-Forward,Aston Villa,,,,
+454,Jonathan Kodjia,29,189.0,Forward - Centre-Forward,Aston Villa,,,,
+455,Keinan Davis,21,178.0,Forward - Centre-Forward,Aston Villa,,,,0.0
+456,Tim Krul,31,193.0,Goalkeeper,Norwich City,"Sep 20, 2017Sep 19, 2017Aug 31, 2017",NewcastleBrightonNewcastle,BrightonNewcastleBrighton,"4,00 mil. €4,00 mil. €4,00 mil. €"
+457,Ralf Fährmann,31,197.0,Goalkeeper,Norwich City,,,,
+458,Michael McGovern,35,190.0,Goalkeeper,Norwich City,,,,
+459,Ben Godfrey,21,183.0,Defender - Centre-Back,Norwich City,"May 31, 2018Aug 24, 2017",ShrewsburyNorwich,NorwichShrewsbury,
+460,Christoph Zimmermann,26,194.0,Defender - Centre-Back,Norwich City,"Jul 1, 2017",B. Dortmund II,Norwich,250 K €
+461,Grant Hanley,27,188.0,Defender - Centre-Back,Norwich City,"Aug 30, 2017",Newcastle,Norwich,"4,50 mil. €"
+462,Timm Klose,31,195.0,Defender - Centre-Back,Norwich City,,,,
+463,Jamal Lewis,21,,Defender - Left-Back,Norwich City,,,,0.0
+464,Philip Heise,28,184.0,Defender - Left-Back,Norwich City,,,,
+465,Max Aarons,19,178.0,Defender - Right-Back,Norwich City,,,,0.0
+466,Sam Byram,26,183.0,Defender - Right-Back,Norwich City,,,,
+467,Ibrahim Amadou,26,183.0,Midfielder - Defensive Midfield,Norwich City,,,,
+468,Tom Trybull,26,181.0,Midfielder - Defensive Midfield,Norwich City,"Aug 4, 2017",ADO Den Haag,Norwich,650 K €
+469,Alexander Tettey,33,181.0,Midfielder - Defensive Midfield,Norwich City,,,,
+470,Mario Vrancic,30,187.0,Midfielder - Central Midfield,Norwich City,"Jul 1, 2017",SV Darmstadt 98,Norwich,"1,25 mil. €"
+471,Moritz Leitner,26,174.0,Midfielder - Central Midfield,Norwich City,"Jun 30, 2018Jan 25, 2018",NorwichFC Augsburg,FC AugsburgNorwich,
+472,Kenny McLean,27,180.0,Midfielder - Central Midfield,Norwich City,"May 14, 2018Jan 23, 2018Jan 22, 2018",Aberdeen FCNorwichAberdeen FC,NorwichAberdeen FCNorwich,650 K €600 K €600 K €
+473,Todd Cantwell,21,177.0,Midfielder - Left Midfield,Norwich City,"Jun 30, 2018Jan 28, 2018",Fortuna SittardNorwich U23,Norwich U23Fortuna Sittard,
+474,Marco Stiepermann,28,190.0,Midfielder - Attacking Midfield,Norwich City,"Aug 6, 2017",VfL Bochum,Norwich,900 K €
+475,Onel Hernández,26,172.0,Forward - Left Winger,Norwich City,"Jan 25, 2018",E. Braunschweig,Norwich,
+476,Emiliano Buendía,22,172.0,Forward - Right Winger,Norwich City,"Jun 30, 2018Jul 27, 2017",CyD LeonesaGetafe,GetafeCyD Leonesa,"2,50 mil. €500 K €"
+477,Patrick Roberts,22,167.0,Forward - Right Winger,Norwich City,"May 21, 2018Aug 28, 2017",CelticMan City,Man CityCeltic,"7,50 mil. €7,50 mil. €"
+478,Teemu Pukki,29,180.0,Forward - Centre-Forward,Norwich City,,,,
+479,Josip Drmic,27,184.0,Forward - Centre-Forward,Norwich City,,,,
+480,Dennis Srbeny,25,190.0,Forward - Centre-Forward,Norwich City,"Jan 25, 2018Jul 1, 2017",SC PaderbornBFC Dynamo,NorwichSC Paderborn,400 K €175 K €
+481,Dean Henderson,22,188.0,Goalkeeper,Sheffield United,"May 31, 2018Jul 10, 2017",ShrewsburyMan Utd U23,Man Utd U23Shrewsbury,250 K €100 K €
+482,Michael Verrips,22,196.0,Goalkeeper,Sheffield United,"Jun 30, 2018Aug 7, 2017",MVV MaastrichtSparta R.,Sparta R.MVV Maastricht,250 K €100 K €
+483,Simon Moore,29,191.0,Goalkeeper,Sheffield United,,,,
+484,John Egan,26,185.0,Defender - Centre-Back,Sheffield United,,,,
+485,Jack O'Connell,25,191.0,Defender - Centre-Back,Sheffield United,,,,
+486,Chris Basham,31,190.0,Defender - Centre-Back,Sheffield United,,,,
+487,Phil Jagielka,37,180.0,Defender - Centre-Back,Sheffield United,,,,
+488,Richard Stearman,32,191.0,Defender - Centre-Back,Sheffield United,"Jul 6, 2017",Fulham,Sheffield Utd.,"1,50 mil. €"
+489,Kean Bryan,22,185.0,Defender - Centre-Back,Sheffield United,"May 31, 2018Aug 31, 2017",Oldham AthleticMan City U23,Man City U23Oldham Athletic,
+490,Enda Stevens,29,183.0,Defender - Left-Back,Sheffield United,"Jul 1, 2017",Portsmouth,Sheffield Utd.,250 K €
+491,George Baldock,26,178.0,Defender - Right-Back,Sheffield United,"Jul 1, 2017",MK Dons,Sheffield Utd.,150 K €
+492,Kieron Freeman,27,178.0,Defender - Right-Back,Sheffield United,,,,
+493,Muhamed Besic,27,180.0,Midfielder - Defensive Midfield,Sheffield United,"May 31, 2018Jan 31, 2018",MiddlesbroughEverton,EvertonMiddlesbrough,"5,00 mil. €5,00 mil. €"
+494,John Fleck,28,169.0,Midfielder - Central Midfield,Sheffield United,,,,
+495,Oliver Norwood,28,175.0,Midfielder - Central Midfield,Sheffield United,"May 31, 2018Jul 25, 2017",FulhamBrighton,BrightonFulham,"3,00 mil. €2,50 mil. €"
+496,John Lundstram,25,181.0,Midfielder - Central Midfield,Sheffield United,"Jul 25, 2017",Oxford United,Sheffield Utd.,500 K €
+497,Ben Osborn,25,176.0,Midfielder - Left Midfield,Sheffield United,,,,
+498,Luke Freeman,27,176.0,Midfielder - Attacking Midfield,Sheffield United,,,,
+499,Ravel Morrison,26,175.0,Midfielder - Attacking Midfield,Sheffield United,"Jun 30, 2018Aug 31, 2017",AtlasLazio,LazioAtlas,600 K €350 K €
+500,Callum Robinson,24,178.0,Forward - Left Winger,Sheffield United,,,,
+501,Ricky Holmes,32,188.0,Forward - Left Winger,Sheffield United,"Jan 15, 2018",Charlton,Sheffield Utd.,250 K €
+502,Oliver McBurnie,23,188.0,Forward - Centre-Forward,Sheffield United,"May 31, 2018Jan 31, 2018",Barnsley FCSwansea,SwanseaBarnsley FC,"1,00 mil. €1,00 mil. €"
+503,Lys Mousset,23,184.0,Forward - Centre-Forward,Sheffield United,,,,
+504,Billy Sharp,33,175.0,Forward - Centre-Forward,Sheffield United,,,,
+505,David McGoldrick,31,184.0,Forward - Centre-Forward,Sheffield United,,,,
+506,Leon Clarke,34,188.0,Forward - Centre-Forward,Sheffield United,,,,
