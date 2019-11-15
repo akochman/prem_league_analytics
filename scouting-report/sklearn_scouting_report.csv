@@ -1,0 +1,128 @@
+,Target,Club,Arsenal Player,Predicted,FIFA Value
+132,C. John,Wolverhampton Wanderers,J. Osei-Tutu,186398.70290474713,130000.0
+131,C. Whelan,Crewe Alexandra,J. Osei-Tutu,180656.8387013168,140000.0
+129,B. Jerez,Colo-Colo,J. Osei-Tutu,231407.96747864757,180000.0
+130,M. Hazazi,Al Fateh,C. Bramall,406941.61966893676,180000.0
+128,R. Trif,Gaz Metan Mediaş,J. Osei-Tutu,196199.656350496,190000.0
+127,L. Barnett,Northampton Town,K. Mavropanos,456025.1615604335,260000.0
+126,M. Kilgallon,Hamilton Academical FC,K. Mavropanos,387496.9916220905,270000.0
+125,O. Malolo,HJK Helsinki,C. Bramall,382448.53876974393,270000.0
+124,A. Llovet,Montpellier HSC,E. Smith Rowe,316969.35106127156,280000.0
+123,J. Finnerty,Bohemian FC,Z. Medley,231613.49737823763,290000.0
+122,T. Rieder,SV Darmstadt 98,Z. Medley,255961.22665326967,290000.0
+121,J. Yarney,Morecambe,Z. Medley,257532.83672962655,325000.0
+120,A. McCalmont,Leeds United,J. Willock,373105.57854620565,325000.0
+119,G. Cardozo,Extremadura UD,Z. Medley,216044.3511277902,350000.0
+118,M. Prezioso,Carpi,J. Willock,380712.67946314364,375000.0
+117,Y. Etienne,KSV Cercle Brugge,C. Bramall,518463.329133137,400000.0
+115,R. Peiponen,HJK Helsinki,C. Bramall,479100.56431206857,425000.0
+116,J. Leutwiler,Blackburn Rovers,E. Martínez,728223.6015067906,425000.0
+113,J. Weir,Hull City,J. Willock,345177.9022794959,450000.0
+112,L. Spence,Dundee FC,J. Willock,386750.9714004846,450000.0
+114,E. Gyasi,Spezia,E. Smith Rowe,255722.163932865,450000.0
+111,Edison Tarabai,Al Batin,E. Nketiah,1207051.6870743902,475000.0
+110,J. Büscher,DC United,G. Zelalem,596303.996295274,475000.0
+109,B. van Hintum,Heracles Almelo,M. Guendouzi,1031456.6030566675,500000.0
+108,João Gabriel,Al Batin,K. Mavropanos,454178.7047227849,500000.0
+107,C. Gravius,Jönköpings Södra IF,G. Zelalem,706676.4794992403,550000.0
+106,J. Salcedo,Once Caldas,E. Nketiah,1067730.017712989,550000.0
+105,N. Kühn,RB Leipzig,E. Smith Rowe,233119.06100026472,550000.0
+104,Éverton Luiz,SPAL,C. Jenkinson,1351597.839196798,575000.0
+103,P. Martínez,Club Atlético Lanús,E. Smith Rowe,263451.0786975335,600000.0
+102,P. Ayongo,FC Paços de Ferreira,E. Nketiah,804289.0387548406,650000.0
+101,B. Vriends,Sparta Rotterdam,K. Mavropanos,613271.5901198691,650000.0
+98,J. Ryan,Blackpool,A. Maitland-Niles,1904390.7447147705,725000.0
+100,J. Alnwick,Scunthorpe United,E. Martínez,801896.6011543368,725000.0
+99,J. Thiaré,Le Havre AC,E. Nketiah,871530.4725985919,725000.0
+97,C. Tosun,Trabzonspor,G. Zelalem,672680.557522097,750000.0
+96,K. Steppe,Sint-Truidense VV,E. Martínez,1098513.9678013013,825000.0
+95,Trashorras,Rayo Vallecano,G. Xhaka,2012849.254856937,900000.0
+94,G. Carrasco,Club Atlético Lanús,Pleguezuelo,660980.2188205096,900000.0
+93,L. Zander,FC St. Pauli,Pleguezuelo,722588.2698002444,900000.0
+92,Campabadal,CD Lugo,Pleguezuelo,814614.9575268299,975000.0
+91,Fábio Nunes,CD Tondela,A. Maitland-Niles,2071167.2987562665,1000000.0
+90,R. Tunnicliffe,Millwall,M. Guendouzi,1156613.2192928644,1100000.0
+89,Bicho,Deportivo de La Coruña,G. Zelalem,777737.445540446,1100000.0
+88,K. Adenon,Amiens SC,R. Holding,1698415.6858496612,1200000.0
+87,G. Hamer,PEC Zwolle,A. Maitland-Niles,1726154.431179829,1200000.0
+86,Li Xuepeng,Guangzhou Evergrande Taobao FC,M. Guendouzi,1174542.4192926118,1300000.0
+85,Undabarrena,CD Tenerife,M. Guendouzi,1169288.3779220914,1300000.0
+84,M. Matvienko,Shakhtar Donetsk,Pleguezuelo,747877.0736862735,1500000.0
+83,Guga Rodrigues,Famalicão,A. Maitland-Niles,2299463.3396555902,1500000.0
+82,C. Diandy,Sporting de Charleroi,C. Jenkinson,1528691.777608047,1700000.0
+80,F. Lecarnado,CD Palestino,A. Iwobi,2704041.2294555944,1900000.0
+81,F. Bradarić,Cagliari,C. Jenkinson,1142106.6311035363,1900000.0
+79,Iraola,New York City FC,Nacho Monreal,5934388.461937164,2000000.0
+78,K. Adénon,Amiens SC,R. Holding,1838564.4637572023,2300000.0
+77,A. Kerzhakov,Zenit St. Petersburg,D. Welbeck,5735349.308925721,2700000.0
+76,A. Gnoukouri,Inter,C. Jenkinson,1326691.1334077565,2800000.0
+75,D. Roef,Waasland-Beveren,E. Martínez,1523355.1546607397,2900000.0
+74,L. Cinterio,Deportes Iquique,A. Iwobi,2344928.426246576,3000000.0
+73,M. Yanga-Mbiwa,Olympique Lyonnais,R. Holding,1842711.756539283,3100000.0
+72,S. Wuytens,AZ Alkmaar,M. Elneny,3831753.7830619277,3200000.0
+71,Gustavo Lobateiro,Internacional,A. Iwobi,2515089.868032063,3800000.0
+70,T. Lees,Sheffield Wednesday,R. Holding,1931364.7855824884,3800000.0
+69,N. Hult,AEK Athens,Héctor Bellerín,3976237.6824089116,4400000.0
+68,I. Denisov,Lokomotiv Moscow,S. Lichtsteiner,5997130.098144018,4500000.0
+67,F. Belluschi,San Lorenzo de Almagro,A. Ramsey,9028382.919247156,5000000.0
+66,A. Miranchuk,Lokomotiv Moscow,A. Iwobi,2937542.5870684613,5500000.0
+64,Pepe Reina,Milan,B. Leno,8866799.436276615,6000000.0
+65,C. Kouyaté,Crystal Palace,S. Kolašinac,4568869.477707569,6000000.0
+62,Juiano Mestres,Cruzeiro,S. Kolašinac,6444297.619243346,6500000.0
+63,M. Noble,West Ham United,G. Xhaka,3430295.317210635,6500000.0
+61,Fabrício,Urawa Red Diamonds,D. Welbeck,6526211.1933057085,7000000.0
+60,J. McArthur,Crystal Palace,M. Elneny,5369748.372181276,7000000.0
+59,Javi García,Real Betis,S. Kolašinac,5541563.400875477,7000000.0
+58,J. Briand,FC Girondins de Bordeaux,D. Welbeck,6604736.570286964,7000000.0
+57,Y. Bounou,Girona FC,P. Čech,2263264.6070409287,7500000.0
+56,Recio,CD Leganés,G. Xhaka,3260921.1731456784,8000000.0
+55,M. Lowton,Burnley,Nacho Monreal,6646932.097685958,8000000.0
+53,M. Lowton,Burnley,S. Lichtsteiner,6646932.097685958,8000000.0
+51,D. Abraham,Eintracht Frankfurt,S. Mustafi,4716487.722875518,8500000.0
+50,N. Vukčević,Levante UD,S. Mustafi,5709689.021352585,9000000.0
+44,Iturraspe,Athletic Club de Bilbao,G. Xhaka,3839045.9414596045,10000000.0
+45,J. Hector,1. FC Köln,S. Lichtsteiner,6177984.527089284,10000000.0
+47,J. Hector,1. FC Köln,Nacho Monreal,6177984.527089284,10000000.0
+49,M. Schneiderlin,Everton,M. Elneny,5533079.641757938,10000000.0
+43,D. Garmash,Dynamo Kyiv,M. Elneny,5004013.668568243,10500000.0
+42,S. Tasci,Spartak Moscow,L. Koscielny,5751622.604427154,11000000.0
+41,S. Coleman,Everton,S. Lichtsteiner,6772819.565473314,11000000.0
+40,Wendell,Bayer 04 Leverkusen,Héctor Bellerín,4704605.590356054,11000000.0
+39,S. Mandanda,Olympique de Marseille,B. Leno,8335649.690010436,13000000.0
+38,Nani,Sporting CP,M. Özil,6452723.4449233245,13000000.0
+37,N. Barella,Cagliari,L. Torreira,3637615.896169604,13500000.0
+36,S. Bender,Bayer 04 Leverkusen,L. Koscielny,6272421.398994129,14000000.0
+35,V. Rongier,FC Nantes,L. Torreira,5108693.777998914,14000000.0
+34,Gayà,Valencia CF,L. Torreira,5549945.587609378,14000000.0
+33,A. Dzagoev,PFC CSKA Moscow,A. Ramsey,8572936.875150533,14500000.0
+32,E. Viviano,Sporting CP,P. Čech,6332275.512005325,15000000.0
+31,Marcano,Roma,Sokratis,6487030.345826276,15000000.0
+30,T. Strakosha,Lazio,P. Čech,2466779.2660209257,15500000.0
+29,K. Gameiro,Valencia CF,A. Lacazette,16049719.3673148,16000000.0
+28,M. Meyer,Crystal Palace,L. Torreira,7150149.974212571,16000000.0
+27,A. Lallana,Liverpool,A. Ramsey,7177730.190227885,16500000.0
+26,F. Ribéry,FC Bayern München,M. Özil,12429580.86147943,17000000.0
+25,T. Bakayoko,Milan,S. Mustafi,5489654.11130253,17000000.0
+24,A. Rüdiger,Chelsea,L. Koscielny,6414726.820351302,18500000.0
+23,Odriozola,Real Madrid,Héctor Bellerín,4615579.6534673525,18500000.0
+22,S. Ruffier,AS Saint-Étienne,B. Leno,8021038.776221001,19000000.0
+21,M. de Ligt,Ajax,S. Mustafi,5734373.9978841655,20500000.0
+20,Marlos,Shakhtar Donetsk,H. Mkhitaryan,10201017.083767224,21000000.0
+19,D. Wass,Valencia CF,A. Ramsey,9345069.78725253,21500000.0
+18,E. Bailly,Manchester United,Sokratis,5646012.648704516,25000000.0
+17,W. Szczęsny,Juventus,B. Leno,8847357.795911288,26000000.0
+16,C. Bakambu,Beijing Sinobo Guoan FC,P. Aubameyang,13405668.979535034,26000000.0
+15,J. Lingard,Manchester United,H. Mkhitaryan,10641682.316076405,26500000.0
+14,E. Forsberg,RB Leipzig,M. Özil,11734034.93314115,27000000.0
+13,Kepa,Chelsea,P. Čech,6563620.7265558895,28500000.0
+12,A. Di María,Paris Saint-Germain,H. Mkhitaryan,14748019.066717198,29500000.0
+11,Luis Alberto,Lazio,M. Özil,13332446.408120407,30000000.0
+10,M. Benatia,Juventus,Sokratis,10157220.22404739,30000000.0
+9,S. de Vrij,Inter,L. Koscielny,8237875.257474123,31500000.0
+8,Gerard Moreno,Villarreal CF,D. Welbeck,8369565.663204234,32000000.0
+7,M. Depay,Olympique Lyonnais,A. Lacazette,14143666.623723578,35000000.0
+5,M. Depay,Olympique Lyonnais,P. Aubameyang,14143666.623723578,35000000.0
+3,T. Lemar,Atlético Madrid,H. Mkhitaryan,12887268.723986225,35500000.0
+2,A. Martial,Manchester United,A. Lacazette,12690951.664333912,35500000.0
+1,Gabriel Jesus,Manchester City,P. Aubameyang,17466929.44276798,41000000.0
+0,M. Škriniar,Inter,Sokratis,7861611.850178886,46500000.0
