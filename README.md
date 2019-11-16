@@ -12,7 +12,9 @@ Folders:
     - This folder contains initial exploratory analysis steps to understand the data.
 3. milestone-report-1
     - This folder contains submission items for Springboard's Milestone Report 1.
-4. ml
+4. milestone-report-2
+    - This folder contains submission items for Springboard's Milestone Report 2.
+5. ml
     - This folder contains relevant work for machine learning models.
-5. souting-report
+6. souting-report
     - This folder contains the final outputs of the entire process, including full code to take clean data and run regression analysis, then output a final scouting report.
